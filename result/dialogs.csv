@@ -193,7 +193,7 @@ dlga_start:close_window.7|저주받은 강도 {reg63? Lord : Lady}! 우리 마�
 dlga_start:manhunter_talk_b|{s4}
 dlga_manhunter_talk_b:manhunter_talk_b1|용감한 민병대! 어떤 뉴스를 공유 할 수 있습니까?
 dlga_manhunter_talk_b1:manhunter_talk_b2|{s4}
-dlga_manhunter_talk_b:militia_give_troops|당신에게 군대를주고 싶습니다.
+dlga_manhunter_talk_b:militia_give_troops|당신에게 군대를 주고 싶습니다.
 dlga_militia_give_troops:militia_give_troops_continue|{reg63? M'Lord : M'Lady} 당신에게 축복, 우리는 항상 더 많은 남자를 사용할 수 있습니다. (최대 100)
 dlga_militia_give_troops_continue:manhunter_talk_b|{reg63? M'Lord : M'Lady}?
 dlga_manhunter_talk_b:manhunter_talk_b2|잘 됐네요. 당신의 임무를 계속 수행하십시오!
