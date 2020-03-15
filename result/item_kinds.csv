@@ -1,0 +1,3144 @@
+itm_no_item|잘못된 항목
+itm_no_item_pl|잘못된 항목
+itm_tutorial_spear|창
+itm_tutorial_spear_pl|창
+itm_tutorial_club|클럽
+itm_tutorial_club_pl|클럽
+itm_tutorial_battle_axe|전투 도끼
+itm_tutorial_battle_axe_pl|전투 도끼
+itm_tutorial_arrows|화살표
+itm_tutorial_arrows_pl|화살표
+itm_tutorial_bolts|볼트
+itm_tutorial_bolts_pl|볼트
+itm_tutorial_short_bow|짧은 활
+itm_tutorial_short_bow_pl|짧은 활
+itm_tutorial_crossbow|석궁
+itm_tutorial_crossbow_pl|석궁
+itm_tutorial_throwing_daggers|단검 던지기
+itm_tutorial_throwing_daggers_pl|단검 던지기
+itm_tutorial_saddle_horse|승용마
+itm_tutorial_saddle_horse_pl|승용마
+itm_tutorial_shield|연 방패
+itm_tutorial_shield_pl|연 방패
+itm_tutorial_staff_no_attack|직원
+itm_tutorial_staff_no_attack_pl|직원
+itm_tutorial_staff|직원
+itm_tutorial_staff_pl|직원
+itm_tutorial_sword|검
+itm_tutorial_sword_pl|검
+itm_tutorial_axe|도끼
+itm_tutorial_axe_pl|도끼
+itm_tutorial_dagger|단검
+itm_tutorial_dagger_pl|단검
+itm_horse_meat|말고기
+itm_horse_meat_pl|말고기
+itm_practice_sword|연습용 검
+itm_practice_sword_pl|연습용 검
+itm_heavy_practice_sword|헤비 연습용 검
+itm_heavy_practice_sword_pl|헤비 연습용 검
+itm_practice_dagger|연습 단검
+itm_practice_dagger_pl|연습 단검
+itm_practice_axe|연습용 도끼
+itm_practice_axe_pl|연습용 도끼
+itm_arena_axe|도끼
+itm_arena_axe_pl|도끼
+itm_arena_sword|검
+itm_arena_sword_pl|검
+itm_arena_sword_two_handed|양손 검
+itm_arena_sword_two_handed_pl|양손 검
+itm_arena_lance|창
+itm_arena_lance_pl|창
+itm_practice_staff|실무진
+itm_practice_staff_pl|실무진
+itm_practice_lance|랜스 연습
+itm_practice_lance_pl|랜스 연습
+itm_practice_shield|연습용 방패
+itm_practice_shield_pl|연습용 방패
+itm_practice_bow|연습 활
+itm_practice_bow_pl|연습 활
+itm_practice_crossbow|석궁 연습
+itm_practice_crossbow_pl|석궁 연습
+itm_practice_javelin|창 던지기 연습
+itm_practice_javelin_pl|창 던지기 연습
+itm_practice_javelin_melee|창 던지기 근접 연습
+itm_practice_javelin_melee_pl|창 던지기 근접 연습
+itm_practice_throwing_daggers|단검 던지기
+itm_practice_throwing_daggers_pl|단검 던지기
+itm_practice_throwing_daggers_100_amount|단검 던지기
+itm_practice_throwing_daggers_100_amount_pl|단검 던지기
+itm_practice_horse|연습용 말
+itm_practice_horse_pl|연습용 말
+itm_practice_arrows|연습 화살표
+itm_practice_arrows_pl|연습 화살표
+itm_practice_bolts|연습용 볼트
+itm_practice_bolts_pl|연습용 볼트
+itm_practice_arrows_10_amount|연습 화살표
+itm_practice_arrows_10_amount_pl|연습 화살표
+itm_practice_arrows_100_amount|연습 화살표
+itm_practice_arrows_100_amount_pl|연습 화살표
+itm_practice_bolts_9_amount|연습용 볼트
+itm_practice_bolts_9_amount_pl|연습용 볼트
+itm_practice_boots|연습용 부츠
+itm_practice_boots_pl|연습용 부츠
+itm_red_tourney_armor|레드 토너먼트 아머
+itm_red_tourney_armor_pl|레드 토너먼트 아머
+itm_blue_tourney_armor|블루 토너먼트 아머
+itm_blue_tourney_armor_pl|블루 토너먼트 아머
+itm_green_tourney_armor|그린 토너먼트 아머
+itm_green_tourney_armor_pl|그린 토너먼트 아머
+itm_gold_tourney_armor|골드 토너먼트 아머
+itm_gold_tourney_armor_pl|골드 토너먼트 아머
+itm_red_tourney_helmet|레드 토너먼트 헬멧
+itm_red_tourney_helmet_pl|레드 토너먼트 헬멧
+itm_blue_tourney_helmet|블루 토너먼트 헬멧
+itm_blue_tourney_helmet_pl|블루 토너먼트 헬멧
+itm_green_tourney_helmet|그린 토너먼트 헬멧
+itm_green_tourney_helmet_pl|그린 토너먼트 헬멧
+itm_gold_tourney_helmet|골드 토너먼트 헬멧
+itm_gold_tourney_helmet_pl|골드 토너먼트 헬멧
+itm_arena_shield_red|방패
+itm_arena_shield_red_pl|방패
+itm_arena_shield_blue|방패
+itm_arena_shield_blue_pl|방패
+itm_arena_shield_green|방패
+itm_arena_shield_green_pl|방패
+itm_arena_shield_yellow|방패
+itm_arena_shield_yellow_pl|방패
+itm_arena_armor_white|아레나 아머 화이트
+itm_arena_armor_white_pl|아레나 아머 화이트
+itm_arena_armor_red|아레나 아머 레드
+itm_arena_armor_red_pl|아레나 아머 레드
+itm_arena_armor_blue|아레나 아머 블루
+itm_arena_armor_blue_pl|아레나 아머 블루
+itm_arena_armor_green|아레나 아머 그린
+itm_arena_armor_green_pl|아레나 아머 그린
+itm_arena_armor_yellow|아레나 아머 옐로우
+itm_arena_armor_yellow_pl|아레나 아머 옐로우
+itm_arena_tunic_white|아레나 튜닉 화이트
+itm_arena_tunic_white_pl|아레나 튜닉 화이트
+itm_arena_tunic_red|아레나 튜닉 레드
+itm_arena_tunic_red_pl|아레나 튜닉 레드
+itm_arena_tunic_blue|아레나 튜닉 블루
+itm_arena_tunic_blue_pl|아레나 튜닉 블루
+itm_arena_tunic_green|아레나 튜닉 그린
+itm_arena_tunic_green_pl|아레나 튜닉 그린
+itm_arena_tunic_yellow|아레나 튜닉 옐로우
+itm_arena_tunic_yellow_pl|아레나 튜닉 옐로우
+itm_arena_helmet_red|투기장 헬멧 레드
+itm_arena_helmet_red_pl|투기장 헬멧 레드
+itm_arena_helmet_blue|아레나 헬멧 블루
+itm_arena_helmet_blue_pl|아레나 헬멧 블루
+itm_arena_helmet_green|아레나 헬멧 그린
+itm_arena_helmet_green_pl|아레나 헬멧 그린
+itm_arena_helmet_yellow|아레나 헬멧 옐로우
+itm_arena_helmet_yellow_pl|아레나 헬멧 옐로우
+itm_steppe_helmet_white|스텝 헬멧 화이트
+itm_steppe_helmet_white_pl|스텝 헬멧 화이트
+itm_steppe_helmet_red|스텝 헬멧 레드
+itm_steppe_helmet_red_pl|스텝 헬멧 레드
+itm_steppe_helmet_blue|스텝 헬멧 블루
+itm_steppe_helmet_blue_pl|스텝 헬멧 블루
+itm_steppe_helmet_green|스텝 헬멧 그린
+itm_steppe_helmet_green_pl|스텝 헬멧 그린
+itm_steppe_helmet_yellow|스텝 헬멧 옐로우
+itm_steppe_helmet_yellow_pl|스텝 헬멧 옐로우
+itm_tourney_helm_white|토너먼트 헬름 화이트
+itm_tourney_helm_white_pl|토너먼트 헬름 화이트
+itm_tourney_helm_red|토너먼트 투구 레드
+itm_tourney_helm_red_pl|토너먼트 투구 레드
+itm_tourney_helm_blue|토너먼트 헬름 블루
+itm_tourney_helm_blue_pl|토너먼트 헬름 블루
+itm_tourney_helm_green|토너먼트 헬름 그린
+itm_tourney_helm_green_pl|토너먼트 헬름 그린
+itm_tourney_helm_yellow|토너먼트 투구 옐로우
+itm_tourney_helm_yellow_pl|토너먼트 투구 옐로우
+itm_book_tactics|펜 도리아 사령관의 추억
+itm_book_tactics_pl|펜 도리아 사령관의 추억
+itm_book_persuasion|응용 수사학-Vol. 1
+itm_book_persuasion_pl|응용 수사학-Vol. 1
+itm_book_leadership|펜 도르의 위대한 지도자
+itm_book_leadership_pl|펜 도르의 위대한 지도자
+itm_book_intelligence|예술-Vol. MV
+itm_book_intelligence_pl|예술-Vol. MV
+itm_book_trade|은여우의 삶
+itm_book_trade_pl|은여우의 삶
+itm_book_weapon_mastery|사진과 함께 위대한 Fechtbuch
+itm_book_weapon_mastery_pl|사진과 함께 위대한 Fechtbuch
+itm_book_engineering|고급 엔지니어링 : Codex Dak Drommen
+itm_book_engineering_pl|고급 엔지니어링 : Codex Dak Drommen
+itm_book_wound_treatment_reference|펜 도르의 약초 요법에 대한 완전한 매뉴얼
+itm_book_wound_treatment_reference_pl|펜 도르의 약초 요법에 대한 완전한 매뉴얼
+itm_book_training_reference|군단의 삶-백부장의 추억
+itm_book_training_reference_pl|군단의 삶-백부장의 추억
+itm_book_surgery_reference|야전 외과 의사 핸드북
+itm_book_surgery_reference_pl|야전 외과 의사 핸드북
+itm_spice|기미
+itm_spice_pl|기미
+itm_salt|소금
+itm_salt_pl|소금
+itm_oil|기름
+itm_oil_pl|기름
+itm_pottery|도기류
+itm_pottery_pl|도기류
+itm_raw_flax|아마 번들
+itm_raw_flax_pl|아마 번들
+itm_linen|리넨
+itm_linen_pl|리넨
+itm_wool|양모
+itm_wool_pl|양모
+itm_wool_cloth|양모 천
+itm_wool_cloth_pl|양모 천
+itm_raw_silk|생사
+itm_raw_silk_pl|생사
+itm_raw_dyes|염료
+itm_raw_dyes_pl|염료
+itm_velvet|벨벳
+itm_velvet_pl|벨벳
+itm_iron|철
+itm_iron_pl|철
+itm_tools|도구
+itm_tools_pl|도구
+itm_raw_leather|숨 깁니다
+itm_raw_leather_pl|숨 깁니다
+itm_leatherwork|가죽 세공
+itm_leatherwork_pl|가죽 세공
+itm_raw_date_fruit|데이트 과일
+itm_raw_date_fruit_pl|데이트 과일
+itm_furs|모의
+itm_furs_pl|모의
+itm_wine|포도주
+itm_wine_pl|포도주
+itm_ale|에일
+itm_ale_pl|에일
+itm_smoked_fish|훈제 생선
+itm_smoked_fish_pl|훈제 생선
+itm_cheese|치즈
+itm_cheese_pl|치즈
+itm_honey|꿀
+itm_honey_pl|꿀
+itm_sausages|소세지
+itm_sausages_pl|소세지
+itm_cabbages|양배추
+itm_cabbages_pl|양배추
+itm_dried_meat|육포
+itm_dried_meat_pl|육포
+itm_apples|과일
+itm_apples_pl|과일
+itm_raw_grapes|포도
+itm_raw_grapes_pl|포도
+itm_raw_olives|올리브
+itm_raw_olives_pl|올리브
+itm_grain|곡물
+itm_grain_pl|곡물
+itm_cattle_meat|소고기
+itm_cattle_meat_pl|소고기
+itm_bread|빵
+itm_bread_pl|빵
+itm_chicken|치킨
+itm_chicken_pl|치킨
+itm_pork|돼지 고기
+itm_pork_pl|돼지 고기
+itm_butter|버터
+itm_butter_pl|버터
+itm_baggage_train|수하물 열차
+itm_baggage_train_pl|수하물 열차
+itm_siege_supply|용품
+itm_siege_supply_pl|용품
+itm_quest_wine|포도주
+itm_quest_wine_pl|포도주
+itm_quest_ale|에일
+itm_quest_ale_pl|에일
+itm_gold|골드 바
+itm_gold_pl|골드 바
+itm_qualis|퀄리스 보석
+itm_qualis_pl|퀄리스 보석
+itm_noldor_goods|Noldor 무역 용품
+itm_noldor_goods_pl|Noldor 무역 용품
+itm_loot|다양한 전리품
+itm_loot_pl|다양한 전리품
+itm_diamond_small|작은 다이아몬드 주머니
+itm_diamond_small_pl|작은 다이아몬드 주머니
+itm_diamond_medium|다이아몬드의 중간 주머니
+itm_diamond_medium_pl|다이아몬드의 중간 주머니
+itm_diamond_large|큰 다이아몬드 주머니
+itm_diamond_large_pl|큰 다이아몬드 주머니
+itm_book_heretic|이단 저술
+itm_book_heretic_pl|이단 저술
+itm_book_snake|뱀 컬트 의식
+itm_book_snake_pl|뱀 컬트 의식
+itm_book_noldor_1|정의 레인저의 코덱스
+itm_book_noldor_1_pl|정의 레인저의 코덱스
+itm_book_noldor_2|에토스 루시아나의 도난 기록
+itm_book_noldor_2_pl|에토스 루시아나의 도난 기록
+itm_book_noldor_3|라 리아의 칠흑 한 성서
+itm_book_noldor_3_pl|라 리아의 칠흑 한 성서
+itm_book_noldor_end|Noldor Books End
+itm_book_noldor_end_pl|Noldor Books End
+itm_book_old_diary|깨지기 쉬운 책
+itm_book_old_diary_pl|깨지기 쉬운 책
+itm_horse_armor|오래된 말 갑옷
+itm_horse_armor_pl|오래된 말 갑옷
+itm_horse_for_armor|펜 도르 왕실
+itm_horse_for_armor_pl|펜 도르 왕실
+itm_lyre|거문고
+itm_lyre_pl|거문고
+itm_lute|류트
+itm_lute_pl|류트
+itm_dedal_kufel|쿠펠
+itm_dedal_kufel_pl|쿠펠
+itm_dedal_lutnia|루트 니아
+itm_dedal_lutnia_pl|루트 니아
+itm_dedal_lira|리라
+itm_dedal_lira_pl|리라
+itm_rav_helmet_red|까마귀 헬멧 레드
+itm_rav_helmet_red_pl|까마귀 헬멧 레드
+itm_rav_helmet_blue|까마귀 헬멧 블루
+itm_rav_helmet_blue_pl|까마귀 헬멧 블루
+itm_rav_helmet_green|까마귀 헬멧 녹색
+itm_rav_helmet_green_pl|까마귀 헬멧 녹색
+itm_rav_helmet_yellow|까마귀 헬멧 옐로우
+itm_rav_helmet_yellow_pl|까마귀 헬멧 옐로우
+itm_empire_helmet_red|제국 헬멧 레드
+itm_empire_helmet_red_pl|제국 헬멧 레드
+itm_empire_helmet_blue|제국 헬멧 블루
+itm_empire_helmet_blue_pl|제국 헬멧 블루
+itm_empire_helmet_green|제국 헬멧 그린
+itm_empire_helmet_green_pl|제국 헬멧 그린
+itm_empire_helmet_yellow|제국 헬멧 옐로우
+itm_empire_helmet_yellow_pl|제국 헬멧 옐로우
+itm_practice_lance_red|토너먼트 랜스
+itm_practice_lance_red_pl|토너먼트 랜스
+itm_practice_lance_blue|토너먼트 랜스
+itm_practice_lance_blue_pl|토너먼트 랜스
+itm_practice_lance_green|토너먼트 랜스
+itm_practice_lance_green_pl|토너먼트 랜스
+itm_practice_lance_yellow|토너먼트 랜스
+itm_practice_lance_yellow_pl|토너먼트 랜스
+itm_sumpter_horse|섬터 말
+itm_sumpter_horse_pl|섬터 말
+itm_saddle_horse|승용마
+itm_saddle_horse_pl|승용마
+itm_dshar_saddle_horse|디 샤르 안장 말
+itm_dshar_saddle_horse_pl|디 샤르 안장 말
+itm_steppe_horse|대초원 말
+itm_steppe_horse_pl|대초원 말
+itm_courser|준마
+itm_courser_pl|준마
+itm_dark_steppe|어두운 대초원 말
+itm_dark_steppe_pl|어두운 대초원 말
+itm_grey_courser|그레이 코스
+itm_grey_courser_pl|그레이 코스
+itm_gold_courser|골든 매드 강사
+itm_gold_courser_pl|골든 매드 강사
+itm_grey_steppe|회색 대초원 말
+itm_grey_steppe_pl|회색 대초원 말
+itm_melitine_hunter2|멜리 틴 헌터
+itm_melitine_hunter2_pl|멜리 틴 헌터
+itm_hunter|사냥꾼
+itm_hunter_pl|사냥꾼
+itm_white_hunter|화이트 카프리 손 헌터
+itm_white_hunter_pl|화이트 카프리 손 헌터
+itm_red_hunter|빨간 군주 헌터
+itm_red_hunter_pl|빨간 군주 헌터
+itm_green_hunter|녹색 군집 헌터
+itm_green_hunter_pl|녹색 군집 헌터
+itm_dshar_courser|디 샤르 강사
+itm_dshar_courser_pl|디 샤르 강사
+itm_blue_hunter|블루 카프리 손드 헌터
+itm_blue_hunter_pl|블루 카프리 손드 헌터
+itm_burgundy_hunter|버건디 군수 헌터
+itm_burgundy_hunter_pl|버건디 군수 헌터
+itm_yellow_hunter|노란 군주 헌터
+itm_yellow_hunter_pl|노란 군주 헌터
+itm_black_hunter|검은 색 사냥꾼
+itm_black_hunter_pl|검은 색 사냥꾼
+itm_melitine_hunter|멜리 틴 안 드라비다
+itm_melitine_hunter_pl|멜리 틴 안 드라비다
+itm_darksteel_hunter|검은 강철 사냥꾼
+itm_darksteel_hunter_pl|검은 강철 사냥꾼
+itm_ornate_warhorse|화려한 드레이프 군마
+itm_ornate_warhorse_pl|화려한 드레이프 군마
+itm_dun_hunter|던 헌터
+itm_dun_hunter_pl|던 헌터
+itm_sarleon_hunter|Sarleon Hunter
+itm_sarleon_hunter_pl|Sarleon Hunter
+itm_empire_hunter|제국 다크 헌터
+itm_empire_hunter_pl|제국 다크 헌터
+itm_warhorse|군마
+itm_warhorse_pl|군마
+itm_melitine_arm_hunter|멜리 틴 막 대형 순종
+itm_melitine_arm_hunter_pl|멜리 틴 막 대형 순종
+itm_cropped_hunter|자른 갈기 사냥꾼
+itm_cropped_hunter_pl|자른 갈기 사냥꾼
+itm_empire_warbred|제국 워 브드 헌터
+itm_empire_warbred_pl|제국 워 브드 헌터
+itm_wellbred_hunter|잘 자란 헌터
+itm_wellbred_hunter_pl|잘 자란 헌터
+itm_jatu_hunter|자투 헌터
+itm_jatu_hunter_pl|자투 헌터
+itm_charger|충전기
+itm_charger_pl|충전기
+itm_horse_veccavi|Veccavian Draped Warhorse
+itm_horse_veccavi_pl|Veccavian Draped Warhorse
+itm_war_horse_ravenstern|까마귀 드레이프 군마
+itm_war_horse_ravenstern_pl|까마귀 드레이프 군마
+itm_draped_warhorse_brown|가죽 드레이프 군마
+itm_draped_warhorse_brown_pl|가죽 드레이프 군마
+itm_falcon_warhorse|팔콘 군마
+itm_falcon_warhorse_pl|팔콘 군마
+itm_dark_stallion|임페리얼 다크 종마
+itm_dark_stallion_pl|임페리얼 다크 종마
+itm_draped_warhorse_grey|회색 드레이프 군마
+itm_draped_warhorse_grey_pl|회색 드레이프 군마
+itm_phoenix_sergeants_horse|피닉스 드레이프 워 호스
+itm_phoenix_sergeants_horse_pl|피닉스 드레이프 워 호스
+itm_draped_leather_horse|가죽 드레이프 드 말
+itm_draped_leather_horse_pl|가죽 드레이프 드 말
+itm_golden_warhorse|골든 디어 워 호스
+itm_golden_warhorse_pl|골든 디어 워 호스
+itm_dshar_armored_hunter|디 샤르 기갑 사냥꾼
+itm_dshar_armored_hunter_pl|디 샤르 기갑 사냥꾼
+itm_draped_warhorse_green|녹색 가죽 드레이프 군마
+itm_draped_warhorse_green_pl|녹색 가죽 드레이프 군마
+itm_draped_warhorse_blue|파란 가죽 드레이프 군마
+itm_draped_warhorse_blue_pl|파란 가죽 드레이프 군마
+itm_war_horse_burgundy|버건디 드레이프 워 호스
+itm_war_horse_burgundy_pl|버건디 드레이프 워 호스
+itm_dark_silver_warhorse|다크 실버 워 호스
+itm_dark_silver_warhorse_pl|다크 실버 워 호스
+itm_draped_warhorse_white|흰색 드레이프 군마
+itm_draped_warhorse_white_pl|흰색 드레이프 군마
+itm_silver_stallion|임페리얼 실버 종마
+itm_silver_stallion_pl|임페리얼 실버 종마
+itm_jatu_warhorse|Jatu Warhorse
+itm_jatu_warhorse_pl|Jatu Warhorse
+itm_konigur_steed|Fierdsvain 코닝 구르
+itm_konigur_steed_pl|Fierdsvain 코닝 구르
+itm_warhorse_steppe|Jatu 대초원 충전기
+itm_warhorse_steppe_pl|Jatu 대초원 충전기
+itm_draped_warhorse_black|검은 가죽 외투 군마
+itm_draped_warhorse_black_pl|검은 가죽 외투 군마
+itm_draped_warhorse_yellow|노란 드레이프 군마
+itm_draped_warhorse_yellow_pl|노란 드레이프 군마
+itm_gryphon_warhorse|그리폰 군마
+itm_gryphon_warhorse_pl|그리폰 군마
+itm_larian_caspian|라 리안 겔딩
+itm_larian_caspian_pl|라 리안 겔딩
+itm_griffon_warhorse|그리폰 워 호스
+itm_griffon_warhorse_pl|그리폰 워 호스
+itm_marleons_highbreed|말레 온스
+itm_marleons_highbreed_pl|말레 온스
+itm_draped_warhorse_red|빨간 가죽 드레이프 군마
+itm_draped_warhorse_red_pl|빨간 가죽 드레이프 군마
+itm_phoenix_knight_horse|불사조
+itm_phoenix_knight_horse_pl|불사조
+itm_falcon_warsteed|팔콘 군마
+itm_falcon_warsteed_pl|팔콘 군마
+itm_timothy_steed|유니콘 군마
+itm_timothy_steed_pl|유니콘 군마
+itm_crimson_charger|다크 크림슨 충전기
+itm_crimson_charger_pl|다크 크림슨 충전기
+itm_lion_warhorse|사자 군마
+itm_lion_warhorse_pl|사자 군마
+itm_ironbred_stallion_1|무쇠 충전기
+itm_ironbred_stallion_1_pl|무쇠 충전기
+itm_ironbred_stallion_1b|검은 무쇠 충전기
+itm_ironbred_stallion_1b_pl|검은 무쇠 충전기
+itm_warhorse_sarranid|사막 전쟁 말
+itm_warhorse_sarranid_pl|사막 전쟁 말
+itm_ironbred_stallion_2|무쇠 종마 종마
+itm_ironbred_stallion_2_pl|무쇠 종마 종마
+itm_jatu_warbeast|Jatu Warbeast
+itm_jatu_warbeast_pl|Jatu Warbeast
+itm_armored_warhorse_ravenstern|까마귀 장갑 무장
+itm_armored_warhorse_ravenstern_pl|까마귀 장갑 무장
+itm_armored_warhorse_sarleon|Sarleon 기갑 군마
+itm_armored_warhorse_sarleon_pl|Sarleon 기갑 군마
+itm_armored_warhorse_pendor|펜 도르 왕실
+itm_armored_warhorse_pendor_pl|펜 도르 왕실
+itm_noldor_pony_horse|Noldor 대초원 조랑말
+itm_noldor_pony_horse_pl|Noldor 대초원 조랑말
+itm_noldor_dark_horse|Noldor Dark Warhorse
+itm_noldor_dark_horse_pl|Noldor Dark Warhorse
+itm_noldor_grey_horse|Noldor Grey Warhorse
+itm_noldor_grey_horse_pl|Noldor Grey Warhorse
+itm_noldor_gold_horse|Noldor Goldleaf Warhorse
+itm_noldor_gold_horse_pl|Noldor Goldleaf Warhorse
+itm_noldor_spirit_horse|Noldor Spirit Horse
+itm_noldor_spirit_horse_pl|Noldor Spirit Horse
+itm_hyper_horse|혜성 강사
+itm_hyper_horse_pl|혜성 강사
+itm_netherworld_charger|황천 세계 충전기
+itm_netherworld_charger_pl|황천 세계 충전기
+itm_demon_charger|악마 충전기
+itm_demon_charger_pl|악마 충전기
+itm_fallen_horse|타락한 말
+itm_fallen_horse_pl|타락한 말
+itm_pilgrim_disguise|순례자 로브
+itm_pilgrim_disguise_pl|순례자 로브
+itm_pilgrim_hood|순례자 두건
+itm_pilgrim_hood_pl|순례자 두건
+itm_bride_dress|신부 드레스
+itm_bride_dress_pl|신부 드레스
+itm_bride_crown|꽃의 왕관
+itm_bride_crown_pl|꽃의 왕관
+itm_bride_shoes|신부 신발
+itm_bride_shoes_pl|신부 신발
+itm_dress|드레스
+itm_dress_pl|드레스
+itm_blue_dress|파란 드레스
+itm_blue_dress_pl|파란 드레스
+itm_peasant_dress|농민 복장
+itm_peasant_dress_pl|농민 복장
+itm_woolen_dress|모직 드레스
+itm_woolen_dress_pl|모직 드레스
+itm_lady_dress_ruby|루비 레이디 드레스
+itm_lady_dress_ruby_pl|루비 레이디 드레스
+itm_lady_dress_green|그린 레이디 드레스
+itm_lady_dress_green_pl|그린 레이디 드레스
+itm_lady_dress_blue|하늘빛 레이디 드레스
+itm_lady_dress_blue_pl|하늘빛 레이디 드레스
+itm_red_dress|빨간 드레스
+itm_red_dress_pl|빨간 드레스
+itm_brown_dress|브라운 드레스
+itm_brown_dress_pl|브라운 드레스
+itm_green_dress|그린 드레스
+itm_green_dress_pl|그린 드레스
+itm_khergit_lady_dress|디 샤르 레이디 드레스
+itm_khergit_lady_dress_pl|디 샤르 레이디 드레스
+itm_khergit_lady_dress_b|D' Shar 가죽 레이디 드레스
+itm_khergit_lady_dress_b_pl|D' Shar 가죽 레이디 드레스
+itm_court_dress|코트 드레스
+itm_court_dress_pl|코트 드레스
+itm_orange_dress|디샤 리치 드레스
+itm_orange_dress_pl|디샤 리치 드레스
+itm_blue_sarranid_dress|라이트 블루 드레스
+itm_blue_sarranid_dress_pl|라이트 블루 드레스
+itm_gold_pattern_dress|리치 레드 드레스
+itm_gold_pattern_dress_pl|리치 레드 드레스
+itm_khaki_dress|카키 드레스
+itm_khaki_dress_pl|카키 드레스
+itm_fur_lined_coat_over_armor|일반적인 화려한 드레스
+itm_fur_lined_coat_over_armor_pl|일반적인 화려한 드레스
+itm_dshar_dress_1|퍼플 디 샤르 드레스
+itm_dshar_dress_1_pl|퍼플 디 샤르 드레스
+itm_dshar_dress_2|블랙 디 샤르 드레스
+itm_dshar_dress_2_pl|블랙 디 샤르 드레스
+itm_dshar_dress_3|브라운 디 샤르 드레스
+itm_dshar_dress_3_pl|브라운 디 샤르 드레스
+itm_dshar_dress_4|오렌지 디 샤르 드레스
+itm_dshar_dress_4_pl|오렌지 디 샤르 드레스
+itm_lady_dress_a_syrian1|베이지 레이디 드레스
+itm_lady_dress_a_syrian1_pl|베이지 레이디 드레스
+itm_lady_dress_a_syrian2|블러드 레드 레이디 드레스
+itm_lady_dress_a_syrian2_pl|블러드 레드 레이디 드레스
+itm_lady_dress_a_syrian3|피스타치오 레이디 드레스
+itm_lady_dress_a_syrian3_pl|피스타치오 레이디 드레스
+itm_lady_dress_a_syrian4|파스텔 블루 레이디 드레스
+itm_lady_dress_a_syrian4_pl|파스텔 블루 레이디 드레스
+itm_lady_dress_lysa_style_1|다크 레드 레이디 드레스
+itm_lady_dress_lysa_style_1_pl|다크 레드 레이디 드레스
+itm_lady_dress_lysa_style_2|다크 그린 레이디 드레스
+itm_lady_dress_lysa_style_2_pl|다크 그린 레이디 드레스
+itm_lady_dress_lysa_style_3|에메랄드 레이디 드레스
+itm_lady_dress_lysa_style_3_pl|에메랄드 레이디 드레스
+itm_lady_dress_lysa_style_4|아쿠아 마린 레이디 드레스
+itm_lady_dress_lysa_style_4_pl|아쿠아 마린 레이디 드레스
+itm_lady_dress_lysa_style_5|화려한 오렌지 레이디 드레스
+itm_lady_dress_lysa_style_5_pl|화려한 오렌지 레이디 드레스
+itm_lady_dress_lysa_style_6|다크 레이디 드레스
+itm_lady_dress_lysa_style_6_pl|다크 레이디 드레스
+itm_lady_dress_sansa_style_1|레드 레이디 드레스
+itm_lady_dress_sansa_style_1_pl|레드 레이디 드레스
+itm_lady_dress_sansa_style_2|블루 레이디 드레스
+itm_lady_dress_sansa_style_2_pl|블루 레이디 드레스
+itm_lady_dress_sansa_style_3|토니 레이디 드레스
+itm_lady_dress_sansa_style_3_pl|토니 레이디 드레스
+itm_lady_dress_sansa_style_4|올리브 레이디 드레스
+itm_lady_dress_sansa_style_4_pl|올리브 레이디 드레스
+itm_lady_dress_sansa_style_5|퍼플 레이디 드레스
+itm_lady_dress_sansa_style_5_pl|퍼플 레이디 드레스
+itm_lady_dress_sansa_style_6|화려한 레이디 드레스
+itm_lady_dress_sansa_style_6_pl|화려한 레이디 드레스
+itm_lady_dress_sansa_style_7|파우더 블루 레이디 드레스
+itm_lady_dress_sansa_style_7_pl|파우더 블루 레이디 드레스
+itm_lady_dress_margaery_style_1|레드 & 베이지 레이디 드레스
+itm_lady_dress_margaery_style_1_pl|레드 & 베이지 레이디 드레스
+itm_lady_dress_margaery_style_2|오렌지 & 베이지 레이디 드레스
+itm_lady_dress_margaery_style_2_pl|오렌지 & 베이지 레이디 드레스
+itm_lady_dress_margaery_style_3|청록 파스텔 레이디 드레스
+itm_lady_dress_margaery_style_3_pl|청록 파스텔 레이디 드레스
+itm_lady_dress_margaery_style_4|다크 블루 레이디 드레스
+itm_lady_dress_margaery_style_4_pl|다크 블루 레이디 드레스
+itm_lady_dress_margaery_style_5|라이트 블루 레이디 드레스
+itm_lady_dress_margaery_style_5_pl|라이트 블루 레이디 드레스
+itm_lady_dress_margaery_style_6|스칼렛 레이디 드레스
+itm_lady_dress_margaery_style_6_pl|스칼렛 레이디 드레스
+itm_lady_dress_margaery_style_7|잉꼬 레이디 드레스
+itm_lady_dress_margaery_style_7_pl|잉꼬 레이디 드레스
+itm_lady_dress_margaery_style_8|시안 레이디 드레스
+itm_lady_dress_margaery_style_8_pl|시안 레이디 드레스
+itm_lady_dress_margaery_style_9|오션 레이디 드레스
+itm_lady_dress_margaery_style_9_pl|오션 레이디 드레스
+itm_lady_dress_margaery_style_10|라이트 그레이 레이디 드레스
+itm_lady_dress_margaery_style_10_pl|라이트 그레이 레이디 드레스
+itm_lady_dress_margaery_style_11|바질 레이디 드레스
+itm_lady_dress_margaery_style_11_pl|바질 레이디 드레스
+itm_nobleman_outfit|귀족 복장
+itm_nobleman_outfit_pl|귀족 복장
+itm_leather_jacket|노던 가죽 자켓
+itm_leather_jacket_pl|노던 가죽 자켓
+itm_darkgreen_clothing1|진한 녹색 의류
+itm_darkgreen_clothing1_pl|진한 녹색 의류
+itm_leather_jacket_acok|가죽 재킷
+itm_leather_jacket_acok_pl|가죽 재킷
+itm_grey_clothing|회색 의류
+itm_grey_clothing_pl|회색 의류
+itm_bookseller_vest1|서적 가죽 튜닉
+itm_bookseller_vest1_pl|서적 가죽 튜닉
+itm_bookseller_vest2|튜닉의 서점 외투
+itm_bookseller_vest2_pl|튜닉의 서점 외투
+itm_robe|옷
+itm_robe_pl|옷
+itm_sarleon_clothing1|Sarleon 의류
+itm_sarleon_clothing1_pl|Sarleon 의류
+itm_sarleon_clothing2|상징을 가진 Sarleon 의류
+itm_sarleon_clothing2_pl|상징을 가진 Sarleon 의류
+itm_sarleon_clothing3|제곱 된 Sarleon 의류
+itm_sarleon_clothing3_pl|제곱 된 Sarleon 의류
+itm_tabard|소매 없는 느슨한 상의
+itm_tabard_pl|소매 없는 느슨한 상의
+itm_common_clothing2|일반적인 옷
+itm_common_clothing2_pl|일반적인 옷
+itm_merchant_outfit_2|상인 의류
+itm_merchant_outfit_2_pl|상인 의류
+itm_red_shirt|리치 레드 셔츠
+itm_red_shirt_pl|리치 레드 셔츠
+itm_red_tunic|붉은 튜닉
+itm_red_tunic_pl|붉은 튜닉
+itm_studded_leather_hauberk|박힌 가죽 갑옷
+itm_studded_leather_hauberk_pl|박힌 가죽 갑옷
+itm_sarleon_clothing4|제곱 공통 의류
+itm_sarleon_clothing4_pl|제곱 공통 의류
+itm_leather_coat|레드 & 화이트 가죽 조끼
+itm_leather_coat_pl|레드 & 화이트 가죽 조끼
+itm_leather02|갈색 가죽 조끼
+itm_leather02_pl|갈색 가죽 조끼
+itm_leather04|레드 & 블루 패딩 가죽
+itm_leather04_pl|레드 & 블루 패딩 가죽
+itm_leather_armor|가죽 갑옷
+itm_leather_armor_pl|가죽 갑옷
+itm_padded_leather|패딩 가죽
+itm_padded_leather_pl|패딩 가죽
+itm_leather07|화려한 패딩 가죽
+itm_leather07_pl|화려한 패딩 가죽
+itm_leather_sarleon|메일에 Sarleon 가죽
+itm_leather_sarleon_pl|메일에 Sarleon 가죽
+itm_padded_leather_brown|레이어드 패딩 가죽
+itm_padded_leather_brown_pl|레이어드 패딩 가죽
+itm_padded_striped_sar|Sarleon Padded Leather
+itm_padded_striped_sar_pl|Sarleon Padded Leather
+itm_ravenstern_clothing2|까마귀 의류
+itm_ravenstern_clothing2_pl|까마귀 의류
+itm_ravenstern_clothing1|모자를 쓴 까마귀 의류
+itm_ravenstern_clothing1_pl|모자를 쓴 까마귀 의류
+itm_ravenstern_clothing3|엠블럼과 까마귀 의류
+itm_ravenstern_clothing3_pl|엠블럼과 까마귀 의류
+itm_merchant_outfit|상인 복장
+itm_merchant_outfit_pl|상인 복장
+itm_blue_tunic|푸른 튜닉
+itm_blue_tunic_pl|푸른 튜닉
+itm_rawhide_coat|생가죽 코트
+itm_rawhide_coat_pl|생가죽 코트
+itm_fur_coat|모피 코트
+itm_fur_coat_pl|모피 코트
+itm_ragged_outfit|낡은 가죽 복장
+itm_ragged_outfit_pl|낡은 가죽 복장
+itm_tribal_warrior_outfit|부족 전사 복장
+itm_tribal_warrior_outfit_pl|부족 전사 복장
+itm_leather05|블루 패딩 가죽
+itm_leather05_pl|블루 패딩 가죽
+itm_leather06|블루 & 화이트 패딩 가죽
+itm_leather06_pl|블루 & 화이트 패딩 가죽
+itm_studded_leather_coat|스터드 가죽 코트
+itm_studded_leather_coat_pl|스터드 가죽 코트
+itm_noblefur_clothing1|귀족의 모피 의류
+itm_noblefur_clothing1_pl|귀족의 모피 의류
+itm_fur_clothing1|늑대 모피 의류
+itm_fur_clothing1_pl|늑대 모피 의류
+itm_fur_clothing2|라이트 브라운 퍼 의류
+itm_fur_clothing2_pl|라이트 브라운 퍼 의류
+itm_dshar_noble_clothing1|디 샤르 노블의 의류
+itm_dshar_noble_clothing1_pl|디 샤르 노블의 의류
+itm_dshar_clothing2|브라이트 디 샤르 의류
+itm_dshar_clothing2_pl|브라이트 디 샤르 의류
+itm_dshar_clothing1|디 샤르 의류
+itm_dshar_clothing1_pl|디 샤르 의류
+itm_nomad_vest|유목민 조끼
+itm_nomad_vest_pl|유목민 조끼
+itm_gold_purple_clothing1|금 및 자주색 의류
+itm_gold_purple_clothing1_pl|금 및 자주색 의류
+itm_noble_clothing2|녹색 상류 의류
+itm_noble_clothing2_pl|녹색 상류 의류
+itm_padded_cloth|아 케톤
+itm_padded_cloth_pl|아 케톤
+itm_steppe_armor|대초원 갑옷
+itm_steppe_armor_pl|대초원 갑옷
+itm_northern_clothing1|서양 의류
+itm_northern_clothing1_pl|서양 의류
+itm_nomad_robe|유목민 로브
+itm_nomad_robe_pl|유목민 로브
+itm_khergit_armor|디 샤르 아머
+itm_khergit_armor_pl|디 샤르 아머
+itm_nomad_armor|유목민 갑옷
+itm_nomad_armor_pl|유목민 갑옷
+itm_dshar_robe_c|브라운 유목민 로브
+itm_dshar_robe_c_pl|브라운 유목민 로브
+itm_dshar_robe_a|금 편조 유목민 로브
+itm_dshar_robe_a_pl|금 편조 유목민 로브
+itm_dshar_robe_d|어둠의 유목민 로브
+itm_dshar_robe_d_pl|어둠의 유목민 로브
+itm_dshar_armor_leather|디 샤르 가죽
+itm_dshar_armor_leather_pl|디 샤르 가죽
+itm_dshar_clothing_on_mail|메일에 남 로브
+itm_dshar_clothing_on_mail_pl|메일에 남 로브
+itm_dshar_clothing3|줄무늬 디 샤르 의류
+itm_dshar_clothing3_pl|줄무늬 디 샤르 의류
+itm_dshar_clothing4|리치 디 샤르 의류
+itm_dshar_clothing4_pl|리치 디 샤르 의류
+itm_fierdsvain_clothing1|Fierdsvain 의류
+itm_fierdsvain_clothing1_pl|Fierdsvain 의류
+itm_fierdsvain_clothing2|녹색 Fierdsvain 의류
+itm_fierdsvain_clothing2_pl|녹색 Fierdsvain 의류
+itm_clothing_scale_fierdsvain1|Fierdsvain 메일 의류
+itm_clothing_scale_fierdsvain1_pl|Fierdsvain 메일 의류
+itm_clothing_scale_fierdsvain3|패딩 Fierdsvain 의류
+itm_clothing_scale_fierdsvain3_pl|패딩 Fierdsvain 의류
+itm_common_clothing3|일반적인 가죽 코트
+itm_common_clothing3_pl|일반적인 가죽 코트
+itm_rich_outfit|풍부한 복장
+itm_rich_outfit_pl|풍부한 복장
+itm_green_tunic|리치 그린 튜닉
+itm_green_tunic_pl|리치 그린 튜닉
+itm_fierdsvain_clothing3|까마귀 옷
+itm_fierdsvain_clothing3_pl|까마귀 옷
+itm_aketon_green|패딩 천
+itm_aketon_green_pl|패딩 천
+itm_leather_jerkin|가죽 조끼
+itm_leather_jerkin_pl|가죽 조끼
+itm_clan_leather_fier|Fierdsvain 클랜 가죽
+itm_clan_leather_fier_pl|Fierdsvain 클랜 가죽
+itm_padded_tunic_1|패딩 튜닉
+itm_padded_tunic_1_pl|패딩 튜닉
+itm_padded_tunic_2|Fierdsvain Padded Tunic
+itm_padded_tunic_2_pl|Fierdsvain Padded Tunic
+itm_padded_tunic_3|피어스 바인 패딩 코트
+itm_padded_tunic_3_pl|피어스 바인 패딩 코트
+itm_padded_tunic_4|Fierdsvain 패딩 가죽
+itm_padded_tunic_4_pl|Fierdsvain 패딩 가죽
+itm_clothing_empire_citizen|제국 시민 의류
+itm_clothing_empire_citizen_pl|제국 시민 의류
+itm_empire_buckled_leather|제국 버클 가죽
+itm_empire_buckled_leather_pl|제국 버클 가죽
+itm_tabard_padded1|시에나 패딩 휘장
+itm_tabard_padded1_pl|시에나 패딩 휘장
+itm_short_tunic|리치 튜닉
+itm_short_tunic_pl|리치 튜닉
+itm_shirt|올리브 셔츠
+itm_shirt_pl|올리브 셔츠
+itm_linen_tunic|리넨 튜닉
+itm_linen_tunic_pl|리넨 튜닉
+itm_common_clothing4|상인 복장
+itm_common_clothing4_pl|상인 복장
+itm_common_clothing1|일반적인 의류
+itm_common_clothing1_pl|일반적인 의류
+itm_empire_padded_shirt|제국 패딩 셔츠
+itm_empire_padded_shirt_pl|제국 패딩 셔츠
+itm_empire_leather_vest|제국 가죽 코트
+itm_empire_leather_vest_pl|제국 가죽 코트
+itm_tabard_worn_red|낡은 붉은 휘장
+itm_tabard_worn_red_pl|낡은 붉은 휘장
+itm_empire_leather_on_fabric|제국 가죽 조끼
+itm_empire_leather_on_fabric_pl|제국 가죽 조끼
+itm_empire_leather_jacket|제국 가죽 자켓
+itm_empire_leather_jacket_pl|제국 가죽 자켓
+itm_common_clothing5|피어스 바인 가죽 코트
+itm_common_clothing5_pl|피어스 바인 가죽 코트
+itm_leather_vest|가죽 조끼
+itm_leather_vest_pl|가죽 조끼
+itm_gambeson|감 베손
+itm_gambeson_pl|감 베손
+itm_blue_gambeson|블루 감 베손
+itm_blue_gambeson_pl|블루 감 베손
+itm_red_gambeson|레드 감 베슨
+itm_red_gambeson_pl|레드 감 베슨
+itm_travel_clothing1|일반적인 여행 의류
+itm_travel_clothing1_pl|일반적인 여행 의류
+itm_coarse_tunic|조끼와 튜닉
+itm_coarse_tunic_pl|조끼와 튜닉
+itm_leather_coat_dark|검은 가죽 조끼
+itm_leather_coat_dark_pl|검은 가죽 조끼
+itm_travel_clothing_green|일반적인 녹색 여행 의류
+itm_travel_clothing_green_pl|일반적인 녹색 여행 의류
+itm_leather01|검은 전나무 가죽
+itm_leather01_pl|검은 전나무 가죽
+itm_leather03|녹색 패딩 가죽
+itm_leather03_pl|녹색 패딩 가죽
+itm_light_leather|가벼운 가죽
+itm_light_leather_pl|가벼운 가죽
+itm_leather08|갈색 패딩 가죽
+itm_leather08_pl|갈색 패딩 가죽
+itm_lamellar_plate_01|클랜 아머
+itm_lamellar_plate_01_pl|클랜 아머
+itm_noble_clothing1|고귀한 의복
+itm_noble_clothing1_pl|고귀한 의복
+itm_noble_clothing3|브라운 노블 의류
+itm_noble_clothing3_pl|브라운 노블 의류
+itm_leather_lady1|제작 된 가죽 갑옷
+itm_leather_lady1_pl|제작 된 가죽 갑옷
+itm_white_gambeson_d|화이트 패딩 가죽
+itm_white_gambeson_d_pl|화이트 패딩 가죽
+itm_heavy_leather|두꺼운 가죽
+itm_heavy_leather_pl|두꺼운 가죽
+itm_leather_apron|가죽 앞치마
+itm_leather_apron_pl|가죽 앞치마
+itm_noldor_clothing_1|Noldor 의류
+itm_noldor_clothing_1_pl|Noldor 의류
+itm_noldor_clothing_2|Noldor 귀족 의류
+itm_noldor_clothing_2_pl|Noldor 귀족 의류
+itm_dshar_robe_assassin|디 샤르 암살자 로브
+itm_dshar_robe_assassin_pl|디 샤르 암살자 로브
+itm_lamellar_vest|라멜라 조끼
+itm_lamellar_vest_pl|라멜라 조끼
+itm_byrnie|버니
+itm_byrnie_pl|버니
+itm_haubergeon|하우 베르 곤
+itm_haubergeon_pl|하우 베르 곤
+itm_brigandine_red|붉은 브리 건딘
+itm_brigandine_red_pl|붉은 브리 건딘
+itm_hera_brigandine_b|전령 브리 건딘
+itm_hera_brigandine_b_pl|전령 브리 건딘
+itm_plate_brig_armor|검은 브리 건딘 & 플레이트
+itm_plate_brig_armor_pl|검은 브리 건딘 & 플레이트
+itm_plate_brig_armor_cape|케이프와 블랙 브리 건딘 & 플레이트
+itm_plate_brig_armor_cape_pl|케이프와 블랙 브리 건딘 & 플레이트
+itm_hera_brig_plate_black|전 령 엘리트 브리 건딘
+itm_hera_brig_plate_black_pl|전 령 엘리트 브리 건딘
+itm_lamellar_armor|라멜라 갑옷
+itm_lamellar_armor_pl|라멜라 갑옷
+itm_scale_armor|비늘 방어구
+itm_scale_armor_pl|비늘 방어구
+itm_banded_armor|밴 디드 아머
+itm_banded_armor_pl|밴 디드 아머
+itm_cuir_bouilli|쿠 이르 부일리
+itm_cuir_bouilli_pl|쿠 이르 부일리
+itm_hera_cuir_bouilli_a|전 령 Cuir Bouilli
+itm_hera_cuir_bouilli_a_pl|전 령 Cuir Bouilli
+itm_coat_of_plates|판금 코트
+itm_coat_of_plates_pl|판금 코트
+itm_coat_of_plates_red|판금의 빨간 외투
+itm_coat_of_plates_red_pl|판금의 빨간 외투
+itm_dark_byrnie|다크 버니
+itm_dark_byrnie_pl|다크 버니
+itm_dark_reinf_jerkin|어두운 끈으로 엮은 쇠사슬 코트
+itm_dark_reinf_jerkin_pl|어두운 끈으로 엮은 쇠사슬 코트
+itm_dark_chain_armor|다크 체인 코트
+itm_dark_chain_armor_pl|다크 체인 코트
+itm_coatplates|반스 케리 메일 & 가죽 아머
+itm_coatplates_pl|반스 케리 메일 & 가죽 아머
+itm_mail_archer_hauberk|우편 & 가죽 궁수 갑옷
+itm_mail_archer_hauberk_pl|우편 & 가죽 궁수 갑옷
+itm_plate_harness_yellow|노란 판 마구
+itm_plate_harness_yellow_pl|노란 판 마구
+itm_breastplate_on_plain|패딩 위의 흉갑
+itm_breastplate_on_plain_pl|패딩 위의 흉갑
+itm_tunic_padded1|라이트 브라운 패딩 튜닉
+itm_tunic_padded1_pl|라이트 브라운 패딩 튜닉
+itm_squire_outfit_northern1|북부 스 콰이어 복장
+itm_squire_outfit_northern1_pl|북부 스 콰이어 복장
+itm_dark_std_lthr_coat|검은 끈으로 묶인 가죽 어깨 보호대
+itm_dark_std_lthr_coat_pl|검은 끈으로 묶인 가죽 어깨 보호대
+itm_surcoat_brown_padded|브라운 패딩 코트
+itm_surcoat_brown_padded_pl|브라운 패딩 코트
+itm_tunic_padded2|패딩 복장
+itm_tunic_padded2_pl|패딩 복장
+itm_monk_robe_padded|패딩 블랙 & 화이트 튜닉
+itm_monk_robe_padded_pl|패딩 블랙 & 화이트 튜닉
+itm_sellsword_armor|가죽 튜닉 가죽
+itm_sellsword_armor_pl|가죽 튜닉 가죽
+itm_breastplate_mail_1|우편으로 가슴 보호 갑
+itm_breastplate_mail_1_pl|우편으로 가슴 보호 갑
+itm_breastplate_mail_1_cape|케이프 메일로 가슴 보호 갑
+itm_breastplate_mail_1_cape_pl|케이프 메일로 가슴 보호 갑
+itm_breastplate_mail_2|메일을 통한 까마귀 흉갑
+itm_breastplate_mail_2_pl|메일을 통한 까마귀 흉갑
+itm_plate_armor_northern1|북부 판금 방어구
+itm_plate_armor_northern1_pl|북부 판금 방어구
+itm_breastplate_mail_gold_ornate|금 화려한 판금 갑옷
+itm_breastplate_mail_gold_ornate_pl|금 화려한 판금 갑옷
+itm_burnished_heavy_armor|칠해진 중갑
+itm_burnished_heavy_armor_pl|칠해진 중갑
+itm_griffon_plate|그리폰 판금 마구
+itm_griffon_plate_pl|그리폰 판금 마구
+itm_griffon_plate_cape|케이프와 그리폰 플레이트 하네스
+itm_griffon_plate_cape_pl|케이프와 그리폰 플레이트 하네스
+itm_plate_armor|판금 방어구
+itm_plate_armor_pl|판금 방어구
+itm_plate_armor_polished1|광택 판금 갑옷
+itm_plate_armor_polished1_pl|광택 판금 갑옷
+itm_plate_armor_polished1_cape|케이프와 광택 된 판금 갑옷
+itm_plate_armor_polished1_cape_pl|케이프와 광택 된 판금 갑옷
+itm_plate_madame_light|가벼운 판금 방어구
+itm_plate_madame_light_pl|가벼운 판금 방어구
+itm_dawn_plate|새벽 판의 마구
+itm_dawn_plate_pl|새벽 판의 마구
+itm_dawn_plate_cape|케이프와 함께 새벽 판의 마구
+itm_dawn_plate_cape_pl|케이프와 함께 새벽 판의 마구
+itm_pendor_ornate_armor|펜 도르 화려한 판금 방어구
+itm_pendor_ornate_armor_pl|펜 도르 화려한 판금 방어구
+itm_pendor_ornate_armor_cape|케이프와 펜 도르 화려한 접시 갑옷
+itm_pendor_ornate_armor_cape_pl|케이프와 펜 도르 화려한 접시 갑옷
+itm_plate_studded_pauldron|남부 판금 갑옷
+itm_plate_studded_pauldron_pl|남부 판금 갑옷
+itm_plate_studded_pauldron_cape|케이프와 남부 판금 갑옷
+itm_plate_studded_pauldron_cape_pl|케이프와 남부 판금 갑옷
+itm_marleons_plate_normal|말레 온스 판금 갑옷
+itm_marleons_plate_normal_pl|말레 온스 판금 갑옷
+itm_imperial_armor|임페리얼 헤비 아머
+itm_imperial_armor_pl|임페리얼 헤비 아머
+itm_immortal_armor|불멸의 갑옷
+itm_immortal_armor_pl|불멸의 갑옷
+itm_coat_plates_black|판금 코트-검정
+itm_coat_plates_black_pl|판금 코트-검정
+itm_coat_plates_blue|판금 코트-파랑
+itm_coat_plates_blue_pl|판금 코트-파랑
+itm_coat_plates_green|판금 코트-녹색
+itm_coat_plates_green_pl|판금 코트-녹색
+itm_coat_plates_red|판금 외투-빨강
+itm_coat_plates_red_pl|판금 외투-빨강
+itm_coat_plates_yellow|판금 코트-노랑
+itm_coat_plates_yellow_pl|판금 코트-노랑
+itm_platemail_harness_whitegreen|서부 판금
+itm_platemail_harness_whitegreen_pl|서부 판금
+itm_red_platemail|레드 플레이트 메일 하네스
+itm_red_platemail_pl|레드 플레이트 메일 하네스
+itm_red_platemail_cape|케이프와 빨간 판금 마구
+itm_red_platemail_cape_pl|케이프와 빨간 판금 마구
+itm_dark_blue_platemail|진한 파란색 판금
+itm_dark_blue_platemail_pl|진한 파란색 판금
+itm_dark_blue_platemail_cape|케이프와 다크 블루 판금
+itm_dark_blue_platemail_cape_pl|케이프와 다크 블루 판금
+itm_plate_harness_dragon|용판 마구
+itm_plate_harness_dragon_pl|용판 마구
+itm_plate_harness_dragon_cape|케이프와 드래곤 플레이트 하네스
+itm_plate_harness_dragon_cape_pl|케이프와 드래곤 플레이트 하네스
+itm_plate_harness_green|그린 플레이트 하네스
+itm_plate_harness_green_pl|그린 플레이트 하네스
+itm_plate_harness_white|화이트 플레이트 하네스
+itm_plate_harness_white_pl|화이트 플레이트 하네스
+itm_plate_harness_white_cape|케이프와 화이트 플레이트 하네스
+itm_plate_harness_white_cape_pl|케이프와 화이트 플레이트 하네스
+itm_plate_harness_unicorn|유니콘 판금 마구
+itm_plate_harness_unicorn_pl|유니콘 판금 마구
+itm_plate_harness_unicorn_cape|케이프와 유니콘 플레이트 하네스
+itm_plate_harness_unicorn_cape_pl|케이프와 유니콘 플레이트 하네스
+itm_marleons_plate_ornate|화려한 말레 온스 판금 갑옷
+itm_marleons_plate_ornate_pl|화려한 말레 온스 판금 갑옷
+itm_marleons_plate_ornate_cape|케이프와 화려한 Marleons 플레이트 갑옷
+itm_marleons_plate_ornate_cape_pl|케이프와 화려한 Marleons 플레이트 갑옷
+itm_pendor_old_harness|펜 도우 헤비 플레이트 하네스
+itm_pendor_old_harness_pl|펜 도우 헤비 플레이트 하네스
+itm_pendor_old_harness_cape|케이프와 펜 도어 헤비 플레이트 하네스
+itm_pendor_old_harness_cape_pl|케이프와 펜 도어 헤비 플레이트 하네스
+itm_heraldic_harness|문장 학 판금 마구
+itm_heraldic_harness_pl|문장 학 판금 마구
+itm_royal_platemail|왕실 판금
+itm_royal_platemail_pl|왕실 판금
+itm_breastplate_mail_falcon|골든 발키리 갑옷
+itm_breastplate_mail_falcon_pl|골든 발키리 갑옷
+itm_ebony_gauntlet_armor|흑단 건틀릿 헤비 플레이트 아머
+itm_ebony_gauntlet_armor_pl|흑단 건틀릿 헤비 플레이트 아머
+itm_plate_armor_pendor1|펜 도리아 기사 갑옷
+itm_plate_armor_pendor1_pl|펜 도리아 기사 갑옷
+itm_plate_armor_pendor1_cape|케이프와 펜 도리아 기사 갑옷
+itm_plate_armor_pendor1_cape_pl|케이프와 펜 도리아 기사 갑옷
+itm_heraldic_plate|전령 판금 갑옷
+itm_heraldic_plate_pl|전령 판금 갑옷
+itm_pendor_old_armor|펜 도르 중판 갑옷
+itm_pendor_old_armor_pl|펜 도르 중판 갑옷
+itm_pendor_old_armor_cape|케이프와 펜 도르 중판 갑옷
+itm_pendor_old_armor_cape_pl|케이프와 펜 도르 중판 갑옷
+itm_plate_madame_azure|하늘빛 판
+itm_plate_madame_azure_pl|하늘빛 판
+itm_plate_madame_azure_cape|케이프와 푸른 접시
+itm_plate_madame_azure_cape_pl|케이프와 푸른 접시
+itm_breastplate_mail_silver_ornate|은색 화려한 도금 갑옷
+itm_breastplate_mail_silver_ornate_pl|은색 화려한 도금 갑옷
+itm_breastplate_mail_silver_ornate_cape|케이프와 실버 화려한 도금 된 갑옷
+itm_breastplate_mail_silver_ornate_cape_pl|케이프와 실버 화려한 도금 된 갑옷
+itm_mett_plate|메텐 하임 플레이트
+itm_mett_plate_pl|메텐 하임 플레이트
+itm_mett_plate_cape|케이프와 Mettenheim 판
+itm_mett_plate_cape_pl|케이프와 Mettenheim 판
+itm_full_plate_armor|풀 플레이트 아머
+itm_full_plate_armor_pl|풀 플레이트 아머
+itm_ebony_platemail|흑단 판금
+itm_ebony_platemail_pl|흑단 판금
+itm_ebony_platemail_cape|케이프와 흑단 판금
+itm_ebony_platemail_cape_pl|케이프와 흑단 판금
+itm_forlorn_plate|외로운 희망의 판금 투구
+itm_forlorn_plate_pl|외로운 희망의 판금 투구
+itm_griffon_captain_armor|그리폰 캡틴 아머
+itm_griffon_captain_armor_pl|그리폰 캡틴 아머
+itm_griffon_captain_armor_cape_black|검은 케이프와 그리폰 선장 갑옷
+itm_griffon_captain_armor_cape_black_pl|검은 케이프와 그리폰 선장 갑옷
+itm_griffon_captain_armor_cape_white|화이트 케이프와 그리폰 선장 갑옷
+itm_griffon_captain_armor_cape_white_pl|화이트 케이프와 그리폰 선장 갑옷
+itm_griffon_grandmaster_armor|그리폰 그랜드 마스터 아머
+itm_griffon_grandmaster_armor_pl|그리폰 그랜드 마스터 아머
+itm_griffon_grandmaster_armor_cape|케이프와 그리폰 그랜드 마스터 아머
+itm_griffon_grandmaster_armor_cape_pl|케이프와 그리폰 그랜드 마스터 아머
+itm_platemail_kraken|외투를 입은 크라켄 판금
+itm_platemail_kraken_pl|외투를 입은 크라켄 판금
+itm_platemail_26_kraken|크라켄 판금
+itm_platemail_26_kraken_pl|크라켄 판금
+itm_platemail_26_red|빨간 판금
+itm_platemail_26_red_pl|빨간 판금
+itm_platemail_26_blue|블루 플레이트 메일
+itm_platemail_26_blue_pl|블루 플레이트 메일
+itm_platemail_26_whiteblack|화이트 & 블랙 플레이트 메일
+itm_platemail_26_whiteblack_pl|화이트 & 블랙 플레이트 메일
+itm_platemail_26_goldpurple|금 및 자주색 판금
+itm_platemail_26_goldpurple_pl|금 및 자주색 판금
+itm_platemail_26_bluegrey|블루 & 그레이 플레이트 메일
+itm_platemail_26_bluegrey_pl|블루 & 그레이 플레이트 메일
+itm_dread_armor|공포의 갑옷
+itm_dread_armor_pl|공포의 갑옷
+itm_demonplate|악마 판금 방어구
+itm_demonplate_pl|악마 판금 방어구
+itm_demonskin|악마 가죽
+itm_demonskin_pl|악마 가죽
+itm_heretic_robe|이단 로브
+itm_heretic_robe_pl|이단 로브
+itm_heretic_armor|이단 패딩 코트
+itm_heretic_armor_pl|이단 패딩 코트
+itm_heretic_leather|이단 가죽
+itm_heretic_leather_pl|이단 가죽
+itm_breastplate_on_red|레드 패딩 위의 흉갑
+itm_breastplate_on_red_pl|레드 패딩 위의 흉갑
+itm_breastplate_on_black|흑백 패딩 위의 흉갑
+itm_breastplate_on_black_pl|흑백 패딩 위의 흉갑
+itm_breastplate_on_black_cape|케이프로 흑백 패딩 위의 흉갑
+itm_breastplate_on_black_cape_pl|케이프로 흑백 패딩 위의 흉갑
+itm_breastplate_on_blue|블루 패딩 위의 흉갑
+itm_breastplate_on_blue_pl|블루 패딩 위의 흉갑
+itm_breastplate_on_green|그린 패딩 위의 흉갑
+itm_breastplate_on_green_pl|그린 패딩 위의 흉갑
+itm_ranger_leather|레인저 메일
+itm_ranger_leather_pl|레인저 메일
+itm_ranger_plate|순찰 자 엘리트 갑옷
+itm_ranger_plate_pl|순찰 자 엘리트 갑옷
+itm_ranger_plate_cape|케이프 레인저 엘리트 갑옷
+itm_ranger_plate_cape_pl|케이프 레인저 엘리트 갑옷
+itm_barclay_light_armor|바클레이 경갑
+itm_barclay_light_armor_pl|바클레이 경갑
+itm_barclay_plate|바클레이 판과 가죽
+itm_barclay_plate_pl|바클레이 판과 가죽
+itm_barclay_plate_1|외투를 가진 바클레이 판
+itm_barclay_plate_1_pl|외투를 가진 바클레이 판
+itm_barclay_armor|바클레이 판
+itm_barclay_armor_pl|바클레이 판
+itm_dead_witch_armor|마녀 갑옷
+itm_dead_witch_armor_pl|마녀 갑옷
+itm_veccavi_plate|베카 비안 플레이트
+itm_veccavi_plate_pl|베카 비안 플레이트
+itm_melitine_armor|멜리 틴 랜서 라멜라 아머
+itm_melitine_armor_pl|멜리 틴 랜서 라멜라 아머
+itm_melitine_armor_regular|멜리 틴 라멜라 아머
+itm_melitine_armor_regular_pl|멜리 틴 라멜라 아머
+itm_melitine_armor_plate|멜리 틴 플레이트 아머
+itm_melitine_armor_plate_pl|멜리 틴 플레이트 아머
+itm_early_transitional_heraldic|전 령 메일 및 플레이트
+itm_early_transitional_heraldic_pl|전 령 메일 및 플레이트
+itm_silvermist_plate|실버 미스트 플레이트 & 체인
+itm_silvermist_plate_pl|실버 미스트 플레이트 & 체인
+itm_fierd_berskerker_armor|광전사 갑옷
+itm_fierd_berskerker_armor_pl|광전사 갑옷
+itm_pendor_lamellar|Pendorian Lamellar Armor
+itm_pendor_lamellar_pl|Pendorian Lamellar Armor
+itm_mail_coat_red|레드 메일 코트
+itm_mail_coat_red_pl|레드 메일 코트
+itm_hauberk_chain_studded_leather|체인 & 스터드 가죽 갑옷
+itm_hauberk_chain_studded_leather_pl|체인 & 스터드 가죽 갑옷
+itm_plate_mail_polished|우편을 통한 광택 흉갑
+itm_plate_mail_polished_pl|우편을 통한 광택 흉갑
+itm_plate_mail_polished_cape|케이프 메일로 광택 흉갑
+itm_plate_mail_polished_cape_pl|케이프 메일로 광택 흉갑
+itm_plate_red_white_tabard|접시 갑옷에 빨간색 & 흰색 휘장
+itm_plate_red_white_tabard_pl|접시 갑옷에 빨간색 & 흰색 휘장
+itm_hauberk_silver_mail|은빛 안개 사슬 갑옷
+itm_hauberk_silver_mail_pl|은빛 안개 사슬 갑옷
+itm_mail_shirt|메일 셔츠
+itm_mail_shirt_pl|메일 셔츠
+itm_mail_hauberk|메일 버니
+itm_mail_hauberk_pl|메일 버니
+itm_green_garb|녹색 복장
+itm_green_garb_pl|녹색 복장
+itm_tabard_red_and_white|레드 & 화이트 휘장
+itm_tabard_red_and_white_pl|레드 & 화이트 휘장
+itm_heraldic_surcoat_over_mail_04|외투를 가진 문장 학 메일
+itm_heraldic_surcoat_over_mail_04_pl|외투를 가진 문장 학 메일
+itm_heraldic_mail_with_tunic|문장 학 메일
+itm_heraldic_mail_with_tunic_pl|문장 학 메일
+itm_heraldic_mail_with_tunic_b|레깅스와 전 령 메일
+itm_heraldic_mail_with_tunic_b_pl|레깅스와 전 령 메일
+itm_heraldic_mail_with_tabard|휘장과 전 령 메일
+itm_heraldic_mail_with_tabard_pl|휘장과 전 령 메일
+itm_heraldic_surcoat_over_mail_04_for_tableau|외투를 가진 문장 학 메일
+itm_heraldic_surcoat_over_mail_04_for_tableau_pl|외투를 가진 문장 학 메일
+itm_surcoat_over_mail_01|블랙 메일 & 플레이트
+itm_surcoat_over_mail_01_pl|블랙 메일 & 플레이트
+itm_surcoat_over_mail_04|외투를 가진 우편물
+itm_surcoat_over_mail_04_pl|외투를 가진 우편물
+itm_surcoat_over_mail_05|우편을 통한 외투
+itm_surcoat_over_mail_05_pl|우편을 통한 외투
+itm_surcoat_over_mail_rav|메일을 통한 까마귀 외투
+itm_surcoat_over_mail_rav_pl|메일을 통한 까마귀 외투
+itm_surcoat_over_mail_06|외투를 가진 긴 우편물
+itm_surcoat_over_mail_06_pl|외투를 가진 긴 우편물
+itm_surcoat_over_mail_07|사자 스 콰이어 외투
+itm_surcoat_over_mail_07_pl|사자 스 콰이어 외투
+itm_surcoat_over_mail_08|외 투와 파란 메일에 화이트 라이온
+itm_surcoat_over_mail_08_pl|외 투와 파란 메일에 화이트 라이온
+itm_surcoat_over_mail_09|화이트 & 그린 롱 코트
+itm_surcoat_over_mail_09_pl|화이트 & 그린 롱 코트
+itm_surcoat_over_mail_10|녹색 외투에 백색 V
+itm_surcoat_over_mail_10_pl|녹색 외투에 백색 V
+itm_surcoat_over_mail_11|쌍두 머리 독수리 외투
+itm_surcoat_over_mail_11_pl|쌍두 머리 독수리 외투
+itm_surcoat_over_mail_12|기사의 흑백 외투
+itm_surcoat_over_mail_12_pl|기사의 흑백 외투
+itm_surcoat_over_mail_13|기사 외투
+itm_surcoat_over_mail_13_pl|기사 외투
+itm_surcoat_over_mail_14|스콰이의 가벼운 사슬 갑옷
+itm_surcoat_over_mail_14_pl|스콰이의 가벼운 사슬 갑옷
+itm_surcoat_over_mail_15|황소 외투
+itm_surcoat_over_mail_15_pl|황소 외투
+itm_surcoat_over_mail_16|검은 외투에 백색 십자가
+itm_surcoat_over_mail_16_pl|검은 외투에 백색 십자가
+itm_surcoat_over_mail_17|바이올렛 외투에 더블 헤드 호크
+itm_surcoat_over_mail_17_pl|바이올렛 외투에 더블 헤드 호크
+itm_surcoat_over_mail_18|기사의 검은 색 & 노란색 외투
+itm_surcoat_over_mail_18_pl|기사의 검은 색 & 노란색 외투
+itm_surcoat_over_mail_19|피어스 바인 귀족 외투
+itm_surcoat_over_mail_19_pl|피어스 바인 귀족 외투
+itm_surcoat_over_mail_20|기사의 노란 외투
+itm_surcoat_over_mail_20_pl|기사의 노란 외투
+itm_surcoat_over_mail_21|기사의 민트 녹색 외투
+itm_surcoat_over_mail_21_pl|기사의 민트 녹색 외투
+itm_surcoat_over_mail_22|기사의 파란 외투
+itm_surcoat_over_mail_22_pl|기사의 파란 외투
+itm_surcoat_over_mail_23|진한 파란색 외투
+itm_surcoat_over_mail_23_pl|진한 파란색 외투
+itm_surcoat_over_mail_24|기사의 빨간 외투
+itm_surcoat_over_mail_24_pl|기사의 빨간 외투
+itm_surcoat_over_mail_25|골든 선 메일
+itm_surcoat_over_mail_25_pl|골든 선 메일
+itm_surcoat_over_mail_26|레드 레이스 코트
+itm_surcoat_over_mail_26_pl|레드 레이스 코트
+itm_surcoat_over_mail_27|라이온스 메일 및 코트
+itm_surcoat_over_mail_27_pl|라이온스 메일 및 코트
+itm_surcoat_over_mail_28|고급 우편물에 빨간 외투
+itm_surcoat_over_mail_28_pl|고급 우편물에 빨간 외투
+itm_surcoat_over_mail_29|화려한 메일 의류
+itm_surcoat_over_mail_29_pl|화려한 메일 의류
+itm_surcoat_over_mail_30|푸른 난폭 한 사자 외투
+itm_surcoat_over_mail_30_pl|푸른 난폭 한 사자 외투
+itm_surcoat_over_mail_31|라이트 메일 & 플레이트
+itm_surcoat_over_mail_31_pl|라이트 메일 & 플레이트
+itm_surcoat_over_mail_32|메일에 파란 & 백색 독수리
+itm_surcoat_over_mail_32_pl|메일에 파란 & 백색 독수리
+itm_surcoat_over_mail_34|우편으로 그리폰 외투
+itm_surcoat_over_mail_34_pl|우편으로 그리폰 외투
+itm_surcoat_over_mail_heretics|이단자 두개골 사슬 갑옷
+itm_surcoat_over_mail_heretics_pl|이단자 두개골 사슬 갑옷
+itm_surcoat_over_mail_snakecult|연쇄 사슬의 독 흉갑
+itm_surcoat_over_mail_snakecult_pl|연쇄 사슬의 독 흉갑
+itm_plate_armor_sarleon_kn1|Sarleon Knight 's 판금 방어구
+itm_plate_armor_sarleon_kn1_pl|Sarleon Knight 's 판금 방어구
+itm_plate_armor_sarleon_kn1_cape|케이프와 Sarleon 기사 판금 갑옷
+itm_plate_armor_sarleon_kn1_cape_pl|케이프와 Sarleon 기사 판금 갑옷
+itm_plate_armor_lion1|체인 메일을 통한 사자 흉갑
+itm_plate_armor_lion1_pl|체인 메일을 통한 사자 흉갑
+itm_plate_armor_lion1_cape|케이프와 체인 메일을 통해 사자 흉갑
+itm_plate_armor_lion1_cape_pl|케이프와 체인 메일을 통해 사자 흉갑
+itm_plate_armor_lion2|체인 메일을 통한 사자 각인 흉갑
+itm_plate_armor_lion2_pl|체인 메일을 통한 사자 각인 흉갑
+itm_plate_armor_lion2_cape|케이프와 체인 메일을 통해 사자 새겨진 흉갑
+itm_plate_armor_lion2_cape_pl|케이프와 체인 메일을 통해 사자 새겨진 흉갑
+itm_corrazina_red_armor|Sarleon Red Platemail
+itm_corrazina_red_armor_pl|Sarleon Red Platemail
+itm_corrazina_grey_armor|Sarleon Grey Platemail
+itm_corrazina_grey_armor_pl|Sarleon Grey Platemail
+itm_hera_corrazina|문장 학 Sarleon 판금
+itm_hera_corrazina_pl|문장 학 Sarleon 판금
+itm_rav_leather_kilt|북부 가죽 킬트
+itm_rav_leather_kilt_pl|북부 가죽 킬트
+itm_rav_caped_leather_kilt|케이프와 북부 가죽 킬트
+itm_rav_caped_leather_kilt_pl|케이프와 북부 가죽 킬트
+itm_rav_mail_kilt|메일을 통한 노던 킬트
+itm_rav_mail_kilt_pl|메일을 통한 노던 킬트
+itm_rav_caped_mail_kilt|케이프와 메일을 통해 북부 킬트
+itm_rav_caped_mail_kilt_pl|케이프와 메일을 통해 북부 킬트
+itm_rav_platemail|까마귀 판금 및 우편
+itm_rav_platemail_pl|까마귀 판금 및 우편
+itm_rav_caped_platemail|까마귀와 까마귀 판 및 메일
+itm_rav_caped_platemail_pl|까마귀와 까마귀 판 및 메일
+itm_rav_kierguard_plate|레이븐 스턴 키어 가드 판금
+itm_rav_kierguard_plate_pl|레이븐 스턴 키어 가드 판금
+itm_dragon_knight_plate|용 기사 판
+itm_dragon_knight_plate_pl|용 기사 판
+itm_rav_highlander_armor|레이븐 스턴 하이랜더 갑옷
+itm_rav_highlander_armor_pl|레이븐 스턴 하이랜더 갑옷
+itm_falcon_surcoat|팔콘 외투
+itm_falcon_surcoat_pl|팔콘 외투
+itm_falcon_plate|팔콘 플레이트
+itm_falcon_plate_pl|팔콘 플레이트
+itm_myst_warrior_armor|Bearclaw Armor
+itm_myst_warrior_armor_pl|Bearclaw Armor
+itm_dshar_robe_b|붉은 십자군 유목민 로브
+itm_dshar_robe_b_pl|붉은 십자군 유목민 로브
+itm_dshar_armor_studded_leather|디 샤르 스터드 가죽
+itm_dshar_armor_studded_leather_pl|디 샤르 스터드 가죽
+itm_dshar_elite_armor|디 샤르 패딩 아머
+itm_dshar_elite_armor_pl|디 샤르 패딩 아머
+itm_dshar_mail_shirt1|다르 샤르 셔츠
+itm_dshar_mail_shirt1_pl|다르 샤르 셔츠
+itm_dshar_armor_lamellar_vest|다르 샤 멜라 조끼
+itm_dshar_armor_lamellar_vest_pl|다르 샤 멜라 조끼
+itm_dshar_plate_over_mail|우편으로 D' Shar 흉갑
+itm_dshar_plate_over_mail_pl|우편으로 D' Shar 흉갑
+itm_dshar_heavy_mail|다샤 헤비 메일
+itm_dshar_heavy_mail_pl|다샤 헤비 메일
+itm_dshar_dervish_scale|D' Shar Dervish Scale
+itm_dshar_dervish_scale_pl|D' Shar Dervish Scale
+itm_dervish_lamellar_armor|더스트 라이더 아머
+itm_dervish_lamellar_armor_pl|더스트 라이더 아머
+itm_dshar_dueling_armor|디 샤르 결투 갑옷
+itm_dshar_dueling_armor_pl|디 샤르 결투 갑옷
+itm_dshar_brass_plate|D' Shar 황동 판금 및 우편
+itm_dshar_brass_plate_pl|D' Shar 황동 판금 및 우편
+itm_dshar_heavy_scale|다샤 헤비 스케일
+itm_dshar_heavy_scale_pl|다샤 헤비 스케일
+itm_dshar_armor_noble_scale|다샤 르 노블 스케일
+itm_dshar_armor_noble_scale_pl|다샤 르 노블 스케일
+itm_dshar_windrider_armor|디 샤르 윈드 라이더 아머
+itm_dshar_windrider_armor_pl|디 샤르 윈드 라이더 아머
+itm_dshar_heavy_plate|디 샤르 판금 방어구
+itm_dshar_heavy_plate_pl|디 샤르 판금 방어구
+itm_eventide_plate|Eventide 플레이트 하네스
+itm_eventide_plate_pl|Eventide 플레이트 하네스
+itm_fierd_kilt|불스 바인 가죽 킬트
+itm_fierd_kilt_pl|불스 바인 가죽 킬트
+itm_fierd_scale|Fierdsvain 가죽 스케일
+itm_fierd_scale_pl|Fierdsvain 가죽 스케일
+itm_fierd_mail_hauberk|Fierdsvain Mail Hauberk
+itm_fierd_mail_hauberk_pl|Fierdsvain Mail Hauberk
+itm_valk_stag_surcoat|사슴 외투
+itm_valk_stag_surcoat_pl|사슴 외투
+itm_valk_unicorn_surcoat|유니콘 외투
+itm_valk_unicorn_surcoat_pl|유니콘 외투
+itm_valdis_armor|발디스 후스 칼 갑옷
+itm_valdis_armor_pl|발디스 후스 칼 갑옷
+itm_fierd_valk_surcoat|Fierdsvain Noble Surcoat
+itm_fierd_valk_surcoat_pl|Fierdsvain Noble Surcoat
+itm_plate_armor_fierdsvain1|메일을 통한 독수리 흉갑
+itm_plate_armor_fierdsvain1_pl|메일을 통한 독수리 흉갑
+itm_valk_stag_plate|사슴 판
+itm_valk_stag_plate_pl|사슴 판
+itm_valk_unicorn_plate|유니콘 플레이트
+itm_valk_unicorn_plate_pl|유니콘 플레이트
+itm_empire_inlayed_armor|제국 상감 갑옷
+itm_empire_inlayed_armor_pl|제국 상감 갑옷
+itm_empire_leather_l_s|제국 가죽 로리 카 Segmentata
+itm_empire_leather_l_s_pl|제국 가죽 로리 카 Segmentata
+itm_empire_legionnaire_armor|제국 군단 갑옷
+itm_empire_legionnaire_armor_pl|제국 군단 갑옷
+itm_empire_consul_armor|제국 영사 갑옷
+itm_empire_consul_armor_pl|제국 영사 갑옷
+itm_empire_silk_garmet|제국 실크 복장
+itm_empire_silk_garmet_pl|제국 실크 복장
+itm_breastplate_empire|제국 흉갑
+itm_breastplate_empire_pl|제국 흉갑
+itm_breastplate_empire_cape|케이프와 제국 흉갑
+itm_breastplate_empire_cape_pl|케이프와 제국 흉갑
+itm_empire_hastatus_armor|제국 하 스타 투스 갑옷
+itm_empire_hastatus_armor_pl|제국 하 스타 투스 갑옷
+itm_empire_princeps_armor|제국 왕자 갑옷
+itm_empire_princeps_armor_pl|제국 왕자 갑옷
+itm_shadow_legion_armor|그림자 군단 방어구
+itm_shadow_legion_armor_pl|그림자 군단 방어구
+itm_shadow_legion_armor_cape|케이프와 그림자 군단 갑옷
+itm_shadow_legion_armor_cape_pl|케이프와 그림자 군단 갑옷
+itm_empire_triarius_armor|임페리얼 트리 아리우스 갑옷
+itm_empire_triarius_armor_pl|임페리얼 트리 아리우스 갑옷
+itm_empire_triarius_armor_cape|케이프와 제국의 Triarius 갑옷
+itm_empire_triarius_armor_cape_pl|케이프와 제국의 Triarius 갑옷
+itm_empire_primus_armor|불멸의 프리머스 갑옷
+itm_empire_primus_armor_pl|불멸의 프리머스 갑옷
+itm_imperial_radiant_plate|임페리얼 레디 언트 크로스 플레이트
+itm_imperial_radiant_plate_pl|임페리얼 레디 언트 크로스 플레이트
+itm_imperial_radiant_plate_cape|케이프와 황실 빛나는 크로스 플레이트
+itm_imperial_radiant_plate_cape_pl|케이프와 황실 빛나는 크로스 플레이트
+itm_empire_knight_plate|제국 기사 판
+itm_empire_knight_plate_pl|제국 기사 판
+itm_empire_knight_plate_cape|케이프와 제국 기사 판
+itm_empire_knight_plate_cape_pl|케이프와 제국 기사 판
+itm_empire_guardian_plate|제국 수호자 판금
+itm_empire_guardian_plate_pl|제국 수호자 판금
+itm_empire_guardian_plate_cape|케이프와 제국 가디언 플레이트
+itm_empire_guardian_plate_cape_pl|케이프와 제국 가디언 플레이트
+itm_empire_golden_plate_1|황소 외 투와 황금 접시
+itm_empire_golden_plate_1_pl|황소 외 투와 황금 접시
+itm_empire_golden_plate_1_cape|황소 외 투와 케이프 골든 플레이트
+itm_empire_golden_plate_1_cape_pl|황소 외 투와 케이프 골든 플레이트
+itm_empire_golden_plate_2|황금 판금 갑옷
+itm_empire_golden_plate_2_pl|황금 판금 갑옷
+itm_empire_golden_plate_2_cape|케이프와 황금 접시 갑옷
+itm_empire_golden_plate_2_cape_pl|케이프와 황금 접시 갑옷
+itm_empire_mortal_plate|황제의 비늘 갑옷
+itm_empire_mortal_plate_pl|황제의 비늘 갑옷
+itm_quigfen_armor|라 리안 귀족 갑옷
+itm_quigfen_armor_pl|라 리안 귀족 갑옷
+itm_sing_black_leather|싱 갈리 안 블랙 스터드 가죽
+itm_sing_black_leather_pl|싱 갈리 안 블랙 스터드 가죽
+itm_sing_temptress_armor|Singalian Temptress Armor
+itm_sing_temptress_armor_pl|Singalian Temptress Armor
+itm_jatu_nomad_armor|자투 노마드 라멜라 아머
+itm_jatu_nomad_armor_pl|자투 노마드 라멜라 아머
+itm_jatu_raider_armor|자투 레이더 스파이크 코트
+itm_jatu_raider_armor_pl|자투 레이더 스파이크 코트
+itm_jatu_nomad_coat|Jatu Nomad 체인 및 메일
+itm_jatu_nomad_coat_pl|Jatu Nomad 체인 및 메일
+itm_jatu_warrior_lamellar|Jatu Warrior Mail
+itm_jatu_warrior_lamellar_pl|Jatu Warrior Mail
+itm_khergit_guard_armor|자투 가드 아머
+itm_khergit_guard_armor_pl|자투 가드 아머
+itm_jatu_honor_armor|자투 아너 아머
+itm_jatu_honor_armor_pl|자투 아너 아머
+itm_jatu_noble_armor|자투 노블 아머
+itm_jatu_noble_armor_pl|자투 노블 아머
+itm_scorpion_armor_2|암살자 정교한 갑옷
+itm_scorpion_armor_2_pl|암살자 정교한 갑옷
+itm_scorpion_armor|전갈 하네스
+itm_scorpion_armor_pl|전갈 하네스
+itm_wolf_armor_2|그림자 사냥꾼 갑옷
+itm_wolf_armor_2_pl|그림자 사냥꾼 갑옷
+itm_wolf_armor_1|모피와 그림자 늑대 우편물
+itm_wolf_armor_1_pl|모피와 그림자 늑대 우편물
+itm_phoenix_armor|피닉스 가죽 및 메일
+itm_phoenix_armor_pl|피닉스 가죽 및 메일
+itm_phoenix_plate|불사조 판금
+itm_phoenix_plate_pl|불사조 판금
+itm_priestess_high_armor|여사 제 뱀 갑옷
+itm_priestess_high_armor_pl|여사 제 뱀 갑옷
+itm_priestess_armor|여사 제 뱀 갑옷
+itm_priestess_armor_pl|여사 제 뱀 갑옷
+itm_cobra_plate|코브라 판금 갑옷
+itm_cobra_plate_pl|코브라 판금 갑옷
+itm_anaconda_plate|아나콘다 판금 방어구
+itm_anaconda_plate_pl|아나콘다 판금 방어구
+itm_asp_plate|ASP 갑옷
+itm_asp_plate_pl|ASP 갑옷
+itm_asp_plate_supreme|최고 ASP 갑옷
+itm_asp_plate_supreme_pl|최고 ASP 갑옷
+itm_xena_leather|파멸 가죽
+itm_xena_leather_pl|파멸 가죽
+itm_noldor_archer_garb|Noldor Archer Garb
+itm_noldor_archer_garb_pl|Noldor Archer Garb
+itm_noldor_archer_garb_cape|케이프와 Noldor 아처 복장
+itm_noldor_archer_garb_cape_pl|케이프와 Noldor 아처 복장
+itm_noldor_ranger_garb|Noldor 손질 된 순찰 자 복장
+itm_noldor_ranger_garb_pl|Noldor 손질 된 순찰 자 복장
+itm_noldor_ranger_garb_cape|케이프와 Noldor 손질 된 레인저 복장
+itm_noldor_ranger_garb_cape_pl|케이프와 Noldor 손질 된 레인저 복장
+itm_noldor_female_armor|여자 Noldor 갑옷
+itm_noldor_female_armor_pl|여자 Noldor 갑옷
+itm_noldor_female_armor_cape|케이프와 여성 Noldor 갑옷
+itm_noldor_female_armor_cape_pl|케이프와 여성 Noldor 갑옷
+itm_noldor_rune_armor|놀 도르 룬 아머
+itm_noldor_rune_armor_pl|놀 도르 룬 아머
+itm_noldor_ancient_plate|Noldor 고대 판
+itm_noldor_ancient_plate_pl|Noldor 고대 판
+itm_noldor_noble_armor|놀 도르 노블 아머
+itm_noldor_noble_armor_pl|놀 도르 노블 아머
+itm_noldor_noble_armor_cape|케이프와 Noldor 고귀한 갑옷
+itm_noldor_noble_armor_cape_pl|케이프와 Noldor 고귀한 갑옷
+itm_rune_plate_strange|신비로운 룬 판
+itm_rune_plate_strange_pl|신비로운 룬 판
+itm_rune_plate_saphire|사파이어 룬 판
+itm_rune_plate_saphire_pl|사파이어 룬 판
+itm_rune_plate_ruby|루비 룬 판
+itm_rune_plate_ruby_pl|루비 룬 판
+itm_rune_plate_emerald|에메랄드 룬 판
+itm_rune_plate_emerald_pl|에메랄드 룬 판
+itm_rune_plate_saphire_cape|케이프 사파이어 룬 플레이트
+itm_rune_plate_saphire_cape_pl|케이프 사파이어 룬 플레이트
+itm_rune_plate_ruby_cape|케이프 루비 룬 플레이트
+itm_rune_plate_ruby_cape_pl|케이프 루비 룬 플레이트
+itm_rune_plate_emerald_cape|케이프와 에메랄드 룬 판
+itm_rune_plate_emerald_cape_pl|케이프와 에메랄드 룬 판
+itm_leather_gloves|가죽 장갑
+itm_leather_gloves_pl|가죽 장갑
+itm_mail_mittens|메일 벙어리 장갑
+itm_mail_mittens_pl|메일 벙어리 장갑
+itm_black_steel_mittens|검은 강철 장갑
+itm_black_steel_mittens_pl|검은 강철 장갑
+itm_scale_gauntlets|비늘 건틀릿
+itm_scale_gauntlets_pl|비늘 건틀릿
+itm_lamellar_gauntlets|라멜라 건틀릿
+itm_lamellar_gauntlets_pl|라멜라 건틀릿
+itm_gauntlets_normal|건틀릿
+itm_gauntlets_normal_pl|건틀릿
+itm_dark_leather_gloves|검은 가죽 장갑
+itm_dark_leather_gloves_pl|검은 가죽 장갑
+itm_scorpion_gauntlets|전갈 건틀릿
+itm_scorpion_gauntlets_pl|전갈 건틀릿
+itm_wolf_mittens|늑대 강철 장갑
+itm_wolf_mittens_pl|늑대 강철 장갑
+itm_wolf_gauntlets|그림자 늑대 앞발
+itm_wolf_gauntlets_pl|그림자 늑대 앞발
+itm_snake_gloves|뱀 장갑
+itm_snake_gloves_pl|뱀 장갑
+itm_snake_gauntlets|뱀 건틀릿
+itm_snake_gauntlets_pl|뱀 건틀릿
+itm_asp_gauntlets|ASP 건틀릿
+itm_asp_gauntlets_pl|ASP 건틀릿
+itm_black_steel_gauntlets|검은 강철 건틀릿
+itm_black_steel_gauntlets_pl|검은 강철 건틀릿
+itm_hourglass_gauntlets_black|검은 모래 시계 건틀릿
+itm_hourglass_gauntlets_black_pl|검은 모래 시계 건틀릿
+itm_hourglass_gauntlets|모래 시계 건틀릿
+itm_hourglass_gauntlets_pl|모래 시계 건틀릿
+itm_hourglass_gauntlets_ornate|황금 장갑
+itm_hourglass_gauntlets_ornate_pl|황금 장갑
+itm_mett_mittens|메텐 하임 강철 장갑
+itm_mett_mittens_pl|메텐 하임 강철 장갑
+itm_myst_gauntlets|Bearclaw 건틀릿
+itm_myst_gauntlets_pl|Bearclaw 건틀릿
+itm_iron_gold_gauntlets|금과 철제 건틀릿
+itm_iron_gold_gauntlets_pl|금과 철제 건틀릿
+itm_steel_gauntlets|강철 건틀릿
+itm_steel_gauntlets_pl|강철 건틀릿
+itm_iron_gauntlets|철제 건틀릿
+itm_iron_gauntlets_pl|철제 건틀릿
+itm_silver_gauntlets|은 건틀릿
+itm_silver_gauntlets_pl|은 건틀릿
+itm_black_iron_gauntlets|검은 색 & 철제 건틀릿
+itm_black_iron_gauntlets_pl|검은 색 & 철제 건틀릿
+itm_clarion_gauntlets|클라리온 건틀릿
+itm_clarion_gauntlets_pl|클라리온 건틀릿
+itm_green_gauntlets|녹색 건틀릿
+itm_green_gauntlets_pl|녹색 건틀릿
+itm_azure_gauntlets|푸른 건틀릿
+itm_azure_gauntlets_pl|푸른 건틀릿
+itm_azure_gold_gauntlets|푸른 색과 금색 건틀릿
+itm_azure_gold_gauntlets_pl|푸른 색과 금색 건틀릿
+itm_black_gold_gauntlets|블랙 & 골드 건틀릿
+itm_black_gold_gauntlets_pl|블랙 & 골드 건틀릿
+itm_black_ebony_gauntlets|흑단 건틀릿
+itm_black_ebony_gauntlets_pl|흑단 건틀릿
+itm_reinforced_steel_gauntlets|최고 강철 건틀릿
+itm_reinforced_steel_gauntlets_pl|최고 강철 건틀릿
+itm_reinforced_silver_gauntlets|최고은 건틀릿
+itm_reinforced_silver_gauntlets_pl|최고은 건틀릿
+itm_noldor_silver_gauntlets|Noldor Silver 화려한 건틀릿
+itm_noldor_silver_gauntlets_pl|Noldor Silver 화려한 건틀릿
+itm_noldor_leather_gloves|Noldor 가죽 화려한 장갑
+itm_noldor_leather_gloves_pl|Noldor 가죽 화려한 장갑
+itm_ghost_woolen_hose|유령 모직 호스
+itm_ghost_woolen_hose_pl|유령 모직 호스
+itm_ghost_pilgrim_disguise|유령 순례자 로브
+itm_ghost_pilgrim_disguise_pl|유령 순례자 로브
+itm_ghost_head|유령 머리
+itm_ghost_head_pl|유령 머리
+itm_ghost_hands|유령 손
+itm_ghost_hands_pl|유령 손
+itm_mail_boots_for_tableau|은퇴 메일 부츠
+itm_mail_boots_for_tableau_pl|은퇴 메일 부츠
+itm_wrapping_boots|랩핑 부츠
+itm_wrapping_boots_pl|랩핑 부츠
+itm_woolen_hose|모직 호스
+itm_woolen_hose_pl|모직 호스
+itm_blue_hose|블루 호스
+itm_blue_hose_pl|블루 호스
+itm_hide_boots|부츠 숨기기
+itm_hide_boots_pl|부츠 숨기기
+itm_common_rus_shoes|일반적인 신발
+itm_common_rus_shoes_pl|일반적인 신발
+itm_hunter_boots|헌터 부츠
+itm_hunter_boots_pl|헌터 부츠
+itm_ankle_boots|발목 부츠
+itm_ankle_boots_pl|발목 부츠
+itm_looter_boots|루터 부츠
+itm_looter_boots_pl|루터 부츠
+itm_nomad_boots|유목민 장화
+itm_nomad_boots_pl|유목민 장화
+itm_light_leather_boots|가벼운 가죽 장화
+itm_light_leather_boots_pl|가벼운 가죽 장화
+itm_leather_boots|가죽 부츠
+itm_leather_boots_pl|가죽 부츠
+itm_leather_boots2|검은 가죽 부츠
+itm_leather_boots2_pl|검은 가죽 부츠
+itm_melitine_greaves|검은 가죽 경갑
+itm_melitine_greaves_pl|검은 가죽 경갑
+itm_splinted_leather_greaves|부목 가죽 경갑
+itm_splinted_leather_greaves_pl|부목 가죽 경갑
+itm_mail_chausses|메일 Chausses
+itm_mail_chausses_pl|메일 Chausses
+itm_myst_boots|베어 클로 부츠
+itm_myst_boots_pl|베어 클로 부츠
+itm_splinted_greaves|부목 경갑
+itm_splinted_greaves_pl|부목 경갑
+itm_ranger_boots|순찰 자 가죽 장화
+itm_ranger_boots_pl|순찰 자 가죽 장화
+itm_rav_highlander_boots|까마귀 고원 랜더 부츠
+itm_rav_highlander_boots_pl|까마귀 고원 랜더 부츠
+itm_greaves_empire_consul|제국 영사 경갑
+itm_greaves_empire_consul_pl|제국 영사 경갑
+itm_brass_plated_boots|다샤 르 황동 도금 장화
+itm_brass_plated_boots_pl|다샤 르 황동 도금 장화
+itm_mail_boots|메일 부츠
+itm_mail_boots_pl|메일 부츠
+itm_greaves_soft_soled_plate|연질 납땜 판금 경갑
+itm_greaves_soft_soled_plate_pl|연질 납땜 판금 경갑
+itm_soft_greaves|부드러운 땜납 화려한 경갑
+itm_soft_greaves_pl|부드러운 땜납 화려한 경갑
+itm_silvered_boots|화려한 은빛 장화
+itm_silvered_boots_pl|화려한 은빛 장화
+itm_iron_greaves|철 경갑
+itm_iron_greaves_pl|철 경갑
+itm_plate_boots|판금 장화
+itm_plate_boots_pl|판금 장화
+itm_melitine_plate_boots|멜리 틴 플레이트 부츠
+itm_melitine_plate_boots_pl|멜리 틴 플레이트 부츠
+itm_dshar_orange_boots|다샤 부목 경갑
+itm_dshar_orange_boots_pl|다샤 부목 경갑
+itm_greaves_ornate_plate|화려한 판금 장화
+itm_greaves_ornate_plate_pl|화려한 판금 장화
+itm_greaves_polished_plate|광택 판금 장화
+itm_greaves_polished_plate_pl|광택 판금 장화
+itm_black_steel_boots|진한 녹색 신 보드
+itm_black_steel_boots_pl|진한 녹색 신 보드
+itm_shynbaulds|신 바일 즈
+itm_shynbaulds_pl|신 바일 즈
+itm_steel_greaves_black|검은 강철 경갑
+itm_steel_greaves_black_pl|검은 강철 경갑
+itm_decurion_boots|데커 리온 부츠
+itm_decurion_boots_pl|데커 리온 부츠
+itm_khergit_guard_boots|자투 가드 부츠
+itm_khergit_guard_boots_pl|자투 가드 부츠
+itm_steel_boots_new|광택 스틸 부츠
+itm_steel_boots_new_pl|광택 스틸 부츠
+itm_steel_greaves|강철 경갑
+itm_steel_greaves_pl|강철 경갑
+itm_steel_greaves_dark|짙은 녹색 경갑
+itm_steel_greaves_dark_pl|짙은 녹색 경갑
+itm_black_greaves|검은 경갑
+itm_black_greaves_pl|검은 경갑
+itm_greaves_shadow_legion|그림자 군단 장화
+itm_greaves_shadow_legion_pl|그림자 군단 장화
+itm_heavy_iron_greaves|강철 무쇠 경갑
+itm_heavy_iron_greaves_pl|강철 무쇠 경갑
+itm_greaves_heavy_plate|두꺼운 판금 경갑
+itm_greaves_heavy_plate_pl|두꺼운 판금 경갑
+itm_noldor_boots|Noldor 마법 부여 장화
+itm_noldor_boots_pl|Noldor 마법 부여 장화
+itm_noldor_plate_greaves|Noldor 판금 경갑
+itm_noldor_plate_greaves_pl|Noldor 판금 경갑
+itm_only_sandals|샌들
+itm_only_sandals_pl|샌들
+itm_ebony_greaves|흑단 경갑
+itm_ebony_greaves_pl|흑단 경갑
+itm_empire_shynbaulds|제국 신 바일 즈
+itm_empire_shynbaulds_pl|제국 신 바일 즈
+itm_azure_greaves|푸른 경갑
+itm_azure_greaves_pl|푸른 경갑
+itm_silver_gold_greaves|은과 금 경갑
+itm_silver_gold_greaves_pl|은과 금 경갑
+itm_dark_leather_boots|어두운 가죽 장화
+itm_dark_leather_boots_pl|어두운 가죽 장화
+itm_wolf_greaves_1|그림자 늑대 경갑
+itm_wolf_greaves_1_pl|그림자 늑대 경갑
+itm_priestess_boots|여사 제 뱀 부츠
+itm_priestess_boots_pl|여사 제 뱀 부츠
+itm_xena_boots|화려한 가죽 장화
+itm_xena_boots_pl|화려한 가죽 장화
+itm_asp_greaves|ASP 경갑
+itm_asp_greaves_pl|ASP 경갑
+itm_female_hood|레이디스 후드
+itm_female_hood_pl|레이디스 후드
+itm_khergit_lady_hat|디 샤르 레이디 모자
+itm_khergit_lady_hat_pl|디 샤르 레이디 모자
+itm_khergit_lady_hat_b|디 샤르 레이디 가죽 모자
+itm_khergit_lady_hat_b_pl|디 샤르 레이디 가죽 모자
+itm_head_wrappings|헤드 랩핑
+itm_head_wrappings_pl|헤드 랩핑
+itm_turret_hat_ruby|루비 터릿 모자
+itm_turret_hat_ruby_pl|루비 터릿 모자
+itm_turret_hat_blue|블루 터렛 모자
+itm_turret_hat_blue_pl|블루 터렛 모자
+itm_turret_hat_green|포좌
+itm_turret_hat_green_pl|포좌
+itm_court_hat|터렛 모자
+itm_court_hat_pl|터렛 모자
+itm_wimple_a|잔물결
+itm_wimple_a_pl|잔물결
+itm_wimple_with_veil|베일이있는 단순
+itm_wimple_with_veil_pl|베일이있는 단순
+itm_straw_hat|밀짚 모자
+itm_straw_hat_pl|밀짚 모자
+itm_common_hood|후드
+itm_common_hood_pl|후드
+itm_black_hood|검은 두건
+itm_black_hood_pl|검은 두건
+itm_empire_hood|제국 후드
+itm_empire_hood_pl|제국 후드
+itm_headcloth|헝겊
+itm_headcloth_pl|헝겊
+itm_arming_cap|무장 모자
+itm_arming_cap_pl|무장 모자
+itm_fur_hat|모피 모자
+itm_fur_hat_pl|모피 모자
+itm_nomad_cap|스파이크 유목민 모자
+itm_nomad_cap_pl|스파이크 유목민 모자
+itm_nomad_cap_b|유목민 모자
+itm_nomad_cap_b_pl|유목민 모자
+itm_woolen_cap|모직 캡
+itm_woolen_cap_pl|모직 캡
+itm_felt_hat|뾰족한 펠트 모자
+itm_felt_hat_pl|뾰족한 펠트 모자
+itm_felt_hat_b|펠트 모자
+itm_felt_hat_b_pl|펠트 모자
+itm_leather_cap|가죽 캡
+itm_leather_cap_pl|가죽 캡
+itm_padded_coif|패딩 된 코 이프
+itm_padded_coif_pl|패딩 된 코 이프
+itm_nordic_archer_helmet|불스 바인 가죽 투구
+itm_nordic_archer_helmet_pl|불스 바인 가죽 투구
+itm_leather_warrior_cap|가죽 전사 모자
+itm_leather_warrior_cap_pl|가죽 전사 모자
+itm_leather_steppe_cap_b|스텝 캡
+itm_leather_steppe_cap_b_pl|스텝 캡
+itm_leather_steppe_cap_c|모피 스텝 캡
+itm_leather_steppe_cap_c_pl|모피 스텝 캡
+itm_leather_steppe_cap_a|가죽 스텝 캡
+itm_leather_steppe_cap_a_pl|가죽 스텝 캡
+itm_nordic_veteran_archer_helmet|Fierdsvain Veteran Leather Helmet
+itm_nordic_veteran_archer_helmet_pl|Fierdsvain Veteran Leather Helmet
+itm_skullcap|해골 모자
+itm_skullcap_pl|해골 모자
+itm_mail_coif|메일 코 이프
+itm_mail_coif_pl|메일 코 이프
+itm_footman_helmet|풋맨 헬멧
+itm_footman_helmet_pl|풋맨 헬멧
+itm_nasal_helmet|코 헬멧
+itm_nasal_helmet_pl|코 헬멧
+itm_leather_neck_helmet|철 및 가죽 헬멧
+itm_leather_neck_helmet_pl|철 및 가죽 헬멧
+itm_sipahi_helmet_a|시파 히 헬멧
+itm_sipahi_helmet_a_pl|시파 히 헬멧
+itm_norman_helmet|모자와 헬멧
+itm_norman_helmet_pl|모자와 헬멧
+itm_spiked_helmet|스파이크 헬멧
+itm_spiked_helmet_pl|스파이크 헬멧
+itm_nordic_footman_helmet|Fierdsvain Footman Helmet
+itm_nordic_footman_helmet_pl|Fierdsvain Footman Helmet
+itm_dshar_war_helmet|다샤 전쟁 헬멧
+itm_dshar_war_helmet_pl|다샤 전쟁 헬멧
+itm_segmented_helmet|세그먼트 헬멧
+itm_segmented_helmet_pl|세그먼트 헬멧
+itm_helmet_empire_conscript|제국 징집 투구
+itm_helmet_empire_conscript_pl|제국 징집 투구
+itm_mail_neck_helmet|메일 넥 헬멧
+itm_mail_neck_helmet_pl|메일 넥 헬멧
+itm_nordic_fighter_helmet|피어스 바인 파이터 헬멧
+itm_nordic_fighter_helmet_pl|피어스 바인 파이터 헬멧
+itm_helmet_with_neckguard|넥 가드가 달린 헬멧
+itm_helmet_with_neckguard_pl|넥 가드가 달린 헬멧
+itm_helmet_shahi|샤히
+itm_helmet_shahi_pl|샤히
+itm_melitine_helmet|멜리 틴 헬멧
+itm_melitine_helmet_pl|멜리 틴 헬멧
+itm_kettle_hat|주전자 모자
+itm_kettle_hat_pl|주전자 모자
+itm_nordic_helmet|반스 케리 헬멧
+itm_nordic_helmet_pl|반스 케리 헬멧
+itm_flat_topped_helmet|플랫 탑 헬멧
+itm_flat_topped_helmet_pl|플랫 탑 헬멧
+itm_visorless_sallet|챙없는 살렛
+itm_visorless_sallet_pl|챙없는 살렛
+itm_jacok_morion_pop|연수정
+itm_jacok_morion_pop_pl|연수정
+itm_helmet_cap_and_chain|모자 & 체인 투구
+itm_helmet_cap_and_chain_pl|모자 & 체인 투구
+itm_skull_helm|주술사 해골 투구
+itm_skull_helm_pl|주술사 해골 투구
+itm_spangenhelm|스판 겐 헬름
+itm_spangenhelm_pl|스판 겐 헬름
+itm_barclay_pot_helm|바클레이 냄비 헬멧
+itm_barclay_pot_helm_pl|바클레이 냄비 헬멧
+itm_helmet_chain_mask_kettlehelm|사슬 마스크 주전자
+itm_helmet_chain_mask_kettlehelm_pl|사슬 마스크 주전자
+itm_bascinet|바시 넷
+itm_bascinet_pl|바시 넷
+itm_bascinet_2|어벤 테일 바시 넷
+itm_bascinet_2_pl|어벤 테일 바시 넷
+itm_bascinet_3|코 보호대가있는 바시 넷
+itm_bascinet_3_pl|코 보호대가있는 바시 넷
+itm_vaegir_noble_helmet|까마귀 귀족 투구
+itm_vaegir_noble_helmet_pl|까마귀 귀족 투구
+itm_armet_normal|아르 메트
+itm_armet_normal_pl|아르 메트
+itm_armet_plumed|깃털이 달린 암렛
+itm_armet_plumed_pl|깃털이 달린 암렛
+itm_armet_open|아렛-오픈
+itm_armet_open_pl|아렛-오픈
+itm_armet_open_plumed|플럼이있는 암렛-개방
+itm_armet_open_plumed_pl|플럼이있는 암렛-개방
+itm_faceplate_iron|철판 헬멧
+itm_faceplate_iron_pl|철판 헬멧
+itm_guard_helmet|가드 헬멧
+itm_guard_helmet_pl|가드 헬멧
+itm_vaegir_war_helmet|까마귀 전쟁 투구
+itm_vaegir_war_helmet_pl|까마귀 전쟁 투구
+itm_nemean_helm|네 미안 투구
+itm_nemean_helm_pl|네 미안 투구
+itm_helmet_empire_legion|군단 투구
+itm_helmet_empire_legion_pl|군단 투구
+itm_fluted_helmet|피리 헬멧
+itm_fluted_helmet_pl|피리 헬멧
+itm_nordic_huscarl_helmet|피어스 바인 후스 칼의 투구
+itm_nordic_huscarl_helmet_pl|피어스 바인 후스 칼의 투구
+itm_dshar_spiked_helmet|다샤 르 스파이크 헬멧
+itm_dshar_spiked_helmet_pl|다샤 르 스파이크 헬멧
+itm_bear_helm|수염 발톱 투구
+itm_bear_helm_pl|수염 발톱 투구
+itm_helmet_mercenary|용병 투구
+itm_helmet_mercenary_pl|용병 투구
+itm_helmet_vanskerry_warleader|반스 케리 워 리더 투구
+itm_helmet_vanskerry_warleader_pl|반스 케리 워 리더 투구
+itm_helm_dshar_warrior|다샤 르 전사 투구
+itm_helm_dshar_warrior_pl|다샤 르 전사 투구
+itm_helmet_torbah_warrior|토르 바 전사 투구
+itm_helmet_torbah_warrior_pl|토르 바 전사 투구
+itm_helmet_marinus|제국 마리 누스 투구
+itm_helmet_marinus_pl|제국 마리 누스 투구
+itm_empire_steel_helmet|제국 강철 투구
+itm_empire_steel_helmet_pl|제국 강철 투구
+itm_vendel|Fierdsvain Vendel Helm
+itm_vendel_pl|Fierdsvain Vendel Helm
+itm_nordic_warlord_helmet|불스 바인 전쟁 군주 투구
+itm_nordic_warlord_helmet_pl|불스 바인 전쟁 군주 투구
+itm_faceplate_mail_helmet|페이스 플레이트 및 메일 헬멧
+itm_faceplate_mail_helmet_pl|페이스 플레이트 및 메일 헬멧
+itm_helmet_faceplate|페이스 플레이트
+itm_helmet_faceplate_pl|페이스 플레이트
+itm_adventurer_heume|모험가 투구
+itm_adventurer_heume_pl|모험가 투구
+itm_adventurer_helm|모험가 오픈 투구
+itm_adventurer_helm_pl|모험가 오픈 투구
+itm_vecc_helm_tail|꼬리를 가진 베카 비안 투구
+itm_vecc_helm_tail_pl|꼬리를 가진 베카 비안 투구
+itm_vecc_helm_tail_open|꼬리가 달린 베카 비안 투구
+itm_vecc_helm_tail_open_pl|꼬리가 달린 베카 비안 투구
+itm_helmet_vanskerry_snouz|반스 케리 발스 가드 투구
+itm_helmet_vanskerry_snouz_pl|반스 케리 발스 가드 투구
+itm_jarl_helmet|피어스 바인 자렐 헬멧
+itm_jarl_helmet_pl|피어스 바인 자렐 헬멧
+itm_sallet_open_only_steel2|철판
+itm_sallet_open_only_steel2_pl|철판
+itm_sallet_celata|셀라 타 살렛
+itm_sallet_celata_pl|셀라 타 살렛
+itm_helmet_ravenstern|까마귀 투구
+itm_helmet_ravenstern_pl|까마귀 투구
+itm_steel_barbutte|바부 테
+itm_steel_barbutte_pl|바부 테
+itm_sallet_open|간단한 샐렛
+itm_sallet_open_pl|간단한 샐렛
+itm_sallet_open_only_steel|스틸 샐렛
+itm_sallet_open_only_steel_pl|스틸 샐렛
+itm_sallet_open_only_steel_red|붉은 깃털을 가진 강철 샐
+itm_sallet_open_only_steel_red_pl|붉은 깃털을 가진 강철 샐
+itm_sarleon_sallet_01|Sarleon Sallet
+itm_sarleon_sallet_01_pl|Sarleon Sallet
+itm_sallet_closed_feather_yellow|깃털을 가진 강철 샬레
+itm_sallet_closed_feather_yellow_pl|깃털을 가진 강철 샬레
+itm_full_helm|풀 헬름
+itm_full_helm_pl|풀 헬름
+itm_empire_blacksteel_helmet|제국 수호자 투구
+itm_empire_blacksteel_helmet_pl|제국 수호자 투구
+itm_dread_helm|공포의 투구
+itm_dread_helm_pl|공포의 투구
+itm_valsgarde|불스 바인 발스 가르드 투구
+itm_valsgarde_pl|불스 바인 발스 가르드 투구
+itm_kiergard_helm_with_mail|우편으로 키어 가드 투구
+itm_kiergard_helm_with_mail_pl|우편으로 키어 가드 투구
+itm_kiergard_helm|키어 가드 투구
+itm_kiergard_helm_pl|키어 가드 투구
+itm_sallet_strange_steel|이상한 강철 샐렛
+itm_sallet_strange_steel_pl|이상한 강철 샐렛
+itm_helmet_torbah_mask|토르 바 마스크 투구
+itm_helmet_torbah_mask_pl|토르 바 마스크 투구
+itm_kiergard_helm_silver_with_mail|쇠사슬 투구
+itm_kiergard_helm_silver_with_mail_pl|쇠사슬 투구
+itm_kiergard_helm_silver|은빛 안개 투구
+itm_kiergard_helm_silver_pl|은빛 안개 투구
+itm_maciejowski_helmet|메이 키 호프 스키 헬멧
+itm_maciejowski_helmet_pl|메이 키 호프 스키 헬멧
+itm_great_helmet|그레이트 헬멧
+itm_great_helmet_pl|그레이트 헬멧
+itm_fierd_helm_2|Fierdsvain Heavy Spangenhelm
+itm_fierd_helm_2_pl|Fierdsvain Heavy Spangenhelm
+itm_fierd_helm_1|Fierdsvain Riveted Spangenhelm
+itm_fierd_helm_1_pl|Fierdsvain Riveted Spangenhelm
+itm_fierd_helm_1_horned|Fierdsvain Horned Spangenhelm
+itm_fierd_helm_1_horned_pl|Fierdsvain Horned Spangenhelm
+itm_immortal_helmet|불멸의 프리머스 헬멧
+itm_immortal_helmet_pl|불멸의 프리머스 헬멧
+itm_immortal_helmet_a|불멸의 투구
+itm_immortal_helmet_a_pl|불멸의 투구
+itm_empire_gold_helmet|엠파이어 골드 헬멧
+itm_empire_gold_helmet_pl|엠파이어 골드 헬멧
+itm_helmet_empire_immortal|백부장 투구
+itm_helmet_empire_immortal_pl|백부장 투구
+itm_sallet_closed|우편으로 스틸 샬레
+itm_sallet_closed_pl|우편으로 스틸 샬레
+itm_ishkam_helm|이시 캄 투구
+itm_ishkam_helm_pl|이시 캄 투구
+itm_helmet_torbah_chieftain|토르 바 족장 투구
+itm_helmet_torbah_chieftain_pl|토르 바 족장 투구
+itm_barclay_helm|바클레이 그레이트 헬멧
+itm_barclay_helm_pl|바클레이 그레이트 헬멧
+itm_great_sugarloaf_helm|기사의 대 투구
+itm_great_sugarloaf_helm_pl|기사의 대 투구
+itm_melitine_mask_bronze|멜리 틴 브론즈 마스크
+itm_melitine_mask_bronze_pl|멜리 틴 브론즈 마스크
+itm_maximilian_helmet|막시밀리안 헬멧
+itm_maximilian_helmet_pl|막시밀리안 헬멧
+itm_maximilian_helmet_open|막시밀리안 헬멧-오픈
+itm_maximilian_helmet_open_pl|막시밀리안 헬멧-오픈
+itm_maximilian_helmet_horned|뿔이 달린 막시밀리안 헬멧
+itm_maximilian_helmet_horned_pl|뿔이 달린 막시밀리안 헬멧
+itm_maximilian_helmet_horned2|낮은 뿔이 달린 막시밀리안 헬멧
+itm_maximilian_helmet_horned2_pl|낮은 뿔이 달린 막시밀리안 헬멧
+itm_zitta_bascinet|지타 바시 넷
+itm_zitta_bascinet_pl|지타 바시 넷
+itm_zitta_bascinet_horned|뿔이 달린 지타 바시 넷
+itm_zitta_bascinet_horned_pl|뿔이 달린 지타 바시 넷
+itm_khergit_helmet|자투 헬멧
+itm_khergit_helmet_pl|자투 헬멧
+itm_khergit_cavalry_helmet|자투 기병 헬멧
+itm_khergit_cavalry_helmet_pl|자투 기병 헬멧
+itm_khergit_war_helmet|자투 전쟁 투구
+itm_khergit_war_helmet_pl|자투 전쟁 투구
+itm_khergit_guard_helmet|자투 가드 헬멧
+itm_khergit_guard_helmet_pl|자투 가드 헬멧
+itm_jatu_mask_helm|자투 마스크 투구
+itm_jatu_mask_helm_pl|자투 마스크 투구
+itm_jatu_faceless_helm|자투 페이스리스 투구
+itm_jatu_faceless_helm_pl|자투 페이스리스 투구
+itm_rav_footman_helm|까마귀 풋맨 투구
+itm_rav_footman_helm_pl|까마귀 풋맨 투구
+itm_rav_bascinet|까마귀 바시 넷
+itm_rav_bascinet_pl|까마귀 바시 넷
+itm_rav_open_bascinet|까마귀 바시 넷-오픈
+itm_rav_open_bascinet_pl|까마귀 바시 넷-오픈
+itm_sarleon_greathelm|Sarleon 둥근 바시 넷
+itm_sarleon_greathelm_pl|Sarleon 둥근 바시 넷
+itm_helmet_sarleon_knight_plume|Sarleon 둥근 바시 넷-오픈
+itm_helmet_sarleon_knight_plume_pl|Sarleon 둥근 바시 넷-오픈
+itm_great_helm|면판 투구
+itm_great_helm_pl|면판 투구
+itm_feather_bascinet_1|검은 깃털을 가진 Hounskull Bascinet
+itm_feather_bascinet_1_pl|검은 깃털을 가진 Hounskull Bascinet
+itm_helmet_hounskull_royal_open|로얄 하운 스쿨 바시 넷-오픈
+itm_helmet_hounskull_royal_open_pl|로얄 하운 스쿨 바시 넷-오픈
+itm_helmet_hounskull_bascinet|깃털을 가진 Hounskull Bascinet
+itm_helmet_hounskull_bascinet_pl|깃털을 가진 Hounskull Bascinet
+itm_visored_bascinet|바이저 바시 넷
+itm_visored_bascinet_pl|바이저 바시 넷
+itm_visored_bascinet_tailed|꼬리를 가진 바이저 바시 넷
+itm_visored_bascinet_tailed_pl|꼬리를 가진 바이저 바시 넷
+itm_visored_bascinet_open|바이저 바시 넷-오픈
+itm_visored_bascinet_open_pl|바이저 바시 넷-오픈
+itm_helmet_hounskull_bascinet_open_a|바클레이 Hounskull Bascinet-오픈
+itm_helmet_hounskull_bascinet_open_a_pl|바클레이 Hounskull Bascinet-오픈
+itm_helmet_hounskull_bascinet_open_b|깃털이있는 Barclay Hounskull Bascinet-오픈
+itm_helmet_hounskull_bascinet_open_b_pl|깃털이있는 Barclay Hounskull Bascinet-오픈
+itm_helmet_hounskull_bascinet_open_c|둥근 바시 넷-오픈
+itm_helmet_hounskull_bascinet_open_c_pl|둥근 바시 넷-오픈
+itm_feather_bascinet_2|검은 깃털을 가진 둥근 바시 넷
+itm_feather_bascinet_2_pl|검은 깃털을 가진 둥근 바시 넷
+itm_open_bascinet_irb|깃털이있는 오픈 바시 넷
+itm_open_bascinet_irb_pl|깃털이있는 오픈 바시 넷
+itm_flat_bascinet_tailed_open_irb|꼬리를 가진 편평한 Bascinet-열린
+itm_flat_bascinet_tailed_open_irb_pl|꼬리를 가진 편평한 Bascinet-열린
+itm_flat_bascinet_tailed_irb|꼬리를 가진 편평한 Bascinet
+itm_flat_bascinet_tailed_irb_pl|꼬리를 가진 편평한 Bascinet
+itm_black_rounded_bascinet|꼬리를 가진 검은 둥근 바시 넷
+itm_black_rounded_bascinet_pl|꼬리를 가진 검은 둥근 바시 넷
+itm_black_rounded_bascinet_open|꼬리를 가진 최고 검은 둥근 Bascinet
+itm_black_rounded_bascinet_open_pl|꼬리를 가진 최고 검은 둥근 Bascinet
+itm_hounskull_bascinet_tailed_irb|꼬리를 가진 Hounskull Bascinet
+itm_hounskull_bascinet_tailed_irb_pl|꼬리를 가진 Hounskull Bascinet
+itm_silver_7_helmet|은빛 새벽 투구
+itm_silver_7_helmet_pl|은빛 새벽 투구
+itm_silver_3_helmet|은빛 새벽 투구-공개
+itm_silver_3_helmet_pl|은빛 새벽 투구-공개
+itm_silver_4_helmet|실버 헬멧-오픈
+itm_silver_4_helmet_pl|실버 헬멧-오픈
+itm_silver_9_helmet|은빛 뾰족한 바시 넷
+itm_silver_9_helmet_pl|은빛 뾰족한 바시 넷
+itm_silver_10_helmet|은색 둥근 바시 넷
+itm_silver_10_helmet_pl|은색 둥근 바시 넷
+itm_silver_1_helmet|꼬리를 가진은 둥근 바시 넷
+itm_silver_1_helmet_pl|꼬리를 가진은 둥근 바시 넷
+itm_silver_2_helmet|깃털이 달린 은색 플랫 투구
+itm_silver_2_helmet_pl|깃털이 달린 은색 플랫 투구
+itm_silver_1b_helmet|은 투구
+itm_silver_1b_helmet_pl|은 투구
+itm_silver_2b_helmet|꼬리를 가진 은빛 뾰족한 바시 넷
+itm_silver_2b_helmet_pl|꼬리를 가진 은빛 뾰족한 바시 넷
+itm_silver_3b_helmet|꼬리를 가진은 투구
+itm_silver_3b_helmet_pl|꼬리를 가진은 투구
+itm_silver_4b_helmet|실버 하운 스쿨 바시 넷
+itm_silver_4b_helmet_pl|실버 하운 스쿨 바시 넷
+itm_azure_6_helmet|푸른 투구
+itm_azure_6_helmet_pl|푸른 투구
+itm_azure_7_helmet|푸른 투구-공개
+itm_azure_7_helmet_pl|푸른 투구-공개
+itm_azure_8_helmet|꼬리를 가진 편평한 푸른 투구
+itm_azure_8_helmet_pl|꼬리를 가진 편평한 푸른 투구
+itm_azure_9_helmet|푸른 뾰족한 바시 넷-오픈
+itm_azure_9_helmet_pl|푸른 뾰족한 바시 넷-오픈
+itm_azure_10_helmet|푸른 둥근 바시 넷
+itm_azure_10_helmet_pl|푸른 둥근 바시 넷
+itm_outrider_helm|아웃 라이더 투구
+itm_outrider_helm_pl|아웃 라이더 투구
+itm_green_2_helmet|꼬리를 가진 순찰 자 투구
+itm_green_2_helmet_pl|꼬리를 가진 순찰 자 투구
+itm_green_1_helmet|깃털을 가진 녹색 투구
+itm_green_1_helmet_pl|깃털을 가진 녹색 투구
+itm_green_4_helmet|녹색 둥근 바시 넷-오픈
+itm_green_4_helmet_pl|녹색 둥근 바시 넷-오픈
+itm_green_3_helmet|깃털을 가진 녹색 뾰족한 바시 넷
+itm_green_3_helmet_pl|깃털을 가진 녹색 뾰족한 바시 넷
+itm_black_1_helmet|깃털과 검은 투구
+itm_black_1_helmet_pl|깃털과 검은 투구
+itm_helmet_knight_unicorn_open|유니콘 투구 열기
+itm_helmet_knight_unicorn_open_pl|유니콘 투구 열기
+itm_helmet_knight_unicorn|유니콘 투구
+itm_helmet_knight_unicorn_pl|유니콘 투구
+itm_black_2_helmet|깃털을 가진 편평한 투구
+itm_black_2_helmet_pl|깃털을 가진 편평한 투구
+itm_black_3_helmet|꼬리를 가진 검은 둥근 바시 넷
+itm_black_3_helmet_pl|꼬리를 가진 검은 둥근 바시 넷
+itm_helmet_black_hounskull_a|검은 둥근 바시 넷
+itm_helmet_black_hounskull_a_pl|검은 둥근 바시 넷
+itm_helmet_black_hounskull_b|깃털을 가진 검은 둥근 바시 넷
+itm_helmet_black_hounskull_b_pl|깃털을 가진 검은 둥근 바시 넷
+itm_black_7_helmet|깃털을 가진 흑단 투구
+itm_black_7_helmet_pl|깃털을 가진 흑단 투구
+itm_black_8_helmet|까마귀 투구
+itm_black_8_helmet_pl|까마귀 투구
+itm_supreme_raven_helm|최고 까마귀 투구
+itm_supreme_raven_helm_pl|최고 까마귀 투구
+itm_black_9_helmet|그리폰 바시 넷
+itm_black_9_helmet_pl|그리폰 바시 넷
+itm_steel_1_helmet|깃털이 달린 강철 투구
+itm_steel_1_helmet_pl|깃털이 달린 강철 투구
+itm_steel_2_helmet|바이저 강철 투구
+itm_steel_2_helmet_pl|바이저 강철 투구
+itm_steel_3_helmet|스틸 플랫 바시 넷
+itm_steel_3_helmet_pl|스틸 플랫 바시 넷
+itm_darkhelm|다크 나이트 투구
+itm_darkhelm_pl|다크 나이트 투구
+itm_helmet_hounskull_sarleon|Sarleon Hounskull Bascinet
+itm_helmet_hounskull_sarleon_pl|Sarleon Hounskull Bascinet
+itm_helmet_hounskull_sarleon_open|Sarleon Hounskull Bascinet-오픈
+itm_helmet_hounskull_sarleon_open_pl|Sarleon Hounskull Bascinet-오픈
+itm_helmet_rounded_bascinet|강철 둥근 바시 넷
+itm_helmet_rounded_bascinet_pl|강철 둥근 바시 넷
+itm_steel_4_helmet|꼬리를 가진 강철 둥근 Bascinet
+itm_steel_4_helmet_pl|꼬리를 가진 강철 둥근 Bascinet
+itm_steel_5_helmet|사자 바시 넷
+itm_steel_5_helmet_pl|사자 바시 넷
+itm_helmet_great_gold_plated|왕관과 함께 흑백 날개 투구
+itm_helmet_great_gold_plated_pl|왕관과 함께 흑백 날개 투구
+itm_helmet_knight_helm|대 투구
+itm_helmet_knight_helm_pl|대 투구
+itm_helmet_horned_01|뿔을 가진 용 대 투구
+itm_helmet_horned_01_pl|뿔을 가진 용 대 투구
+itm_great_helm_2|용 대 투구
+itm_great_helm_2_pl|용 대 투구
+itm_winged_great_helmet|그리폰 투구
+itm_winged_great_helmet_pl|그리폰 투구
+itm_helmet_molded_great|성형 된 대 투구
+itm_helmet_molded_great_pl|성형 된 대 투구
+itm_great_helm_1|관심의 장화
+itm_great_helm_1_pl|관심의 장화
+itm_winged_great_helmet_1|빨강 & 녹색 날개 투구
+itm_winged_great_helmet_1_pl|빨강 & 녹색 날개 투구
+itm_great_helmet_silver_1|은빛 기사 투구
+itm_great_helmet_silver_1_pl|은빛 기사 투구
+itm_great_helmet_silver_3|은빛 리벳 장화
+itm_great_helmet_silver_3_pl|은빛 리벳 장화
+itm_great_helmet_silver_6|뿔은 큰 투구
+itm_great_helmet_silver_6_pl|뿔은 큰 투구
+itm_great_helmet_silver_7|파란색과 노란색 큰 투구
+itm_great_helmet_silver_7_pl|파란색과 노란색 큰 투구
+itm_great_helmet_silver_8|뿔은 기사 투구
+itm_great_helmet_silver_8_pl|뿔은 기사 투구
+itm_great_helmet_silver_5|여명의 날개 달린 투구
+itm_great_helmet_silver_5_pl|여명의 날개 달린 투구
+itm_great_helmet_silver_2|은 그레이트 투구
+itm_great_helmet_silver_2_pl|은 그레이트 투구
+itm_helmet_knight_helm_black|흑기사 투구
+itm_helmet_knight_helm_black_pl|흑기사 투구
+itm_eventide_helm_cape|케이프와 Eventide 투구
+itm_eventide_helm_cape_pl|케이프와 Eventide 투구
+itm_eventide_helm|Eventide Helm
+itm_eventide_helm_pl|Eventide Helm
+itm_great_horned_helm_3|화이트 & 그린 나이트 투구
+itm_great_horned_helm_3_pl|화이트 & 그린 나이트 투구
+itm_great_helmet_black_1|검은 그레이트 투구
+itm_great_helmet_black_1_pl|검은 그레이트 투구
+itm_great_helmet_black_3|빨강 & 노랑 기사 투구
+itm_great_helmet_black_3_pl|빨강 & 노랑 기사 투구
+itm_helmet_horned_02|뿔 달린 검은 투구
+itm_helmet_horned_02_pl|뿔 달린 검은 투구
+itm_hood_white_silver_1|은 투구 & 화이트 후드
+itm_hood_white_silver_1_pl|은 투구 & 화이트 후드
+itm_hood_white_silver_2|은 Hounskull Bascinet & 화이트 후드
+itm_hood_white_silver_2_pl|은 Hounskull Bascinet & 화이트 후드
+itm_hood_white_black_1|검은 투구 & 화이트 후드
+itm_hood_white_black_1_pl|검은 투구 & 화이트 후드
+itm_hood_white_black_2|다크 헌 스컬 바시 넷 & 화이트 후드
+itm_hood_white_black_2_pl|다크 헌 스컬 바시 넷 & 화이트 후드
+itm_hood_white_iron_1|철 투구 & 화이트 후드
+itm_hood_white_iron_1_pl|철 투구 & 화이트 후드
+itm_hood_white_iron_2|둥근 바시 넷 & 화이트 후드
+itm_hood_white_iron_2_pl|둥근 바시 넷 & 화이트 후드
+itm_hood_white_silver_3|백색 두건을 가진은 & 금 투구
+itm_hood_white_silver_3_pl|백색 두건을 가진은 & 금 투구
+itm_hood_white_silver_4|은색 둥근 바시 넷 & 화이트 후드
+itm_hood_white_silver_4_pl|은색 둥근 바시 넷 & 화이트 후드
+itm_hood_white_iron_3|금 투구 & 화이트 후드
+itm_hood_white_iron_3_pl|금 투구 & 화이트 후드
+itm_hood_white_iron_4|Hounskull Bascinet 및 화이트 후드
+itm_hood_white_iron_4_pl|Hounskull Bascinet 및 화이트 후드
+itm_hood_black_black_1|검은 색 후드가있는 다크 앤 골드 투구
+itm_hood_black_black_1_pl|검은 색 후드가있는 다크 앤 골드 투구
+itm_hood_black_black_2|다크 헌 스컬 바시 넷 & 블랙 후드
+itm_hood_black_black_2_pl|다크 헌 스컬 바시 넷 & 블랙 후드
+itm_hood_black_black_3|검은 투구 & 검은 두건
+itm_hood_black_black_3_pl|검은 투구 & 검은 두건
+itm_hood_black_black_4|다크 라운드 바시 넷 & 블랙 후드
+itm_hood_black_black_4_pl|다크 라운드 바시 넷 & 블랙 후드
+itm_hood_black_black_5|검은 투구 & 검은 두건
+itm_hood_black_black_5_pl|검은 투구 & 검은 두건
+itm_hood_black_iron_1|금 투구 & 검은 두건
+itm_hood_black_iron_1_pl|금 투구 & 검은 두건
+itm_hood_black_iron_2|금 둥근 바시 넷 & 블랙 후드
+itm_hood_black_iron_2_pl|금 둥근 바시 넷 & 블랙 후드
+itm_hood_black_iron_3|검은 두건을 쓴 투구
+itm_hood_black_iron_3_pl|검은 두건을 쓴 투구
+itm_hood_black_iron_4|Hounskull Bascinet & Black Hood
+itm_hood_black_iron_4_pl|Hounskull Bascinet & Black Hood
+itm_hood_black_iron_5|검은 색 후드가 달린 검은 색 & 철제 투구
+itm_hood_black_iron_5_pl|검은 색 후드가 달린 검은 색 & 철제 투구
+itm_hood_red_iron_1|금 투구 & 빨간 두건
+itm_hood_red_iron_1_pl|금 투구 & 빨간 두건
+itm_hood_red_iron_2|골드 헌 스컬 바시 넷 & 레드 후드
+itm_hood_red_iron_2_pl|골드 헌 스컬 바시 넷 & 레드 후드
+itm_hood_red_black_1|검은 투구 & 빨간 두건
+itm_hood_red_black_1_pl|검은 투구 & 빨간 두건
+itm_hood_red_black_2|금 둥근 바시 넷 & 레드 후드
+itm_hood_red_black_2_pl|금 둥근 바시 넷 & 레드 후드
+itm_hood_red_iron_3|투구 및 빨간 두건
+itm_hood_red_iron_3_pl|투구 및 빨간 두건
+itm_hood_red_steel_1|Sarleon Hounskull Bascinet 및 레드 후드
+itm_hood_red_steel_1_pl|Sarleon Hounskull Bascinet 및 레드 후드
+itm_hood_red_steel_2|Sarleon 둥근 바시 넷 & 레드 후드
+itm_hood_red_steel_2_pl|Sarleon 둥근 바시 넷 & 레드 후드
+itm_hood_green_iron_1|투구 및 녹색 두건
+itm_hood_green_iron_1_pl|투구 및 녹색 두건
+itm_hood_green_iron_2|둥근 바시 넷 & 그린 후드
+itm_hood_green_iron_2_pl|둥근 바시 넷 & 그린 후드
+itm_hood_blue_iron_1|투구 및 블루 후드
+itm_hood_blue_iron_1_pl|투구 및 블루 후드
+itm_hood_blue_iron_2|Hounskull Bascinet & Blue Hood
+itm_hood_blue_iron_2_pl|Hounskull Bascinet & Blue Hood
+itm_hood_purple_iron_1|투구 & 퍼플 후드
+itm_hood_purple_iron_1_pl|투구 & 퍼플 후드
+itm_hood_purple_iron_2|둥근 바시 넷 & 퍼플 후드
+itm_hood_purple_iron_2_pl|둥근 바시 넷 & 퍼플 후드
+itm_hood_purple_blue_1|블루 헌 스컬 바시 넷 & 퍼플 후드
+itm_hood_purple_blue_1_pl|블루 헌 스컬 바시 넷 & 퍼플 후드
+itm_hood_purple_blue_2|파란색 둥근 바시 넷 & 퍼플 후드
+itm_hood_purple_blue_2_pl|파란색 둥근 바시 넷 & 퍼플 후드
+itm_hood_green_cyan_1|녹색 Hounskull Bascinet & Cyan Hood
+itm_hood_green_cyan_1_pl|녹색 Hounskull Bascinet & Cyan Hood
+itm_hood_green_cyan_2|녹색 둥근 바시 넷 & 시안 후드
+itm_hood_green_cyan_2_pl|녹색 둥근 바시 넷 & 시안 후드
+itm_hood_yellow_silver_1|은 투구 & 노란 두건
+itm_hood_yellow_silver_1_pl|은 투구 & 노란 두건
+itm_hood_yellow_silver_2|은색 둥근 바시 넷 & 옐로우 후드
+itm_hood_yellow_silver_2_pl|은색 둥근 바시 넷 & 옐로우 후드
+itm_hood_yellow_iron_1|투구 및 노랑 두건
+itm_hood_yellow_iron_1_pl|투구 및 노랑 두건
+itm_hood_yellow_iron_2|Hounskull Bascinet & Yellow Hood
+itm_hood_yellow_iron_2_pl|Hounskull Bascinet & Yellow Hood
+itm_hood_yellow_black_1|검은 투구
+itm_hood_yellow_black_1_pl|검은 투구
+itm_hood_yellow_black_2|검은 색 둥근 바시 넷 & 옐로우 후드
+itm_hood_yellow_black_2_pl|검은 색 둥근 바시 넷 & 옐로우 후드
+itm_hood_rav_iron_1|무쇠 투구 및 까마귀 두건
+itm_hood_rav_iron_1_pl|무쇠 투구 및 까마귀 두건
+itm_hood_rav_iron_2|금 투구 및 까마귀 두건
+itm_hood_rav_iron_2_pl|금 투구 및 까마귀 두건
+itm_hood_rav_iron_3|용 큰 투구 및 까마귀 두건
+itm_hood_rav_iron_3_pl|용 큰 투구 및 까마귀 두건
+itm_hood_rav_iron_4|하운 스컬 바시 넷 & 까마귀 두건
+itm_hood_rav_iron_4_pl|하운 스컬 바시 넷 & 까마귀 두건
+itm_hood_rav_iron_5|둥근 바시 넷 & 까마귀 두건
+itm_hood_rav_iron_5_pl|둥근 바시 넷 & 까마귀 두건
+itm_empire_helmet_open_1|붉은 문장으로 녹색 투구
+itm_empire_helmet_open_1_pl|붉은 문장으로 녹색 투구
+itm_empire_helmet_open_2|붉은 문장이있는 강철 투구
+itm_empire_helmet_open_2_pl|붉은 문장이있는 강철 투구
+itm_empire_helmet_open_3|검은 문장이있는 검은 투구
+itm_empire_helmet_open_3_pl|검은 문장이있는 검은 투구
+itm_empire_helmet_closed_1|블랙 & 화이트 크레스트와 철 투구
+itm_empire_helmet_closed_1_pl|블랙 & 화이트 크레스트와 철 투구
+itm_empire_helmet_closed_2|노란 문장의 투구
+itm_empire_helmet_closed_2_pl|노란 문장의 투구
+itm_empire_helmet_closed_3|그린 & 화이트 크레스트의은 투구
+itm_empire_helmet_closed_3_pl|그린 & 화이트 크레스트의은 투구
+itm_empire_helmet_closed_4|문장과 푸른 투구
+itm_empire_helmet_closed_4_pl|문장과 푸른 투구
+itm_empire_helmet_closed_5|빨강 & 검정 문장이있는 검은 투구
+itm_empire_helmet_closed_5_pl|빨강 & 검정 문장이있는 검은 투구
+itm_empire_helmet_closed_6|주황색 문장의 투구
+itm_empire_helmet_closed_6_pl|주황색 문장의 투구
+itm_royal_crown|로얄 크라운
+itm_royal_crown_pl|로얄 크라운
+itm_sarleon_king_helm|새로운 왕 투구
+itm_sarleon_king_helm_pl|새로운 왕 투구
+itm_ravenstern_king_helm|북부 왕 투구
+itm_ravenstern_king_helm_pl|북부 왕 투구
+itm_dshar_king_helm|남부 왕 투구
+itm_dshar_king_helm_pl|남부 왕 투구
+itm_fierdsvain_crown_helm|서양 왕 투구
+itm_fierdsvain_crown_helm_pl|서양 왕 투구
+itm_marius_helmet|제국 왕 투구
+itm_marius_helmet_pl|제국 왕 투구
+itm_pendor_king_helm|올드 킹 투구
+itm_pendor_king_helm_pl|올드 킹 투구
+itm_sarleon_pret_helm|왕관과 함께 검은 투구
+itm_sarleon_pret_helm_pl|왕관과 함께 검은 투구
+itm_ravenstern_pret_helm|왕관과 함께은 투구
+itm_ravenstern_pret_helm_pl|왕관과 함께은 투구
+itm_dshar_pert_helm|왕관이있는 디 샤르 투구
+itm_dshar_pert_helm_pl|왕관이있는 디 샤르 투구
+itm_fierdsvain_pret_helm|왕관이있는 불스 바인 투구
+itm_fierdsvain_pret_helm_pl|왕관이있는 불스 바인 투구
+itm_empire_pret_helmet|제국 프리머스 투구
+itm_empire_pret_helmet_pl|제국 프리머스 투구
+itm_noldor_inf_helm|Noldor 보병 투구
+itm_noldor_inf_helm_pl|Noldor 보병 투구
+itm_noldor_capt_helm|놀 도르 선장 투구
+itm_noldor_capt_helm_pl|놀 도르 선장 투구
+itm_noldor_knight_helm|놀 도르 나이트 투구
+itm_noldor_knight_helm_pl|놀 도르 나이트 투구
+itm_noldor_inf_helm_hooded|후드가 달린 Noldor 보병 투구
+itm_noldor_inf_helm_hooded_pl|후드가 달린 Noldor 보병 투구
+itm_noldor_capt_helm_hooded|후드가 달린 Noldor 캡틴 투구
+itm_noldor_capt_helm_hooded_pl|후드가 달린 Noldor 캡틴 투구
+itm_noldor_knight_helm_hooded|후드가 달린 Noldor Knight Helm
+itm_noldor_knight_helm_hooded_pl|후드가 달린 Noldor Knight Helm
+itm_scorpion_helmet_2|암살자 후드
+itm_scorpion_helmet_2_pl|암살자 후드
+itm_assassin_helmet|어 ass 신 헬멧
+itm_assassin_helmet_pl|어 ass 신 헬멧
+itm_wolf_helmet_2|늑대 해골 투구
+itm_wolf_helmet_2_pl|늑대 해골 투구
+itm_wolf_helmet_1|그림자 늑대 면판
+itm_wolf_helmet_1_pl|그림자 늑대 면판
+itm_phoenix_barbutte_helmet|피닉스 바부 테
+itm_phoenix_barbutte_helmet_pl|피닉스 바부 테
+itm_phoenix_helmet|슈프림 피닉스 나이트 바부 테
+itm_phoenix_helmet_pl|슈프림 피닉스 나이트 바부 테
+itm_phoenix_helmet_a|피닉스 나이트 바부 테
+itm_phoenix_helmet_a_pl|피닉스 나이트 바부 테
+itm_valkyrie_helmet|발키리 헬멧
+itm_valkyrie_helmet_pl|발키리 헬멧
+itm_kraken_helm|크라켄 마스크
+itm_kraken_helm_pl|크라켄 마스크
+itm_demon_helmet|악마 헬멧
+itm_demon_helmet_pl|악마 헬멧
+itm_snake_helm|뱀 가면 투구
+itm_snake_helm_pl|뱀 가면 투구
+itm_cobra_helm|코브라 대 투구
+itm_cobra_helm_pl|코브라 대 투구
+itm_helmet_fel_great|아나콘다 대 투구
+itm_helmet_fel_great_pl|아나콘다 대 투구
+itm_anaconda_snake_helm|아나콘다 기사 투구
+itm_anaconda_snake_helm_pl|아나콘다 기사 투구
+itm_asp_helm|ASP 헬멧
+itm_asp_helm_pl|ASP 헬멧
+itm_asp_helm_supreme|최고 ASP 투구
+itm_asp_helm_supreme_pl|최고 ASP 투구
+itm_hood_white|화이트 후드
+itm_hood_white_pl|화이트 후드
+itm_hood_dark|다크 후드
+itm_hood_dark_pl|다크 후드
+itm_hood_rav|까마귀 두건
+itm_hood_rav_pl|까마귀 두건
+itm_hood_silver|은 두건
+itm_hood_silver_pl|은 두건
+itm_hood_cyan|청록색 후드
+itm_hood_cyan_pl|청록색 후드
+itm_practice_bow_2|연습 활
+itm_practice_bow_2_pl|연습 활
+itm_hunting_bow|사냥 활
+itm_hunting_bow_pl|사냥 활
+itm_short_bow|짧은 활
+itm_short_bow_pl|짧은 활
+itm_nomad_bow|유목민 활
+itm_nomad_bow_pl|유목민 활
+itm_long_bow|긴 활
+itm_long_bow_pl|긴 활
+itm_khergit_bow|디샤 보우
+itm_khergit_bow_pl|디샤 보우
+itm_strong_bow|짧은 복합 활
+itm_strong_bow_pl|짧은 복합 활
+itm_war_bow|긴 합성 활
+itm_war_bow_pl|긴 합성 활
+itm_melitine_bow|멜리 틴 기병 활
+itm_melitine_bow_pl|멜리 틴 기병 활
+itm_melitine_longbow|멜리 틴 육군 활
+itm_melitine_longbow_pl|멜리 틴 육군 활
+itm_hawkstorm_bow|매 스톰 활
+itm_hawkstorm_bow_pl|매 스톰 활
+itm_pendor_bow|칠흑의 활
+itm_pendor_bow_pl|칠흑의 활
+itm_dshar_horn_bow|호른
+itm_dshar_horn_bow_pl|호른
+itm_heretic_bow|다크 우드 활
+itm_heretic_bow_pl|다크 우드 활
+itm_noldor_bow|Noldor 합성 활
+itm_noldor_bow_pl|Noldor 합성 활
+itm_kadan_bow|헤리티지 다자 활
+itm_kadan_bow_pl|헤리티지 다자 활
+itm_duskfall_bow|황혼
+itm_duskfall_bow_pl|황혼
+itm_strange_rune_bow|이상한 룬 활
+itm_strange_rune_bow_pl|이상한 룬 활
+itm_ullrvetr_manifest|UllrVetr 매니페스트
+itm_ullrvetr_manifest_pl|UllrVetr 매니페스트
+itm_saphire_rune_bow|사파이어 룬 활
+itm_saphire_rune_bow_pl|사파이어 룬 활
+itm_ruby_rune_bow|루비 룬 보우
+itm_ruby_rune_bow_pl|루비 룬 보우
+itm_emerald_rune_bow|에메랄드 룬 활
+itm_emerald_rune_bow_pl|에메랄드 룬 활
+itm_hunting_crossbow|사냥 용 석궁
+itm_hunting_crossbow_pl|사냥 용 석궁
+itm_light_crossbow|가벼운 석궁
+itm_light_crossbow_pl|가벼운 석궁
+itm_balanced_crossbow|균형 잡힌 석궁
+itm_balanced_crossbow_pl|균형 잡힌 석궁
+itm_maiden_crossbow|처녀 석궁
+itm_maiden_crossbow_pl|처녀 석궁
+itm_heavy_crossbow|강화 석궁
+itm_heavy_crossbow_pl|강화 석궁
+itm_sniper_crossbow|공성 석궁
+itm_sniper_crossbow_pl|공성 석궁
+itm_arbalest|메텐 하임 아 발레 스트
+itm_arbalest_pl|메텐 하임 아 발레 스트
+itm_arquebus_1|화승총
+itm_arquebus_1_pl|화승총
+itm_practice_arrows_2|연습 화살표
+itm_practice_arrows_2_pl|연습 화살표
+itm_arrows|화살표
+itm_arrows_pl|화살표
+itm_barbed_arrows|가시 화살
+itm_barbed_arrows_pl|가시 화살
+itm_singalian_arrows|싱갈 리언 화살표
+itm_singalian_arrows_pl|싱갈 리언 화살표
+itm_melitine_arrows|멜리 틴 화살
+itm_melitine_arrows_pl|멜리 틴 화살
+itm_bodkin_arrows|보드 킨 화살표
+itm_bodkin_arrows_pl|보드 킨 화살표
+itm_melitine_arrows2|멜리 틴 기병 화살
+itm_melitine_arrows2_pl|멜리 틴 기병 화살
+itm_khergit_arrows|다르 화살
+itm_khergit_arrows_pl|다르 화살
+itm_dshar_superior_arrows|슈페리어 디 샤르 화살
+itm_dshar_superior_arrows_pl|슈페리어 디 샤르 화살
+itm_dshar_elite_arrows|가지 화살표
+itm_dshar_elite_arrows_pl|가지 화살표
+itm_jatu_arrows|자투 화살표
+itm_jatu_arrows_pl|자투 화살표
+itm_ranger_arrows|레인저 화살표
+itm_ranger_arrows_pl|레인저 화살표
+itm_heretic_arrows|다크 우드 화살표
+itm_heretic_arrows_pl|다크 우드 화살표
+itm_noldor_arrows|Noldor Arrows
+itm_noldor_arrows_pl|Noldor Arrows
+itm_bolts|기본 볼트
+itm_bolts_pl|기본 볼트
+itm_light_bolts|라이트 볼트
+itm_light_bolts_pl|라이트 볼트
+itm_balanced_bolts|균형 볼트
+itm_balanced_bolts_pl|균형 볼트
+itm_steel_bolts|스틸 볼트
+itm_steel_bolts_pl|스틸 볼트
+itm_elite_bolts|공성 볼트
+itm_elite_bolts_pl|공성 볼트
+itm_mettenheim_bolts|메텐 하임 볼트
+itm_mettenheim_bolts_pl|메텐 하임 볼트
+itm_bullets_1|글 머리 기호
+itm_bullets_1_pl|글 머리 기호
+itm_stones|돌
+itm_stones_pl|돌
+itm_throwing_knives|던지는 나이프
+itm_throwing_knives_pl|던지는 나이프
+itm_throwing_daggers|단검 던지기
+itm_throwing_daggers_pl|단검 던지기
+itm_assassin_knives|암살자 던지는 나이프
+itm_assassin_knives_pl|암살자 던지는 나이프
+itm_darts|다트
+itm_darts_pl|다트
+itm_war_darts|전쟁 다트
+itm_war_darts_pl|전쟁 다트
+itm_javelin|창 던지기
+itm_javelin_pl|창 던지기
+itm_throwing_spears|던지는 창
+itm_throwing_spears_pl|던지는 창
+itm_broadhead_spears|넓은 머리 던지는 창
+itm_broadhead_spears_pl|넓은 머리 던지는 창
+itm_jarid|자이드
+itm_jarid_pl|자이드
+itm_hasta_spear|올드 엠파이어 Hastae
+itm_hasta_spear_pl|올드 엠파이어 Hastae
+itm_pilum_light_spear|올드 엠파이어 라이트 필라
+itm_pilum_light_spear_pl|올드 엠파이어 라이트 필라
+itm_pilum_spear|올드 엠파이어 필라
+itm_pilum_spear_pl|올드 엠파이어 필라
+itm_ring_of_keys_throwing_axes|열쇠 고리
+itm_ring_of_keys_throwing_axes_pl|열쇠 고리
+itm_light_throwing_axes|가벼운 투척 용 도끼
+itm_light_throwing_axes_pl|가벼운 투척 용 도끼
+itm_light_throwing_axes_melee|가벼운 투척 용 도끼
+itm_light_throwing_axes_melee_pl|가벼운 투척 용 도끼
+itm_throwing_axes|던지는 도끼
+itm_throwing_axes_pl|던지는 도끼
+itm_throwing_axes_melee|투척 용 도끼
+itm_throwing_axes_melee_pl|투척 용 도끼
+itm_heavy_throwing_axes|고중 도끼
+itm_heavy_throwing_axes_pl|고중 도끼
+itm_heavy_throwing_axes_melee|질투하는 도끼
+itm_heavy_throwing_axes_melee_pl|질투하는 도끼
+itm_asp_throwing_axes|ASP 던지는 도끼
+itm_asp_throwing_axes_pl|ASP 던지는 도끼
+itm_asp_throwing_axes_melee|도끼 던지기 도끼
+itm_asp_throwing_axes_melee_pl|도끼 던지기 도끼
+itm_long_throw_spear|위대한 개 플락
+itm_long_throw_spear_pl|위대한 개 플락
+itm_long_throw_spear_melee|위대한 가플 락
+itm_long_throw_spear_melee_pl|위대한 가플 락
+itm_long_spiked_club|긴 스파이크 클럽
+itm_long_spiked_club_pl|긴 스파이크 클럽
+itm_iron_staff|아이언 스태프
+itm_iron_staff_pl|아이언 스태프
+itm_quarter_staff|분기 직원
+itm_quarter_staff_pl|분기 직원
+itm_long_hafted_knobbed_mace|긴 귀족의 손잡이 철퇴
+itm_long_hafted_knobbed_mace_pl|긴 귀족의 손잡이 철퇴
+itm_long_hafted_spiked_mace|긴 귀족 스파이크 메이스
+itm_long_hafted_spiked_mace_pl|긴 귀족 스파이크 메이스
+itm_polehammer_1|폴 해머
+itm_polehammer_1_pl|폴 해머
+itm_sarranid_two_handed_mace_1|강철 메이스
+itm_sarranid_two_handed_mace_1_pl|강철 메이스
+itm_torch|토치
+itm_torch_pl|토치
+itm_sword_medieval_a|검
+itm_sword_medieval_a_pl|검
+itm_sword_medieval_b|아이언 소드
+itm_sword_medieval_b_pl|아이언 소드
+itm_sword_medieval_b_small|쇼트 소드
+itm_sword_medieval_b_small_pl|쇼트 소드
+itm_sword_medieval_c|무장 검
+itm_sword_medieval_c_pl|무장 검
+itm_sword_medieval_c_small|짧은 강철 검
+itm_sword_medieval_c_small_pl|짧은 강철 검
+itm_sword_medieval_c_long|강철도
+itm_sword_medieval_c_long_pl|강철도
+itm_sword_medieval_d_long|롱 스틸 소드
+itm_sword_medieval_d_long_pl|롱 스틸 소드
+itm_empire_broadsword|제국 브로드 소드
+itm_empire_broadsword_pl|제국 브로드 소드
+itm_silvered_longsword|은도금 롱소드
+itm_silvered_longsword_pl|은도금 롱소드
+itm_crosshilt_sword|힐힐 노블 소드 크로스
+itm_crosshilt_sword_pl|힐힐 노블 소드 크로스
+itm_knight_war_axe|기사의 전쟁 도끼
+itm_knight_war_axe_pl|기사의 전쟁 도끼
+itm_vecc_bloodsword|베카 비안 블러드 소드
+itm_vecc_bloodsword_pl|베카 비안 블러드 소드
+itm_barclay_sword|바클레이 노블 소드
+itm_barclay_sword_pl|바클레이 노블 소드
+itm_ebony_duel_sword|흑단 결투 검
+itm_ebony_duel_sword_pl|흑단 결투 검
+itm_ebony_noble_sword|흑단 귀족의 검
+itm_ebony_noble_sword_pl|흑단 귀족의 검
+itm_ebony_knight_sword|흑단 기사 검
+itm_ebony_knight_sword_pl|흑단 기사 검
+itm_ebony_arming_sword|흑단 무장 검
+itm_ebony_arming_sword_pl|흑단 무장 검
+itm_ebony_long_sword|흑단 롱소드
+itm_ebony_long_sword_pl|흑단 롱소드
+itm_noldor_longsword|Noldor Longsword
+itm_noldor_longsword_pl|Noldor Longsword
+itm_noldor_runesword|Noldor Runesword
+itm_noldor_runesword_pl|Noldor Runesword
+itm_hidden_dagger|숨겨진 단검
+itm_hidden_dagger_pl|숨겨진 단검
+itm_wooden_stick|오크 스틱
+itm_wooden_stick_pl|오크 스틱
+itm_cudgel|곤장
+itm_cudgel_pl|곤장
+itm_hammer|망치
+itm_hammer_pl|망치
+itm_club|클럽
+itm_club_pl|클럽
+itm_winged_mace|날개 달린 메이스
+itm_winged_mace_pl|날개 달린 메이스
+itm_spiked_mace|금속 스파이크 메이스
+itm_spiked_mace_pl|금속 스파이크 메이스
+itm_military_hammer|군용 망치
+itm_military_hammer_pl|군용 망치
+itm_pickaxe|곡괭이
+itm_pickaxe_pl|곡괭이
+itm_fighting_pick|파이팅 픽
+itm_fighting_pick_pl|파이팅 픽
+itm_military_pick|밀리터리 픽
+itm_military_pick_pl|밀리터리 픽
+itm_sickle|낫
+itm_sickle_pl|낫
+itm_cleaver|고기 베는 큰 칼
+itm_cleaver_pl|고기 베는 큰 칼
+itm_knife|칼
+itm_knife_pl|칼
+itm_butchering_knife|도살 칼
+itm_butchering_knife_pl|도살 칼
+itm_dagger|단검
+itm_dagger_pl|단검
+itm_falchion|팔 치온
+itm_falchion_pl|팔 치온
+itm_hatchet|자귀
+itm_hatchet_pl|자귀
+itm_hand_axe|손 도끼
+itm_hand_axe_pl|손 도끼
+itm_fighting_axe|파이팅 액스
+itm_fighting_axe_pl|파이팅 액스
+itm_military_cleaver_b|군인의 칼
+itm_military_cleaver_b_pl|군인의 칼
+itm_military_cleaver_c|군용 칼
+itm_military_cleaver_c_pl|군용 칼
+itm_military_sickle_a|군용 낫
+itm_military_sickle_a_pl|군용 낫
+itm_one_handed_battle_axe_a|한손 도끼
+itm_one_handed_battle_axe_a_pl|한손 도끼
+itm_one_handed_war_axe_b|한손 전쟁 도끼
+itm_one_handed_war_axe_b_pl|한손 전쟁 도끼
+itm_one_handed_battle_axe_b|한손 전투 도끼
+itm_one_handed_battle_axe_b_pl|한손 전투 도끼
+itm_one_handed_battle_axe_c|한손 베테랑 도끼
+itm_one_handed_battle_axe_c_pl|한손 베테랑 도끼
+itm_sword_khergit_1|유목민
+itm_sword_khergit_1_pl|유목민
+itm_sword_khergit_3|무력
+itm_sword_khergit_3_pl|무력
+itm_sword_khergit_4|무거운 세이버
+itm_sword_khergit_4_pl|무거운 세이버
+itm_melitine_sabre|멜리 틴 세이버
+itm_melitine_sabre_pl|멜리 틴 세이버
+itm_mace_1|쇼트 스파이크 클럽
+itm_mace_1_pl|쇼트 스파이크 클럽
+itm_mace_2|메이스
+itm_mace_2_pl|메이스
+itm_mace_4|보병 철퇴
+itm_mace_4_pl|보병 철퇴
+itm_sarranid_mace_1|철퇴
+itm_sarranid_mace_1_pl|철퇴
+itm_cavalry_mace|기병대 메이스
+itm_cavalry_mace_pl|기병대 메이스
+itm_cavalry_club|기병 클럽
+itm_cavalry_club_pl|기병 클럽
+itm_steel_hammer|강철 망치
+itm_steel_hammer_pl|강철 망치
+itm_doom_mace|파멸 메이스
+itm_doom_mace_pl|파멸 메이스
+itm_sarranid_axe_a|철 전투 도끼
+itm_sarranid_axe_a_pl|철 전투 도끼
+itm_sarranid_axe_b|철 전쟁 도끼
+itm_sarranid_axe_b_pl|철 전쟁 도끼
+itm_warhammer_talek|워해머
+itm_warhammer_talek_pl|워해머
+itm_dragonspine_axe|용뼈 도끼
+itm_dragonspine_axe_pl|용뼈 도끼
+itm_bastard_sword_b|Sarleon Arming Longsword
+itm_bastard_sword_b_pl|Sarleon Arming Longsword
+itm_sarleon_sword|Sarleon Longsword
+itm_sarleon_sword_pl|Sarleon Longsword
+itm_rav_battle_axe|까마귀 전투 도끼
+itm_rav_battle_axe_pl|까마귀 전투 도끼
+itm_rav_sword|까마귀 검
+itm_rav_sword_pl|까마귀 검
+itm_rav_longsword|까마귀 장검
+itm_rav_longsword_pl|까마귀 장검
+itm_arabian_sword_a|사막의 검
+itm_arabian_sword_a_pl|사막의 검
+itm_arabian_sword_b|사막 무장 칼
+itm_arabian_sword_b_pl|사막 무장 칼
+itm_sarranid_cavalry_sword|사막 기병 대검
+itm_sarranid_cavalry_sword_pl|사막 기병 대검
+itm_arabian_sword_d|데저트 가드 소드
+itm_arabian_sword_d_pl|데저트 가드 소드
+itm_eventide_longsword|Eventide 검
+itm_eventide_longsword_pl|Eventide 검
+itm_scimitar|시미 터
+itm_scimitar_pl|시미 터
+itm_scimitar_b|침입자의 시미 터
+itm_scimitar_b_pl|침입자의 시미 터
+itm_dshar_sabre|다르 샤브레
+itm_dshar_sabre_pl|다르 샤브레
+itm_heavy_dshar_sabre|헤비 드 샤르 세이버
+itm_heavy_dshar_sabre_pl|헤비 드 샤르 세이버
+itm_sing_death_sabre|싱 갈리 안 데스 세이버
+itm_sing_death_sabre_pl|싱 갈리 안 데스 세이버
+itm_sing_noble_sabre|싱 갈리아 귀족 세이버
+itm_sing_noble_sabre_pl|싱 갈리아 귀족 세이버
+itm_dshar_short_sabre|다르 샤르 세이버
+itm_dshar_short_sabre_pl|다르 샤르 세이버
+itm_dshar_scimitar|드 샤르 시미 타르
+itm_dshar_scimitar_pl|드 샤르 시미 타르
+itm_sword_viking_1|일반 철검
+itm_sword_viking_1_pl|일반 철검
+itm_sword_viking_2|중철 검
+itm_sword_viking_2_pl|중철 검
+itm_sword_viking_2_small|아이언 쇼트 소드
+itm_sword_viking_2_small_pl|아이언 쇼트 소드
+itm_sword_viking_3|반스 케리 소드
+itm_sword_viking_3_pl|반스 케리 소드
+itm_sword_viking_3_small|반스 케리 쇼트 워 소드
+itm_sword_viking_3_small_pl|반스 케리 쇼트 워 소드
+itm_fierd_leaf_sword|불스 바인 잎검
+itm_fierd_leaf_sword_pl|불스 바인 잎검
+itm_fierd_long_sword|피어스 바인 롱소드
+itm_fierd_long_sword_pl|피어스 바인 롱소드
+itm_vanskerry_sword|반스 케리 귀족의 검
+itm_vanskerry_sword_pl|반스 케리 귀족의 검
+itm_fierd_war_axe|불스 바인 전쟁 도끼
+itm_fierd_war_axe_pl|불스 바인 전쟁 도끼
+itm_fierd_war_axe_new|Fierdsvain 곡선 전쟁 도끼
+itm_fierd_war_axe_new_pl|Fierdsvain 곡선 전쟁 도끼
+itm_jatu_sabre|자투 세이버
+itm_jatu_sabre_pl|자투 세이버
+itm_jatu_hsabre|자투 헤비 세이버
+itm_jatu_hsabre_pl|자투 헤비 세이버
+itm_spiked_club|스파이크 클럽
+itm_spiked_club_pl|스파이크 클럽
+itm_viper_sabre|바이퍼 세이버
+itm_viper_sabre_pl|바이퍼 세이버
+itm_scorpion_sword|전갈 검
+itm_scorpion_sword_pl|전갈 검
+itm_wolf_sword|늑대 검
+itm_wolf_sword_pl|늑대 검
+itm_phoenix_broadsword|피닉스 브로드 소드
+itm_phoenix_broadsword_pl|피닉스 브로드 소드
+itm_phoenix_sword|피닉스 롱소드
+itm_phoenix_sword_pl|피닉스 롱소드
+itm_strange_short_sword|외국 짧은 세이버
+itm_strange_short_sword_pl|외국 짧은 세이버
+itm_heretic_sabre|이상한 흑단 세이버
+itm_heretic_sabre_pl|이상한 흑단 세이버
+itm_strange_rune_axe|이상한 룬 도끼
+itm_strange_rune_axe_pl|이상한 룬 도끼
+itm_saphire_rune_axe|사파이어 룬 도끼
+itm_saphire_rune_axe_pl|사파이어 룬 도끼
+itm_ruby_rune_axe|루비 룬 도끼
+itm_ruby_rune_axe_pl|루비 룬 도끼
+itm_emerald_rune_axe|에메랄드 룬 도끼
+itm_emerald_rune_axe_pl|에메랄드 룬 도끼
+itm_strange_rune_sword|이상한 룬 소드
+itm_strange_rune_sword_pl|이상한 룬 소드
+itm_saphire_rune_sword|사파이어 룬 소드
+itm_saphire_rune_sword_pl|사파이어 룬 소드
+itm_ruby_rune_sword|루비 룬 소드
+itm_ruby_rune_sword_pl|루비 룬 소드
+itm_emerald_rune_sword|에메랄드 룬 소드
+itm_emerald_rune_sword_pl|에메랄드 룬 소드
+itm_marius_sword|연사 Baccus Sword
+itm_marius_sword_pl|연사 Baccus Sword
+itm_maul|큰 나무 망치
+itm_maul_pl|큰 나무 망치
+itm_sledgehammer|강력한
+itm_sledgehammer_pl|강력한
+itm_warhammer|큰 망치
+itm_warhammer_pl|큰 망치
+itm_club_with_spike_head|스파이크 클럽
+itm_club_with_spike_head_pl|스파이크 클럽
+itm_morningstar|새벽의 명성
+itm_morningstar_pl|새벽의 명성
+itm_battle_hammer|배틀 해머
+itm_battle_hammer_pl|배틀 해머
+itm_axe|도끼
+itm_axe_pl|도끼
+itm_voulge|불게
+itm_voulge_pl|불게
+itm_battle_axe|전투 도끼
+itm_battle_axe_pl|전투 도끼
+itm_war_axe|전쟁 도끼
+itm_war_axe_pl|전쟁 도끼
+itm_double_axe|이중 도끼
+itm_double_axe_pl|이중 도끼
+itm_thunder_double_axe|천둥 이중 도끼
+itm_thunder_double_axe_pl|천둥 이중 도끼
+itm_two_handed_cleaver|전쟁 칼
+itm_two_handed_cleaver_pl|전쟁 칼
+itm_two_handed_axe|양손 도끼
+itm_two_handed_axe_pl|양손 도끼
+itm_two_handed_battle_axe_2|양손 전쟁 도끼
+itm_two_handed_battle_axe_2_pl|양손 전쟁 도끼
+itm_two_handed_battle_axe_3|강철 부울
+itm_two_handed_battle_axe_3_pl|강철 부울
+itm_shortened_voulge|단축 된 부기
+itm_shortened_voulge_pl|단축 된 부기
+itm_great_axe|큰 도끼
+itm_great_axe_pl|큰 도끼
+itm_long_axe|긴 도끼
+itm_long_axe_pl|긴 도끼
+itm_long_axe_alt|긴 도끼
+itm_long_axe_alt_pl|긴 도끼
+itm_long_axe_b|긴 전쟁 도끼
+itm_long_axe_b_pl|긴 전쟁 도끼
+itm_long_axe_b_alt|긴 전쟁 도끼
+itm_long_axe_b_alt_pl|긴 전쟁 도끼
+itm_long_axe_c|그레이트 롱 액스
+itm_long_axe_c_pl|그레이트 롱 액스
+itm_long_axe_c_alt|그레이트 롱 액스
+itm_long_axe_c_alt_pl|그레이트 롱 액스
+itm_bardiche|바르 디체
+itm_bardiche_pl|바르 디체
+itm_great_bardiche|그레이트 바르 디체
+itm_great_bardiche_pl|그레이트 바르 디체
+itm_shortened_military_scythe|단축 된 군사 낫
+itm_shortened_military_scythe_pl|단축 된 군사 낫
+itm_sarranid_two_handed_axe_a|사막 전투 도끼
+itm_sarranid_two_handed_axe_a_pl|사막 전투 도끼
+itm_sarranid_two_handed_axe_b|사막 전쟁 도끼
+itm_sarranid_two_handed_axe_b_pl|사막 전쟁 도끼
+itm_raider_axe|침입자 도끼
+itm_raider_axe_pl|침입자 도끼
+itm_northern_battle_axe|북부 전투 도끼
+itm_northern_battle_axe_pl|북부 전투 도끼
+itm_ancient_rune_axe|고대 룬 도끼
+itm_ancient_rune_axe_pl|고대 룬 도끼
+itm_dire_axe|광포 한 도끼
+itm_dire_axe_pl|광포 한 도끼
+itm_valdis_axe|코닝 구르의 도끼
+itm_valdis_axe_pl|코닝 구르의 도끼
+itm_silver_axe|룬문자 도끼
+itm_silver_axe_pl|룬문자 도끼
+itm_sword_of_war|소드 오브 워
+itm_sword_of_war_pl|소드 오브 워
+itm_sword_two_handed_a|양손 검
+itm_sword_two_handed_a_pl|양손 검
+itm_great_sword|대검
+itm_great_sword_pl|대검
+itm_khergit_sword_two_handed_a|양손 세이버
+itm_khergit_sword_two_handed_a_pl|양손 세이버
+itm_silver_claymore|실버 그레이트 클레이 모어
+itm_silver_claymore_pl|실버 그레이트 클레이 모어
+itm_khergit_sword_two_handed_b|양손 헤비 세이버
+itm_khergit_sword_two_handed_b_pl|양손 헤비 세이버
+itm_sword_two_handed_b|메텐 하임 결투 검
+itm_sword_two_handed_b_pl|메텐 하임 결투 검
+itm_fierd_berserker_sword|불쌍한 광전사 검
+itm_fierd_berserker_sword_pl|불쌍한 광전사 검
+itm_empire_great_sword|제국 대검
+itm_empire_great_sword_pl|제국 대검
+itm_flame_sword|화염 칼날 검
+itm_flame_sword_pl|화염 칼날 검
+itm_ebony_bastard_sword|흑단 놈 검
+itm_ebony_bastard_sword_pl|흑단 놈 검
+itm_noldor_bastard|Noldor Warsword
+itm_noldor_bastard_pl|Noldor Warsword
+itm_runed_bastard|바스타드 소드
+itm_runed_bastard_pl|바스타드 소드
+itm_claymore|클레이 모어
+itm_claymore_pl|클레이 모어
+itm_bastard_sword_a|바스타드 소드
+itm_bastard_sword_a_pl|바스타드 소드
+itm_strange_rune_two_h_sword|이상한 룬 양손 검
+itm_strange_rune_two_h_sword_pl|이상한 룬 양손 검
+itm_saphire_rune_two_h_sword|사파이어 룬 양손 검
+itm_saphire_rune_two_h_sword_pl|사파이어 룬 양손 검
+itm_ruby_rune_two_h_sword|루비 룬 양손 검
+itm_ruby_rune_two_h_sword_pl|루비 룬 양손 검
+itm_emerald_rune_two_h_sword|에메랄드 룬 양손 검
+itm_emerald_rune_two_h_sword_pl|에메랄드 룬 양손 검
+itm_gregory_sword|용의 이빨
+itm_gregory_sword_pl|용의 이빨
+itm_havathang|하바 항
+itm_havathang_pl|하바 항
+itm_strange_sword|외국 세이버
+itm_strange_sword_pl|외국 세이버
+itm_strange_great_sword|외국 양손 세이버
+itm_strange_great_sword_pl|외국 양손 세이버
+itm_rav_great_sword|까마귀 대검
+itm_rav_great_sword_pl|까마귀 대검
+itm_pendor_greatsword|펜 도르 대검
+itm_pendor_greatsword_pl|펜 도르 대검
+itm_zweihander|츠 바이 핸더
+itm_zweihander_pl|츠 바이 핸더
+itm_ebony_great_sword|흑단 Flamberge
+itm_ebony_great_sword_pl|흑단 Flamberge
+itm_jousting_lance|무딘 팁 창
+itm_jousting_lance_pl|무딘 팁 창
+itm_double_sided_lance|양면 랜스
+itm_double_sided_lance_pl|양면 랜스
+itm_light_lance|가벼운 랜스
+itm_light_lance_pl|가벼운 랜스
+itm_lance|창
+itm_lance_pl|창
+itm_heavy_lance|무거운 창
+itm_heavy_lance_pl|무거운 창
+itm_great_lance|위대한 창
+itm_great_lance_pl|위대한 창
+itm_long_knight_lance|롱 다크 나이트 랜스
+itm_long_knight_lance_pl|롱 다크 나이트 랜스
+itm_long_knight_lance2|롱 나이트 랜스
+itm_long_knight_lance2_pl|롱 나이트 랜스
+itm_long_knight_lance_dawn|긴 새벽 기사 창
+itm_long_knight_lance_dawn_pl|긴 새벽 기사 창
+itm_long_knight_lance_blue|롱 블루 나이트 랜스
+itm_long_knight_lance_blue_pl|롱 블루 나이트 랜스
+itm_long_knight_lance_green|긴 녹색 기사 창
+itm_long_knight_lance_green_pl|긴 녹색 기사 창
+itm_long_knight_lance_red|긴 붉은 기사 창
+itm_long_knight_lance_red_pl|긴 붉은 기사 창
+itm_long_cavalry_lance|긴 기병대 창
+itm_long_cavalry_lance_pl|긴 기병대 창
+itm_long_cavalry_lance_white|길고 흰 기병 랜스
+itm_long_cavalry_lance_white_pl|길고 흰 기병 랜스
+itm_long_cavalry_lance_blue|롱 블루 기병대 랜스
+itm_long_cavalry_lance_blue_pl|롱 블루 기병대 랜스
+itm_long_cavalry_lance_green|긴 녹색 기병대 랜스
+itm_long_cavalry_lance_green_pl|긴 녹색 기병대 랜스
+itm_long_cavalry_lance_red|긴 붉은 기병대 창
+itm_long_cavalry_lance_red_pl|긴 붉은 기병대 창
+itm_jatu_lance|Jatu Honor Lance
+itm_jatu_lance_pl|Jatu Honor Lance
+itm_melitine_lance|멜리 틴 랜스
+itm_melitine_lance_pl|멜리 틴 랜스
+itm_melitine_impaler|멜리 틴 임 팔러
+itm_melitine_impaler_pl|멜리 틴 임 팔러
+itm_sarleon_banner|Sarleon의 기치
+itm_sarleon_banner_pl|Sarleon의 기치
+itm_long_bardiche|긴 바르 디체
+itm_long_bardiche_pl|긴 바르 디체
+itm_great_long_bardiche|그레이트 롱 바르 디슈
+itm_great_long_bardiche_pl|그레이트 롱 바르 디슈
+itm_hafted_blade_b|손잡이 달린 칼날
+itm_hafted_blade_b_pl|손잡이 달린 칼날
+itm_hafted_blade_a|긴 손잡이 칼날
+itm_hafted_blade_a_pl|긴 손잡이 칼날
+itm_scythe|큰 낫
+itm_scythe_pl|큰 낫
+itm_pitch_fork|피치 포크
+itm_pitch_fork_pl|피치 포크
+itm_boar_spear|멧돼지 창
+itm_boar_spear_pl|멧돼지 창
+itm_glaive|사막 글레이브
+itm_glaive_pl|사막 글레이브
+itm_poleaxe|큰 도끼
+itm_poleaxe_pl|큰 도끼
+itm_spear|창
+itm_spear_pl|창
+itm_bamboo_spear|드 샤르 스피어
+itm_bamboo_spear_pl|드 샤르 스피어
+itm_war_spear|전쟁 창
+itm_war_spear_pl|전쟁 창
+itm_trident|삼지창
+itm_trident_pl|삼지창
+itm_pike|긴 창
+itm_pike_pl|긴 창
+itm_ashwood_pike|애쉬 우드 파이크
+itm_ashwood_pike_pl|애쉬 우드 파이크
+itm_awlpike|송곳니
+itm_awlpike_pl|송곳니
+itm_awlpike_long|긴 송곳
+itm_awlpike_long_pl|긴 송곳
+itm_bec_de_corbin_a|Bec de Corbin
+itm_bec_de_corbin_a_pl|Bec de Corbin
+itm_black_iron_spear|검은 무쇠 창
+itm_black_iron_spear_pl|검은 무쇠 창
+itm_southern_glaive|남부 글레이브
+itm_southern_glaive_pl|남부 글레이브
+itm_empire_halberd|제국 할버드
+itm_empire_halberd_pl|제국 할버드
+itm_sarleon_halberd|Sarleon Halberd
+itm_sarleon_halberd_pl|Sarleon Halberd
+itm_polehammer_2|무딘 강철 폴 해머
+itm_polehammer_2_pl|무딘 강철 폴 해머
+itm_melitine_spear|멜리 틴 스피어
+itm_melitine_spear_pl|멜리 틴 스피어
+itm_melitine_spear2|멜리 틴 거트 필러
+itm_melitine_spear2_pl|멜리 틴 거트 필러
+itm_strange_rune_glaive|이상한 룬 글레이브
+itm_strange_rune_glaive_pl|이상한 룬 글레이브
+itm_saphire_rune_glaive|사파이어 룬 글레이브
+itm_saphire_rune_glaive_pl|사파이어 룬 글레이브
+itm_ruby_rune_glaive|루비 룬 글레이브
+itm_ruby_rune_glaive_pl|루비 룬 글레이브
+itm_emerald_rune_glaive|에메랄드 룬 글레이브
+itm_emerald_rune_glaive_pl|에메랄드 룬 글레이브
+itm_manopener|Manopener
+itm_manopener_pl|Manopener
+itm_wolf_halberd|그림자 늑대 할버드
+itm_wolf_halberd_pl|그림자 늑대 할버드
+itm_tab_shield_small_round_a|다샤 르 평야 방패
+itm_tab_shield_small_round_a_pl|다샤 르 평야 방패
+itm_tab_shield_small_round_b|둥근 기병대 방패
+itm_tab_shield_small_round_b_pl|둥근 기병대 방패
+itm_tab_shield_small_round_c|엘리트 기병 방패
+itm_tab_shield_small_round_c_pl|엘리트 기병 방패
+itm_tab_shield_round_a|오래 된 둥근 방패
+itm_tab_shield_round_a_pl|오래 된 둥근 방패
+itm_tab_shield_round_b|일반 둥근 방패
+itm_tab_shield_round_b_pl|일반 둥근 방패
+itm_tab_shield_round_c|둥근 방패
+itm_tab_shield_round_c_pl|둥근 방패
+itm_tab_shield_round_d|헤비 라운드 쉴드
+itm_tab_shield_round_d_pl|헤비 라운드 쉴드
+itm_tab_shield_round_e|후스 칼의 둥근 방패
+itm_tab_shield_round_e_pl|후스 칼의 둥근 방패
+itm_round_shield_big_1|골드 & 블랙 라운드 쉴드
+itm_round_shield_big_1_pl|골드 & 블랙 라운드 쉴드
+itm_round_shield_big_2|은 & 검정 둥근 방패
+itm_round_shield_big_2_pl|은 & 검정 둥근 방패
+itm_kraken_round_shield|크라켄 실드
+itm_kraken_round_shield_pl|크라켄 실드
+itm_kraken_round_shield_medium|크라켄 둥근 방패
+itm_kraken_round_shield_medium_pl|크라켄 둥근 방패
+itm_steel_shield|강철 둥근 방패
+itm_steel_shield_pl|강철 둥근 방패
+itm_plate_covered_round_shield|플레이트 커버 라운드 쉴드
+itm_plate_covered_round_shield_pl|플레이트 커버 라운드 쉴드
+itm_leather_covered_round_shield|가죽으로 덮인 둥근 방패
+itm_leather_covered_round_shield_pl|가죽으로 덮인 둥근 방패
+itm_hide_covered_round_shield|덮힌 둥근 방패 숨기기
+itm_hide_covered_round_shield_pl|덮힌 둥근 방패 숨기기
+itm_wooden_shield|나무 방패
+itm_wooden_shield_pl|나무 방패
+itm_nordic_shield|반스 케리 방패
+itm_nordic_shield_pl|반스 케리 방패
+itm_noldor_inf_shield|Noldor 보병 방패
+itm_noldor_inf_shield_pl|Noldor 보병 방패
+itm_noldor_noble_shield|놀 도르 노블 쉴드
+itm_noldor_noble_shield_pl|놀 도르 노블 쉴드
+itm_shield_round_26|반스 케리 헤비 쉴드
+itm_shield_round_26_pl|반스 케리 헤비 쉴드
+itm_shield_round_27|이단 둥근 방패
+itm_shield_round_27_pl|이단 둥근 방패
+itm_shield_round_28|새겨진 둥근 방패
+itm_shield_round_28_pl|새겨진 둥근 방패
+itm_shield_round_29|새겨진 뱀 방패
+itm_shield_round_29_pl|새겨진 뱀 방패
+itm_shield_round_30|황금 금속 둥근 방패
+itm_shield_round_30_pl|황금 금속 둥근 방패
+itm_shield_round_01|둥근 용의 방패
+itm_shield_round_01_pl|둥근 용의 방패
+itm_shield_round_02|양각 둥근 방패
+itm_shield_round_02_pl|양각 둥근 방패
+itm_shield_round_03|반스 케리 침입자 방패
+itm_shield_round_03_pl|반스 케리 침입자 방패
+itm_shield_round_04|금속 둥근 방패
+itm_shield_round_04_pl|금속 둥근 방패
+itm_shield_round_05|야를의 방패
+itm_shield_round_05_pl|야를의 방패
+itm_shield_round_06|다크 라운드 메탈 쉴드
+itm_shield_round_06_pl|다크 라운드 메탈 쉴드
+itm_shield_round_07|올드 엠파이어 쉴드
+itm_shield_round_07_pl|올드 엠파이어 쉴드
+itm_shield_round_08|카자 하르 방패
+itm_shield_round_08_pl|카자 하르 방패
+itm_shield_round_09|자투 노마드 실드
+itm_shield_round_09_pl|자투 노마드 실드
+itm_shield_round_10|Jatu Sheik Shield
+itm_shield_round_10_pl|Jatu Sheik Shield
+itm_shield_round_11|자투 전쟁 군주 방패
+itm_shield_round_11_pl|자투 전쟁 군주 방패
+itm_shield_round_12|미스트 마운틴 바바리안 쉴드
+itm_shield_round_12_pl|미스트 마운틴 바바리안 쉴드
+itm_shield_round_13|토르 바 사막 방패
+itm_shield_round_13_pl|토르 바 사막 방패
+itm_shield_round_14|디 샤르 라운드 쉴드
+itm_shield_round_14_pl|디 샤르 라운드 쉴드
+itm_shield_round_15|양각 뱀 방패
+itm_shield_round_15_pl|양각 뱀 방패
+itm_shield_round_16|중괄호 나무 둥근 방패
+itm_shield_round_16_pl|중괄호 나무 둥근 방패
+itm_shield_round_17|금속 양각 스타 라운드 방패
+itm_shield_round_17_pl|금속 양각 스타 라운드 방패
+itm_shield_round_18|노스맨 라운드 쉴드
+itm_shield_round_18_pl|노스맨 라운드 쉴드
+itm_shield_round_19|둥근 샤르 크로스 쉴드
+itm_shield_round_19_pl|둥근 샤르 크로스 쉴드
+itm_shield_round_20|황천 세계 방패
+itm_shield_round_20_pl|황천 세계 방패
+itm_shield_round_21|아나콘다 쉴드
+itm_shield_round_21_pl|아나콘다 쉴드
+itm_shield_round_22|스네이크 서클 실드
+itm_shield_round_22_pl|스네이크 서클 실드
+itm_shield_round_23|세이지 쉴드
+itm_shield_round_23_pl|세이지 쉴드
+itm_shield_round_24|유언 방패
+itm_shield_round_24_pl|유언 방패
+itm_shield_heater_c|배틀 쉴드
+itm_shield_heater_c_pl|배틀 쉴드
+itm_shield_battle_01|전투 방패-노란색에 검은 성 난 사자
+itm_shield_battle_01_pl|전투 방패-노란색에 검은 성 난 사자
+itm_shield_battle_03|전투 방패-블루 필드에 흰 백합
+itm_shield_battle_03_pl|전투 방패-블루 필드에 흰 백합
+itm_shield_battle_04|배틀 쉴드-화이트 & 블랙 벨
+itm_shield_battle_04_pl|배틀 쉴드-화이트 & 블랙 벨
+itm_shield_battle_05|이단 전투 방패
+itm_shield_battle_05_pl|이단 전투 방패
+itm_shield_battle_02|사자 전투 방패의 명령
+itm_shield_battle_02_pl|사자 전투 방패의 명령
+itm_tab_shield_kite_a|오래된 연 방패
+itm_tab_shield_kite_a_pl|오래된 연 방패
+itm_tab_shield_kite_b|일반 연 방패
+itm_tab_shield_kite_b_pl|일반 연 방패
+itm_tab_shield_kite_c|연 방패
+itm_tab_shield_kite_c_pl|연 방패
+itm_tab_shield_kite_d|헤비 카이트 쉴드
+itm_tab_shield_kite_d_pl|헤비 카이트 쉴드
+itm_tab_shield_kite_cav_a|기병의 연 방패
+itm_tab_shield_kite_cav_a_pl|기병의 연 방패
+itm_tab_shield_kite_cav_b|기사 연 방패
+itm_tab_shield_kite_cav_b_pl|기사 연 방패
+itm_norman_shield_7|연 방패-검은 독수리
+itm_norman_shield_7_pl|연 방패-검은 독수리
+itm_norman_shield_8|카이트 쉴드-흑백
+itm_norman_shield_8_pl|카이트 쉴드-흑백
+itm_fur_covered_shield|모피 덮은 방패
+itm_fur_covered_shield_pl|모피 덮은 방패
+itm_norman_shield_1|카이트 쉴드-골드 워터 호스
+itm_norman_shield_1_pl|카이트 쉴드-골드 워터 호스
+itm_norman_shield_2|카이트 쉴드-레드 & 골드
+itm_norman_shield_2_pl|카이트 쉴드-레드 & 골드
+itm_norman_shield_3|카이트 쉴드-블랙 & 골드
+itm_norman_shield_3_pl|카이트 쉴드-블랙 & 골드
+itm_shield_kite_ornate|화려한 연 방패
+itm_shield_kite_ornate_pl|화려한 연 방패
+itm_norman_shield_4|카이트 쉴드-블루 필드에 백색 십자가
+itm_norman_shield_4_pl|카이트 쉴드-블루 필드에 백색 십자가
+itm_norman_shield_5|카이트 쉴드-블루 필드에 화이트 라이온
+itm_norman_shield_5_pl|카이트 쉴드-블루 필드에 화이트 라이온
+itm_norman_shield_6|카이트 쉴드-골드 필드에 블루 드래곤
+itm_norman_shield_6_pl|카이트 쉴드-골드 필드에 블루 드래곤
+itm_shield_tear_simple|눈물 방패
+itm_shield_tear_simple_pl|눈물 방패
+itm_shield_empire_infantry|제국 보병 방패
+itm_shield_empire_infantry_pl|제국 보병 방패
+itm_noldor_ench_shield|Noldor Enchanted Shield
+itm_noldor_ench_shield_pl|Noldor Enchanted Shield
+itm_tab_shield_pavise_a|올드 보드 쉴드
+itm_tab_shield_pavise_a_pl|올드 보드 쉴드
+itm_tab_shield_pavise_b|일반 보드 실드
+itm_tab_shield_pavise_b_pl|일반 보드 실드
+itm_tab_shield_pavise_c|보드 실드
+itm_tab_shield_pavise_c_pl|보드 실드
+itm_tab_shield_pavise_d|헤비 보드 쉴드
+itm_tab_shield_pavise_d_pl|헤비 보드 쉴드
+itm_tab_shield_heater_a|올드 히터 쉴드
+itm_tab_shield_heater_a_pl|올드 히터 쉴드
+itm_tab_shield_heater_b|일반 히터 실드
+itm_tab_shield_heater_b_pl|일반 히터 실드
+itm_tab_shield_heater_c|히터 실드
+itm_tab_shield_heater_c_pl|히터 실드
+itm_tab_shield_heater_d|헤비 히터 실드
+itm_tab_shield_heater_d_pl|헤비 히터 실드
+itm_tab_shield_heater_cav_a|기병의 히터 실드
+itm_tab_shield_heater_cav_a_pl|기병의 히터 실드
+itm_tab_shield_heater_cav_b|기사 히터 히터
+itm_tab_shield_heater_cav_b_pl|기사 히터 히터
+itm_heater_shield_01|히터 쉴드-레드 필드에 흰 독수리
+itm_heater_shield_01_pl|히터 쉴드-레드 필드에 흰 독수리
+itm_heater_shield_02|히터 실드-화이트 & 블루
+itm_heater_shield_02_pl|히터 실드-화이트 & 블루
+itm_heater_shield_03|히터 실드-골든 클로버
+itm_heater_shield_03_pl|히터 실드-골든 클로버
+itm_heater_shield_04|히터 쉴드-그린 필드에 금색 사자
+itm_heater_shield_04_pl|히터 쉴드-그린 필드에 금색 사자
+itm_heater_shield_05|히터 쉴드-화이트 필드에 검은 페가수스
+itm_heater_shield_05_pl|히터 쉴드-화이트 필드에 검은 페가수스
+itm_heater_shield_06|히터 쉴드-그린 필드에 흰색 그리폰
+itm_heater_shield_06_pl|히터 쉴드-그린 필드에 흰색 그리폰
+itm_heater_shield_07|드래곤 히터 실드
+itm_heater_shield_07_pl|드래곤 히터 실드
+itm_heater_shield_08|히터 쉴드-블루 필드에 화이트 유니콘
+itm_heater_shield_08_pl|히터 쉴드-블루 필드에 화이트 유니콘
+itm_heater_shield_09|히터 실드-블루 & 레드 쿼터
+itm_heater_shield_09_pl|히터 실드-블루 & 레드 쿼터
+itm_heater_shield_10|히터 실드-멧돼지 헤드
+itm_heater_shield_10_pl|히터 실드-멧돼지 헤드
+itm_heater_shield_11|히터 실드-블루에 화이트 백합
+itm_heater_shield_11_pl|히터 실드-블루에 화이트 백합
+itm_heater_shield_12|제국 히터 쉴드
+itm_heater_shield_12_pl|제국 히터 쉴드
+itm_heater_shield_13|와이번 히터 쉴드
+itm_heater_shield_13_pl|와이번 히터 쉴드
+itm_heater_shield_14|히터 실드-흰색 및 빨간색, 검은 색
+itm_heater_shield_14_pl|히터 실드-흰색 및 빨간색, 검은 색
+itm_heater_shield_15|히터 쉴드-블루 필드에 화이트 라이온
+itm_heater_shield_15_pl|히터 쉴드-블루 필드에 화이트 라이온
+itm_heater_shield_16|그리폰 히터 실드
+itm_heater_shield_16_pl|그리폰 히터 실드
+itm_heater_shield_17|히터 쉴드-옐로우 필드에 검은 독수리
+itm_heater_shield_17_pl|히터 쉴드-옐로우 필드에 검은 독수리
+itm_heater_shield_18|히터 실드-흑백 쿼트
+itm_heater_shield_18_pl|히터 실드-흑백 쿼트
+itm_heater_shield_19|히터 실드-흑백
+itm_heater_shield_19_pl|히터 실드-흑백
+itm_heater_shield_20|히터 실드-블랙 & 옐로우 쿼터
+itm_heater_shield_20_pl|히터 실드-블랙 & 옐로우 쿼터
+itm_heater_shield_21|히터 쉴드-레드 필드에 금 사자
+itm_heater_shield_21_pl|히터 쉴드-레드 필드에 금 사자
+itm_heater_shield_22|이단 히터 방패
+itm_heater_shield_22_pl|이단 히터 방패
+itm_heater_shield_23|히터 실드-로얄 디어
+itm_heater_shield_23_pl|히터 실드-로얄 디어
+itm_heater_shield_24|히터 쉴드-레드 필드에 화이트 와이번
+itm_heater_shield_24_pl|히터 쉴드-레드 필드에 화이트 와이번
+itm_heater_shield_25|히터 쉴드-블랙 필드에 쌍둥이 비명 독수리
+itm_heater_shield_25_pl|히터 쉴드-블랙 필드에 쌍둥이 비명 독수리
+itm_heater_shield_26|히터 쉴드-블루 필드에 금 십자가
+itm_heater_shield_26_pl|히터 쉴드-블루 필드에 금 십자가
+itm_heater_shield_27|히터 실드-레드 & 골드 필드에 화이트 라이온
+itm_heater_shield_27_pl|히터 실드-레드 & 골드 필드에 화이트 라이온
+itm_heater_shield_28|히터 쉴드-흑백 필드에 독수리
+itm_heater_shield_28_pl|히터 쉴드-흑백 필드에 독수리
+itm_heater_shield_29|히터 실드-새벽의 순서
+itm_heater_shield_29_pl|히터 실드-새벽의 순서
+itm_heater_shield_30|그리폰 소드 히터 실드
+itm_heater_shield_30_pl|그리폰 소드 히터 실드
+itm_heater_shield_31|히터 실드-흑단 건틀릿의 순서
+itm_heater_shield_31_pl|히터 실드-흑단 건틀릿의 순서
+itm_heater_shield_32|필멸의 히터 실드
+itm_heater_shield_32_pl|필멸의 히터 실드
+itm_heater_shield_33|히터 실드-드 플 뢰르 어드벤처 컴퍼니
+itm_heater_shield_33_pl|히터 실드-드 플 뢰르 어드벤처 컴퍼니
+itm_heater_shield_34|아이 그림 히터 쉴드
+itm_heater_shield_34_pl|아이 그림 히터 쉴드
+itm_heater_shield_35|히터 실드-Clarion 통화 순서
+itm_heater_shield_35_pl|히터 실드-Clarion 통화 순서
+itm_heater_shield_36|히터 실드-까마귀 창 주문
+itm_heater_shield_36_pl|히터 실드-까마귀 창 주문
+itm_heater_shield_37|히터 실드-세이지
+itm_heater_shield_37_pl|히터 실드-세이지
+itm_heater_shield_38|뱀 컬트 쉴드
+itm_heater_shield_38_pl|뱀 컬트 쉴드
+itm_heater_shield_39|히터 실드-바다 독사
+itm_heater_shield_39_pl|히터 실드-바다 독사
+itm_heater_shield_40|히터 쉴드-레드 필드에 3 개의 금 용
+itm_heater_shield_40_pl|히터 쉴드-레드 필드에 3 개의 금 용
+itm_heater_shield_42|말레 온스 히터 실드
+itm_heater_shield_42_pl|말레 온스 히터 실드
+itm_wolf_round_shield_1|그림자 늑대 둥근 방패
+itm_wolf_round_shield_1_pl|그림자 늑대 둥근 방패
+itm_scorpion_round_shield_2|전갈 둥근 방패
+itm_scorpion_round_shield_2_pl|전갈 둥근 방패
+itm_phoenix_heater_shield|피닉스 히터 실드
+itm_phoenix_heater_shield_pl|피닉스 히터 실드
+itm_phoenix_battle_shield|피닉스 배틀 쉴드
+itm_phoenix_battle_shield_pl|피닉스 배틀 쉴드
+itm_talon_shield|탈론 연 방패
+itm_talon_shield_pl|탈론 연 방패
+itm_shield_kite_falcon|팔콘 연 방패의 순서
+itm_shield_kite_falcon_pl|팔콘 연 방패의 순서
+itm_eventide_shield|Eventide 연 방패의 순서
+itm_eventide_shield_pl|Eventide 연 방패의 순서
+itm_anaconda_shield|아나콘다 스파이크 실드
+itm_anaconda_shield_pl|아나콘다 스파이크 실드
+itm_asp_shield|ASP 방패
+itm_asp_shield_pl|ASP 방패
+itm_myst_shield|베어 클로 쉴드
+itm_myst_shield_pl|베어 클로 쉴드
+itm_melitine_shield|멜리 틴 눈물 방패
+itm_melitine_shield_pl|멜리 틴 눈물 방패
+itm_melitine_metal_shield|멜리 틴 기병 방패
+itm_melitine_metal_shield_pl|멜리 틴 기병 방패
+itm_shield_empire_immortal|불멸의 방패
+itm_shield_empire_immortal_pl|불멸의 방패
+itm_shield_ancient_engraved|고대 새겨진 방패
+itm_shield_ancient_engraved_pl|고대 새겨진 방패
+itm_shield_heretics_1|이단자 눈물 방패
+itm_shield_heretics_1_pl|이단자 눈물 방패
+itm_shield_heretics_2|레드 매그너스 쉴드
+itm_shield_heretics_2_pl|레드 매그너스 쉴드
+itm_shield_heretics_3|금 매그너스 방패
+itm_shield_heretics_3_pl|금 매그너스 방패
+itm_demon_body|악마의 몸
+itm_demon_body_pl|악마의 몸
+itm_demon_legs|악마의 다리
+itm_demon_legs_pl|악마의 다리
+itm_demon_hands|악마의 손
+itm_demon_hands_pl|악마의 손
+itm_demon_head|악마의 머리
+itm_demon_head_pl|악마의 머리
+itm_demon_shield|악마 방패
+itm_demon_shield_pl|악마 방패
+itm_demon_1h_sword|악마의 검
+itm_demon_1h_sword_pl|악마의 검
+itm_demon_throwing_axes|악마 던지기 도끼
+itm_demon_throwing_axes_pl|악마 던지기 도끼
+itm_demon_throwing_axes_melee|악마 던지기 도끼
+itm_demon_throwing_axes_melee_pl|악마 던지기 도끼
+itm_wolfbode_armor|울프 보드 갑옷
+itm_wolfbode_armor_pl|울프 보드 갑옷
+itm_wolfbode_axe|울프 보드 도끼
+itm_wolfbode_axe_pl|울프 보드 도끼
+itm_wolfbode_boots|울프 보드 부츠
+itm_wolfbode_boots_pl|울프 보드 부츠
+itm_wolfbode_gloves|Wolfbode 손
+itm_wolfbode_gloves_pl|Wolfbode 손
+itm_wolfbode_helmet|울프 보드 헬멧
+itm_wolfbode_helmet_pl|울프 보드 헬멧
+itm_seeress_helm|시어스 아우라
+itm_seeress_helm_pl|시어스 아우라
+itm_ebony_knight_sword_rusty|검은 검
+itm_ebony_knight_sword_rusty_pl|검은 검
+itm_heater_shield_16_rusty|흑단 히터 실드
+itm_heater_shield_16_rusty_pl|흑단 히터 실드
+itm_items_end|아이템 끝
+itm_items_end_pl|아이템 끝

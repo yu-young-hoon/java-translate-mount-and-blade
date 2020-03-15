@@ -1,0 +1,77 @@
+qst_deliver_message|{s13}에게 메시지 전달
+qst_deliver_message_to_enemy_lord|{s13}에게 메시지 전달
+qst_raise_troops|{reg1} 인상 {s14}
+qst_escort_lady|에스코트 {s13}을 {s14}로
+qst_deal_with_bandits_at_lords_village|Marauding Bandits에서 {s15} 마을을 구하십시오
+qst_collect_taxes|{s3}에서 세금 징수
+qst_hunt_down_fugitive|헌트 다운 {s4}
+qst_kill_local_merchant|{s3}에서 지역 판매자를 암살하십시오
+qst_bring_back_runaway_serfs|런 어웨이 송금
+qst_follow_spy|스파이를 따라 가다
+qst_capture_enemy_hero|{s13}에서 주님을 사로 잡으십시오
+qst_lend_companion|동반자 {s3}을 (를) {s9}에 빌려주십시오
+qst_collect_debt|{s3}에 대한 부채 {s3} 빚을 징수하십시오
+qst_incriminate_loyal_commander|{s13}, {s16}의 충실한 사령관을 기각
+qst_meet_spy_in_enemy_town|{s13}에서 스파이 만나기
+qst_capture_prisoners|{reg1} {s3} 죄수를 데려 오십시오
+qst_lend_surgeon|외과 의사 {s3}을 (를) {s1}에 빌려주십시오
+qst_follow_army|{s9}의 군대를 따르십시오
+qst_report_to_army|마샬 {s13}에게보고
+qst_deliver_cattle_to_army|{reg3} 소의 머리를 {s13}에게 전달
+qst_join_siege_with_army|{s14}의 포위 공격에 참여하십시오
+qst_screen_army|{s13}의 군대의 사전 화면
+qst_scout_waypoints|스카우트 {s13}, {s14} 및 {s15}
+qst_rescue_lord_by_replace|{s14}에서 구조 {s13}
+qst_deliver_message_to_prisoner_lord|{s14}에서 {s13}에게 메시지 전달
+qst_duel_for_lady|무기 시험에 대한 {s13}의 도전
+qst_duel_courtship_rival|{s13}에 대한 평가판 도전 (선택 사항)
+qst_duel_avenge_insult|무기 시험에 대한 {s13}의 도전
+qst_move_cattle_herd|가축 떼를 {s13} (으)로 이동
+qst_escort_merchant_caravan|판매자 캐러밴을 {s8}로 에스코트
+qst_deliver_wine|{s6}의 {reg5} 단위를 {s4}에 전달
+qst_troublesome_bandits|끔찍한 도둑 사냥
+qst_kidnapped_girl|도둑에서 몸값 소녀
+qst_persuade_lords_to_make_peace|두 군주가 평화에 반대하지 않도록하십시오
+qst_deal_with_looters|약탈자와의 거래
+qst_deal_with_night_bandits|야간 도둑과의 거래
+qst_deliver_grain|{s3}에 밀을 가져 오십시오
+qst_deliver_cattle|{reg3} 소의 머리를 {s3}에게 전달
+qst_train_peasants_against_bandits|도둑을 상대로 {s13}의 농민을 훈련 시키십시오.
+qst_rescue_daughter|{s3}의 장로 딸을 구출하십시오.
+qst_escort_peasants|농민을 {s3}에게 호위하십시오.
+qst_eliminate_bandits_infesting_village|Marauding Bandits에서 {s7} 마을을 구하십시오
+qst_visit_lady|레이디 방문
+qst_formal_marriage_proposal|공식적인 결혼 제안
+qst_obtain_liege_blessing|공식적인 결혼 제안
+qst_wed_betrothed|당신의 약혼자
+qst_wed_betrothed_female|당신의 약혼자
+qst_join_faction|{s1}에게 존경의 맹세
+qst_rebel_against_kingdom|{s13}이 {s14}의 왕좌를 차지하도록 도와주세요
+qst_consult_with_minister|장관과 상담
+qst_organize_feast|잔치 조직
+qst_resolve_dispute|분쟁 해결
+qst_offer_gift|선물 조달
+qst_denounce_lord|주님을 비난하다
+qst_intrigue_against_lord|주님에 대한 음모
+qst_track_down_bandits|산적 추적
+qst_track_down_provocateurs|도발 사 추적
+qst_retaliate_for_border_incident|국경 사건에 대한 보복
+qst_raid_caravan_to_start_war|중립 캐러밴을 공격하여 전쟁을 일으키다
+qst_cause_provocation|다른 나라를 공격 할 왕국 도발
+qst_rescue_prisoner|죄수를 구출하거나 대속하다
+qst_destroy_bandit_lair|산적 소굴 처치
+qst_ghost_lady|유령 아가씨
+qst_marauding_jatu|Noldor와 친구가 됨
+qst_order_bounty|{s9}에 대한 현상금 사냥
+qst_order_tournament|{s9}의 {s8} 토너먼트에서 승리하십시오
+qst_order_challenge|{s9}의 명성으로 승리
+qst_order_grandmaster|주문 그랜드 마스터
+qst_order_rivalry|주문 경쟁
+qst_collect_men|다섯 남자를 수집
+qst_learn_where_merchant_brother_is|인질이 어디에서 개최되는지 알아보십시오.
+qst_save_relative_of_merchant|산적 소굴 공격
+qst_save_town_from_bandits|도둑에서 마을을 구하십시오
+qst_old_tale_part_1|올드 테일 (1 부)
+qst_old_tale_part_2|올드 테일 (2 부)
+qst_horse_armor|바딩
+qst_quests_end|퀘스트 종료

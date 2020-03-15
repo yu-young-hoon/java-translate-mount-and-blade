@@ -1,0 +1,84 @@
+skl_trade|무역
+skl_trade_desc|이 기술의 모든 레벨은 당신의 거래 페널티를 5 %% 줄입니다. (파티 스킬)
+skl_leadership|지도
+skl_leadership_desc|모든 포인트는 당신이 명령 할 수있는 최대 부대 수를 10만큼 증가시키고, 파티 사기를 높이고 부대 임금을 5 %%만큼 감소시킵니다. (리더 스킬)
+skl_prisoner_management|죄수 관리
+skl_prisoner_management_desc|이 기술의 모든 레벨은 최대 포로 수를 10 증가시키고 전투 후 군주가 탈출 할 확률을 5 %% 줄입니다. (리더 스킬)
+skl_reserved_1|예약 된 스킬 1
+skl_reserved_1_desc|이것은 예약 된 기술입니다.
+skl_reserved_2|예약 스킬 2
+skl_reserved_2_desc|이것은 예약 된 기술입니다.
+skl_reserved_3|예약 된 스킬 3
+skl_reserved_3_desc|이것은 예약 된 기술입니다.
+skl_reserved_4|예약 된 스킬 4
+skl_reserved_4_desc|이것은 예약 된 기술입니다.
+skl_persuasion|설득
+skl_persuasion_desc|이 기술은 다른 사람들이 당신의 관점을 받아들이도록 도와줍니다. 또한 NPC가 원하는 작업을 수행하는 데 필요한 최소 관계 수준을 낮 춥니 다. (개인 기술)
+skl_engineer|공학자
+skl_engineer_desc|이 기술을 사용하면 공성 장비와 fief 개선을보다 효율적으로 구성 할 수 있습니다. (파티 스킬)
+skl_first_aid|응급 처치
+skl_first_aid_desc|영웅은 미션 중에 잃은 스킬 포인트 당 5 %%를 회복합니다. (파티 스킬)
+skl_surgery|외과
+skl_surgery_desc|이 기술의 각 포인트는 치명타를 입은 파티원이 사망하기보다는 부상을 당할 가능성이 4 %%입니다. (파티 스킬)
+skl_wound_treatment|상처 치료
+skl_wound_treatment_desc|이 기술의 레벨 당 파티 치유 속도가 20 %%만큼 증가합니다. (파티 스킬)
+skl_inventory_management|재고 관리
+skl_inventory_management_desc|스킬 레벨 당 인벤토리 용량이 +6 증가합니다. (리더 스킬)
+skl_spotting|스포팅
+skl_spotting_desc|파티 시전 범위가 스킬 레벨 당 10 %% 증가합니다. (파티 스킬)
+skl_pathfinding|길 찾기
+skl_pathfinding_desc|파티 맵 속도가 스킬 레벨 당 3 %% 씩 증가합니다. (파티 스킬)
+skl_tactics|전술
+skl_tactics_desc|이 기술의 2 레벨마다 1의 전투 전투 우위를 1만큼 증가시킵니다.
+skl_tracking|추적 및 사냥
+skl_tracking_desc|트랙이보다 유익합니다. 각 3 점은 음식 소비를 15 %% 씩 줄입니다. (파티 스킬)
+skl_trainer|훈련자
+skl_trainer_desc|이 기술을 가진 각 영웅은 매일 자신의 레벨보다 낮은 레벨의 파티원에게 경험을 추가합니다. 경험치 : {0,4,10,16,23,30,38,46,55,65,80}. (개인 기술)
+skl_reserved_5|예약 된 스킬 5
+skl_reserved_5_desc|이것은 예약 된 기술입니다.
+skl_reserved_6|예약 된 기술 6
+skl_reserved_6_desc|이것은 예약 된 기술입니다.
+skl_reserved_7|예약 스킬 7
+skl_reserved_7_desc|이것은 예약 된 기술입니다.
+skl_reserved_8|예약 스킬 8
+skl_reserved_8_desc|이것은 예약 된 기술입니다.
+skl_looting|약탈
+skl_looting_desc|이 기술은 스킬 레벨 당 10 %%만큼 획득 한 전리품의 양을 증가시킵니다. (파티 스킬)
+skl_horse_archery|말 양궁
+skl_horse_archery_desc|양궁과 말을 던질 때의 피해와 정확도에 대한 불이익을 줄입니다. (개인 기술)
+skl_riding|승마
+skl_riding_desc|난이도가 높은 말을 탈 수 있으며 승차 속도와 운전자가 증가합니다. (개인 기술)
+skl_athletics|체육 실기
+skl_athletics_desc|러닝 속도를 향상시킵니다. (개인 기술)
+skl_shield|방패
+skl_shield_desc|실드의 공격력을 감소시키고 (스킬 레벨 당 8 %%) 실드 속도와 적용 범위를 향상시킵니다. (개인 기술)
+skl_weapon_master|무기 마스터
+skl_weapon_master_desc|무기 숙련도를 쉽게 익히고 숙련도 한계를 높입니다. 제한은 60, 100, 140, 180, 220, 260, 300, 340, 380, 420입니다. (개인 기술)
+skl_reserved_9|예약 된 기술 9
+skl_reserved_9_desc|이것은 예약 된 기술입니다.
+skl_reserved_10|예약 된 스킬 10
+skl_reserved_10_desc|이것은 예약 된 기술입니다.
+skl_reserved_11|예약 된 기술 11
+skl_reserved_11_desc|이것은 예약 된 기술입니다.
+skl_reserved_12|예약 된 기술 12
+skl_reserved_12_desc|이것은 예약 된 기술입니다.
+skl_reserved_13|예약 된 기술 13
+skl_reserved_13_desc|이것은 예약 된 기술입니다.
+skl_power_draw|파워 드로우
+skl_power_draw_desc|캐릭터가 더 강력한 활을 사용할 수 있습니다. 이 기술에 대한 각 포인트 (활의 최대 4 더하기 힘 요구)는 활의 공격력을 14 %%만큼 증가시킵니다. (개인 기술)
+skl_power_throw|파워 던지기
+skl_power_throw_desc|이 기술의 각 포인트는 10 %%의 데미지를 증가시킵니다. (개인 기술)
+skl_power_strike|파워 스트라이크
+skl_power_strike_desc|이 기술의 각 포인트는 8 %%의 근접 피해를 증가시킵니다. (개인 기술)
+skl_ironflesh|아이언 플릿
+skl_ironflesh_desc|이 스킬의 각 포인트는 체력을 +2 증가시킵니다. (개인 기술)
+skl_reserved_14|예약 된 기술 14
+skl_reserved_14_desc|이것은 예약 된 기술입니다.
+skl_reserved_15|예약 된 기술 15
+skl_reserved_15_desc|이것은 예약 된 기술입니다.
+skl_reserved_16|예약 된 기술 16
+skl_reserved_16_desc|이것은 예약 된 기술입니다.
+skl_reserved_17|예약 된 기술 17
+skl_reserved_17_desc|이것은 예약 된 기술입니다.
+skl_reserved_18|예약 된 기술 18
+skl_reserved_18_desc|이것은 예약 된 기술입니다.

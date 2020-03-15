@@ -1,0 +1,1447 @@
+menu_start_game_0|펜 도르의 예언에 오신 것을 환영합니다! ^ 게임을 시작하기 전에 캐릭터를 만들어야합니다. ^^ 조심해 모험가. 귀하의 배경 선택은 펜 도르의 옵션과 기회에 영원히 영향을 미칩니다.
+mno_continue|계속하다...
+mno_go_back|돌아가
+menu_start_phase_2|신의 은총으로 당신은 150 년 넘게 끊임없는 투쟁으로 고통받는 펜 도르에 도착합니다. 악의 영향을 막고, 옛 왕국의 전쟁 진영을 재결합하고, 미친 방랑자 Madigan이 반향을 불러 일으키는 Pendor를위한 새로운 가능성을 창조하는 것은 어려운 도전을 받아 들였습니다. 이들은 위대하고 작은 많은 힘이 서로를 대적하여 패권을 행사하는 위험한 땅입니다. 여기서 당신은 명예와 귀족뿐만 아니라 속임수와 skulduggery를 찾을 수 있습니다. 용맹 한 기사와 검은 마음 암살자가있을 것입니다. 새로운 삶을 시작하기 위해 과거를 떠나게됩니다. 펜 도르는 전형적인 중세 국가가 아닙니다. 여성과 남성은 Pendor에서 성공과 실패의 기회가 동일합니다. 성공하면 무한한 차원의 현실에서 새로운 가능성을 창출 할 수 있습니다. 귀하의 선택은 오라클이 선택할 수있는 직조에 새로운 스레드를 생성 할 수 있으며 귀하의 행동으로 인해 우리 모두를 구할 수도 있습니다. 펜 도르와 그 왕국에 관한 이야기를 들려주세요.
+mno_town_1|Sarleon 왕국의 Sarleon 캐러밴에 가입하십시오.
+mno_town_2|Ravenstern 왕국의 Ravenstern 캐러밴에 가입하십시오.
+mno_town_3|D' Shar 공국에서 Torbah에 대한 캐러밴에 가입하십시오.
+mno_town_4|Fierdsvain에있는 Javiksholm에 배를 타십시오.
+mno_town_5|제국의 야노스로 배를 타십시오.
+mno_pop_cheat|[테스트] 그냥 놀자!
+menu_start_game_3|시나리오를 선택하십시오.
+menu_tutorial|당신은 지역 주민들이 무기로 훈련하는 분야에 접근합니다. 전투 기술을 향상시키기 위해 여기에서 연습 할 수 있습니다.
+mno_go_back_dot|돌아가
+menu_reports|캐릭터 명성 / Prestige : {reg5} ^ ^ 명예 등급 : {reg6} ^ Prestige 소비 : {reg9} ^ 명예 부대의 기본 명성 비용 : {reg10} ^^ 파티 사기 : {reg8} ^ 파티 규모 제한 : {reg7} ^^ 다음 월급 날 : {s60}
+mno_action_view_troop_trees|부대 나무.
+mno_view_character_report|문자 보고서를 봅니다.
+mno_view_party_size_report|파티 규모 보고서를 봅니다.
+mno_view_morale_report|정당 사기 보고서를 봅니다.
+mno_view_weekly_budget_report|주간 예산 보고서를 봅니다.
+mno_view_center_income_report|위치 소득 보고서를 봅니다.
+mno_view_victory_condition_report|승리 진행 상황을 봅니다.
+mno_view_achievement_report|업적보기
+mno_view_faction_relations_report|진영 관계 보고서를보십시오.
+mno_view_npc_mission_report|동반자 임무 보고서를 봅니다.
+mno_lord_relations|알려진 군주 목록을 관계별로 봅니다.
+mno_courtship_relations|구애 관계를보십시오.
+mno_action_view_world_map|펜 도르지도.
+mno_resume_travelling|여행을 재개하십시오.
+menu_custom_battle_scene|(전송 금지)
+menu_custom_battle_end|전투는 끝났습니다. {s1} 전투에서 적군이 {reg5} 명의 적을 죽이고 {reg6} 부대를 잃었습니다. 당신은 싸움에서 {reg7} 명의 사람들을 개인적으로 죽였습니다.
+menu_start_game_1|캐릭터의 성별을 선택하십시오.
+mno_start_male|남성.
+mno_start_female|여성 (Warband faces).
+mno_start_female_2|여성 (맞춤 얼굴).
+menu_start_character_1|당신은 몇 년 전에 태어 났으며 지금은 펜더의 서쪽과 남쪽에있는 바클레이 땅에 살고 있습니다. 네 아버지는 ...
+mno_start_noble|사소한 귀족.
+mno_start_merchant|상선 선장.
+mno_start_guard|전 기사.
+mno_start_forester|은퇴 한 모험가.
+mno_start_nomad|방랑하는 유목민 부족 지도자.
+mno_start_thief|거칠고 신비로운 인물.
+mno_start_priest|존경하는 의사.
+menu_start_character_2|{s10} ^^ 당신의 젊음에서 당신은 아버지처럼 유휴 시간이 거의 없었습니다 ...
+mno_page|미성년자 바클레이 귀족을 섬기기로했습니다.
+mno_apprentice|지역 길드의 장인으로 도제가되도록 보냈습니다.
+mno_stockboy|성공적인 상인을 보살펴주십시오.
+mno_urchin|당신을 지키기 위해 당신을 떠났습니다.
+mno_nomad|야생에서 사냥하기 위해 혼자서 보냈습니다.
+menu_start_character_3|{s11} ^^ 그런 다음, 영원이 된 후에 당신의 삶이 바뀌 었습니다. 당신은 기회가 주어졌습니다 ...
+mno_squire|스 콰이어.
+mno_lady|기다리는 여자.
+mno_troubadour|바드.
+mno_student|의사 학자.
+mno_peddler|자영업자.
+mno_craftsman|엔지니어와 건축업자.
+mno_poacher|사냥꾼.
+menu_start_character_4|{s12} ^^ 그러나 운명은 그랬듯이 세상의 모든 것이 갑자기 바뀌 었습니다. 당신은 바클레이의 땅을 떠나 펜 도르를 위해 파업 할 수밖에 없었습니다.
+mno_revenge|당신은 당신에게 잘못한 일을 바로해야합니다.
+mno_death|당신은 당신의 아버지가 죽었다는 메시지를 받았습니다.
+mno_wanderlust|불행한 일련의 사건.
+mno_disown|당신의 삶을 끝내려는 너무 많은 적들이있었습니다.
+mno_greed|당신의 삶을 영원히 바꾸어 놓은 편지의
+menu_choose_skill|{s13}
+mno_begin_adventuring|당신은 배를 타고 정착 ...
+menu_past_life_explanation|{s3}
+mno_view_next|{s5}
+menu_morale_report|{s1}
+menu_courtship_relations|{s1}
+menu_lord_relations|{s1}
+menu_center_income_report|{s1}
+mno_list_of_fief_with_pending_quests|보류중인 하트 비트 퀘스트가있는 fief 목록을 제공하십시오.
+mno_construction|시공 보고서보기 ...
+menu_center_construction_report|{s1}
+mno_back|돌아가
+menu_victory_progress_report|승리 진행 보고서 ^^ {s6} ^^ 스네이크 컬트 : {s7} ^ 자 투족 : {s8} ^ 최신 야만인 : {s9} ^ 이단자 : {s10} ^^ 총 군대 생성 : { reg4} ^^ 남은 군대 : ^ {s13} ^^ Noldor Relations : {s12} ^^ Victory는 다음을 통해 달성됩니다 : ^^-하나의 왕국이 남아 있습니다. ^-Noldor는 당신과 유리한 관계를 유지해야합니다. ^- 미스트 마운틴 부족은 말살되거나 파괴되어야합니다. ^-다른 모든 작은 파벌은지도상에서 눈에 띄는 작은 파벌 군대 나 영웅적 성격으로 말살되거나 파괴되어야합니다.
+menu_companion_report|{s7} {s1}
+menu_character_report|{s9}
+menu_party_size_report|{s1}
+menu_faction_relations_report|{s1}
+mno_orders|기사단 명령과의 관계를 봅니다.
+menu_order_relations_report|{s1}
+menu_camp|당신은 캠프를 설정했습니다. 뭐하고 싶어?
+mno_camp_action_1|걸어 다니면서 병사들을 검토하십시오.
+mno_camp_manage_inventory|상대방의 인벤토리를 관리하십시오.
+mno_camp_access_companions_inventory|동료의 인벤토리에 액세스하십시오.
+mno_camp_action|행동을 취하십시오.
+mno_camp_wait_here|잠시만 기다려주세요.
+mno_camp_options|POP 옵션.
+mno_camp_cheat_infoline|-아래 표는 개발자만을위한 것입니다.
+mno_camp_cheat|치트 메뉴.
+mno_test_vader|치트 메뉴 베이더.
+mno_test_vader2|치트 메뉴 베이더 부대.
+mno_testers_cheat|치트 메뉴 테스터.
+mno_fix_pop|내 게임을 수정하십시오.
+menu_fix_pop_list|내 게임을 수정하십시오.
+mno_fix_food|'0 사기 음식'및 '부정적인 기업 소득'및 'CKO 품목 없음'수정.
+mno_camp_autoloot_for_bug|버그 수정을위한 캠프 자동 분배.
+mno_reset_old_ruins_var|Old Ruins에서 대장장이와 안정된 소년을 재설정하십시오.
+mno_purge_the_world|세상을 퍼지하십시오.
+menu_purge_the_world_0|레벨이 <35 인 부대를 무작위로 제거하여 모든 필드 군대의 크기를 선택된 최대 값으로 줄이십시오.
+mno_purge_the_world_1|1000 전사
+mno_purge_the_world_2|2000 전사
+mno_purge_the_world_3|3000 명의 전사
+mno_purge_the_world_4|4000 전사
+mno_purge_the_world_5|5000 전사
+mno_purge_the_world_6|7500 전사
+mno_purge_the_world_7|10000 전사
+mno_purge_the_world_8|레벨 제한이없는 1000 명의 전사
+menu_testers_cheat|테스터 요령.
+mno_camp_cheatleo_get_50_troops|군대를 100 명 확보하십시오.
+mno_camp_cheatleo_give_troops|군대를 줘.
+mno_camp_cheatleo_undress_troops|군인 옷을 벗다.
+mno_camp_cheatleo_get_lords|주님을 얻으십시오.
+mno_cheat_spawn_ashenborn|새로운 Ashenborn과 Assassin 유닛을주세요.
+mno_cheat_companion_xp|내 회사에 000 000 XP를 제공하십시오.
+mno_cheat_change_race_noldor|나를 엘프로 만드십시오.
+mno_cheat_change_race_undead|좀비 좀 만들어 줘
+mno_raise_player_level|1,000 000 XP를주십시오.
+mno_cheat_disable_companion_complaints|동반자 불만을 사용 중지합니다.
+mno_cheat_enable_companion_complaints|동반자 불만을 허용합니다.
+mno_cheat_disable_cheatmode|치트 모드를 끕니다.
+mno_choose_scene|장면 선택기.
+mno_sarleon_loves_me|Sarleon은 나를 사랑합니다.
+menu_camp_cheat|치트를 선택하십시오 :
+mno_camp_cheat_find_item|아이템 찾기 ...
+mno_camp_cheat_change_weather|날씨 변경 ...
+menu_camp_vader|오늘 무엇을 테스트하고 싶습니까?
+mno_camp_vader_pimp|먼저 날 포주!
+mno_salt_mine|Al-Aziz로 이동하십시오.
+mno_camp_vader_ownorder|플레이어 순서 테스트 ...
+mno_camp_vader_gmquest_1|테스트를 위해 그랜드 마스터 퀘스트를 설정하십시오 (1 부).
+mno_camp_vader_gmquest_2|테스트를 위해 그랜드 마스터 퀘스트를 설정하십시오 (2 부).
+mno_camp_vader_randorder1|임의의 작은 순서를 생성하고 테스트하십시오.
+mno_camp_vader_randorder2|7 개의 무작위 마이너 주문을 생성하십시오. (경고)
+mno_test_noldor_quest_complete|Noldor 퀘스트를 완료하십시오 (성에 접근).
+mno_camp_vader_cheat|기본 치트 모드 전환 : {s7}
+mno_camp_wait|200 일 동안 빨리 감습니다 (x50 속도).
+mno_camp_vader_comp|동반자 대화 테스트 ...
+mno_rebuild_old_ruins|30000 디나르를 위해 오래된 유적을 재건하십시오.
+mno_spawn_test_bandit_lairs|테스트 산적 소굴.
+mno_camp_vader_back|캠프 메뉴로 돌아갑니다.
+menu_camp_ownorder|옵션을 선택하세요:
+mno_join|Sarleon에 가입하여 Avendor를 인수하십시오.
+mno_join2|Fierdsvain에 가입하여 Windholm을 인수하십시오.
+mno_finish|현재 업그레이드를 완료하십시오.
+mno_give|주문 기사와 스 콰이어를주세요.
+mno_back_to_test_menu|테스트 메뉴로 돌아갑니다.
+menu_camp_balance|현명하게 선택해:
+mno_lords|주님의 강점을 계산합니다.
+mno_calcmercs|머크 생성 및 인쇄 강도.
+mno_limits0|템플릿 제한을 0으로 설정하십시오.
+mno_limits50|템플릿 제한을 50으로 설정하십시오.
+mno_limits100|템플릿 제한을 100으로 설정하십시오.
+menu_camp_hostile_party|선택된 부대 : {s4} ({reg4})
+mno_add1|1 씩 증가
+mno_add2|10 증가
+mno_add3|100 증가
+mno_rem1|1 씩 감소
+mno_rem2|10 감소
+mno_rem3|100 감소
+mno_spawn|100 명의 군대와 파티를 시작하십시오!
+menu_camp_quests35|옵션을 선택하세요:
+mno_tavern_assassin|선술집 암살자
+mno_rescue_daughter|구조 딸
+mno_escort_peasants|에스코트 농민
+mno_order_bounty|현상금 사냥 주문
+menu_camp_economy|옵션을 선택하세요:
+mno_camp_economy_listcenters|모든 센터 목록
+mno_camp_economy_listprices|평균 가격 표시
+mno_camp_economy_centergoods|가장 가까운 센터에서 데이터보기
+mno_camp_economy_market_towns|마켓 타운보기
+mno_camp_economy_centerresetall|모든 가격을 1000으로 재설정
+mno_camp_economy_cycle|모든 교역품 가격의 갱신주기
+mno_camp_economy_back|테스트 메뉴로 돌아갑니다.
+menu_camp_economy_markets|{s2}
+mno_back_to_econ_menu|경제 메뉴로 돌아갑니다.
+menu_camp_economy_center|{s2}
+menu_camp_economy_view|{s2}
+menu_camp_economy_prices|{s2}
+menu_camp_noldor|옵션을 선택하세요:
+mno_test_noldor_friend|나를 Noldor 친구로 만들기 (30)
+mno_test_noldor_friend2|나를 Noldor 지지자로 만들기 (15)-퀘스트 활성화
+mno_test_noldor_enemy|나를 Noldor의 적으로 만드십시오 (-10)
+mno_test_noldor_quest_reset|Noldor 퀘스트 재설정
+mno_test_noldor_tournament|Noldor 토너먼트 시작
+mno_test_noldor_trader|판매자 재고를 재생성하십시오.
+mno_test_noldor_prize|Noldor 상을 줘!
+mno_camp_noldor_back|테스트 메뉴로 돌아갑니다.
+menu_test_heartbeat|옵션을 선택하세요:
+mno_test_heartbeat_generate|하트 비트 퀘스트 생성
+mno_camp_heartbeat_back|캠프 메뉴로 돌아갑니다.
+menu_camp_achieve|옵션을 선택하세요:
+mno_camp_achieve_all|모든 업적을 줘
+mno_camp_achieve_none|모든 업적 지우기
+mno_camp_achieve_notify|모든 알림 검토
+mno_camp_achieve_back|메인 테스트 메뉴로 돌아갑니다.
+menu_camp_honor|옵션을 선택하세요:
+mno_camp_honor_kotd|용 병력 10 개주세요
+mno_camp_honor_kol|사자 군대 10 명을주세요
+mno_camp_honor_ei|제국 필사자 10 명을주세요
+mno_camp_honor_dsw|D' Shar Dustriders 10 개주세요
+mno_camp_honor_lv|아인 허 르자 10 명을주세요
+mno_camp_honor_kotg|그리폰의 기사단 10 개
+mno_camp_honor_kotf|팔콘의 기사와 발톱 10 개를주세요
+mno_camp_honor_kors|레이븐 스피어 기사단 10 개주세요
+mno_camp_honor_korc|10 개의 광채의 기사단을주세요
+mno_camp_honor_rocc|Clarion Call 10 명의 레인저를주세요
+mno_camp_honor_kotdw|새벽의 기사 10 개를주세요
+mno_camp_honor_koteg|흑단 건틀릿의 기사단 10 개를주세요
+mno_camp_honor_slc|그림자 군단 마리네 10 개를 줘
+mno_camp_honor_sr|실버 미스트 레인저스 10 개를주세요
+mno_camp_honor_koe|Eventide의 10 명의 기사 (그리고 유령 아가씨)를 줘
+mno_camp_honor_back|테스트 메뉴로 돌아갑니다.
+menu_camp_cool|옵션을 선택하세요:
+mno_camp_cool_ha|100 명의 영웅 모험가를주세요
+mno_camp_cool_ham|영웅 모험가 100 명 제공
+mno_camp_cool_jmr|Jatu 용병 라이더 100 명 제공
+mno_camp_cool_mhc|100 마리 온스 중기병 대를 줘
+mno_camp_cool_rkk|레이븐 스턴 하이랜더 100 명에게주세요
+mno_camp_cool_dda|100 D' Shar Djaha Archers
+mno_camp_cool_fb|Fierdsvain Berserkers 100 개 줘
+mno_camp_cool_ntk|Noldor Twilight Knights 100 개주세요
+mno_camp_cool_nmr|Noldor Maiden Rangers 100 개를 줘
+mno_camp_cool_nr|Noldor Rangers 100 개 줘
+mno_camp_cool_kjk|K'Juda 's Kajahars에게 줘
+mno_camp_cool_dg|둠 가이드 100 개주세요
+mno_camp_cool_os|징조를 100 명 줘
+mno_camp_cool_more|더 멋진 군대 ...
+mno_camp_cool_back|테스트 메뉴로 돌아갑니다.
+menu_camp_cool2|옵션을 선택하세요:
+mno_camp_cool_05|전문 부대를 줘
+mno_camp_cool2_dli|공포의 군단 보병 100 개를 줘
+mno_camp_cool2_ak|아나콘다 기사 100 명을주세요
+mno_camp_cool2_fr|타락한 복수 자 100 명을주세요
+mno_camp_cool2_dm|100 악마 마 그니를 줘
+mno_camp_cool2_hm|이단자 100 명을주세요
+mno_camp_cool2_back|테스트 메뉴로 돌아갑니다.
+menu_camp_regular|옵션을 선택하세요:
+mno_camp_regular_Mettenheim|Mettenheim 군대를 줘
+mno_camp_regular_Barclay|바클레이 군대를 줘
+mno_camp_regular_Veccavian|Veccavian 회사를 줘
+mno_camp_regular_Melitine|멜리 틴 회사를 줘
+mno_camp_regular_Singalian|싱 갈리아 군대를 줘
+mno_camp_regular_Sarleon|Sarleon 회사를 줘
+mno_camp_regular_Ravenstern|레이븐 스턴 회사를 줘
+mno_camp_regular_DShar|D' Shar 회사를 줘
+mno_camp_regular_Fierdsvain|Fierdsvain 회사를 줘
+mno_camp_regular_Empire|제국 회사를 줘
+mno_camp_regular_pendor|펜 도르 회사를 줘
+mno_camp_regular_back|테스트 메뉴로 돌아갑니다.
+menu_camp_minor|옵션을 선택하세요:
+mno_camp_minor_eventide|스폰 Eventide 기사 순찰
+mno_camp_minor_dawn|새벽 기사 순찰대 생성
+mno_camp_minor_ebony|흑단 기사 순찰대 생성
+mno_camp_minor_1|반스 케리 군대
+mno_camp_minor_2|이단 군대를 산란
+mno_camp_minor_3|스네이크 컬트 아미
+mno_camp_minor_4|미스트 마운틴 군대 생성
+mno_camp_minor_5|Jatu Army 생성
+mno_camp_minor_6|스폰 Noldor 순찰
+mno_camp_minor_7|스폰 인퀴 지션 아미
+mno_camp_minor_8|농민 반란군
+mno_camp_minor_back|메인 테스트 메뉴로 돌아갑니다.
+menu_camp_hero|옵션을 선택하세요:
+mno_camp_hero_1|3 명의 선견자 생성
+mno_camp_hero_2|알라 릭 폰 부루 하
+mno_camp_hero_3|레이븐 보리스
+mno_camp_hero_4|Usurper Burilgi를 스폰하십시오
+mno_camp_hero_5|공포의 군단 생성
+mno_camp_hero_6|포식자의 눈 그림자 스폰
+mno_camp_hero_7|오스왈드 드 플 뢰르
+mno_camp_hero_8|스 ik 샬 라반
+mno_camp_hero_more|더 많은 스폰 ...
+mno_camp_hero_back|메인 테스트 메뉴로 돌아갑니다.
+menu_camp_hero2|옵션을 선택하세요:
+mno_camp_hero_9|학살자 볼드 보드
+mno_camp_hero_10|실라 우자 스폰
+mno_camp_hero_11|스폰 그리폰 소드
+mno_camp_hero_12|코단 아이언 소드 생성
+mno_camp_hero_13|스폰 Aeldarian
+mno_camp_hero_14|이 힐란 디르
+mno_camp_hero_15|Ravager K'Juda 생성
+mno_camp_hero_16|스폰 군주 줄카
+mno_camp_hero_more_1|더 많은 스폰 ...
+mno_camp_hero2_back|메인 테스트 메뉴로 돌아갑니다.
+menu_camp_hero3|옵션을 선택하세요:
+mno_camp_hero_17|산란 Ownist Heynrich
+mno_camp_hero_18|스폰 베란 테 크루 우스
+mno_camp_hero_19|바클레이의 산란 Rufio
+mno_camp_hero_20|스바 스토크 레이터 카스 팍스 생성
+mno_camp_hero_21|종교 재판관 라스무스 데바 티카
+mno_camp_hero_22|스 블릭의 Veccavian Renegades
+mno_camp_hero3_back|메인 테스트 메뉴로 돌아갑니다.
+menu_camp_horsemen_apocalypse|메인 savegame에서 게임을 망칠 수 있으므로 시도하지 마십시오.
+mno_camp_horsemen_apocalypse_1|독립 영웅에게 전화하십시오.
+mno_camp_horsemen_apocalypse_2|Sarleon 군주에게 전화하십시오.
+mno_camp_horsemen_apocalypse_3|까마귀 군주에게 전화하십시오.
+mno_camp_horsemen_apocalypse_4|D' Shar 영주에게 전화하십시오.
+mno_camp_horsemen_apocalypse_5|Fierdsvain 영주에게 전화하십시오.
+mno_camp_horsemen_apocalypse_6|제국 영주에게 전화하십시오.
+mno_camp_horsemen_apocalypse_back|테스트 메뉴로 돌아갑니다.
+menu_camp_victory|옵션을 선택하세요:
+mno_camp_victory_simple|간단한 승리 화면
+mno_camp_victoryold|오래된 승리 화면
+mno_camp_victory_back|메인 테스트 메뉴로 돌아갑니다.
+menu_camp_fun|옵션을 선택하세요:
+mno_camp_fun_village|모든 것을 태우십시오 : {s7}
+mno_camp_fun_twins|사악한 쌍둥이를 낳으십시오!
+mno_camp_fun_female|군인을 여자로 만드십시오!
+mno_camp_fun_undead|군인들을 언데드로 만드세요!
+mno_camp_fun_back|메인 테스트 메뉴로 돌아갑니다.
+menu_camp_autoloot|옵션을 선택하세요:
+mno_camp_autoloot_choose_item|항목 유형 변경 : {s3}
+mno_camp_autoloot_cavalry_toggle|기병대 제한 : {s7}
+mno_camp_autoloot_item_trade|상품 검토 / 구매
+mno_camp_autoloot_calc|품목 속성의 평균 및 표준 편차를 계산합니다.
+mno_camp_autoloot_score|모든 오토 루트 점수 인쇄
+mno_camp_autoloot_top20|상위 20 개 오토 루트 점수 인쇄
+mno_camp_autoloot_back|메인 테스트 메뉴로 돌아갑니다.
+menu_camp_companion|옵션을 선택하세요:
+mno_camp_comp_recruit|동료 20 명 모두를 모집하십시오.
+mno_camp_comp_linked|무작위로 연결된 대화.
+mno_camp_comp_toplayer|플레이어에게 무작위로 언급.
+mno_cheat_all_companions_to_basic_level|모든 동반자 기본 수준.
+mno_camp_comp_back|메인 테스트 메뉴로 돌아갑니다.
+menu_camp_vader2|오늘 무엇을 테스트하고 싶습니까?
+mno_camp_vader_ht|명예 부대를 줘 ...
+mno_camp_vader_ct|멋진 군대를 줘 ...
+mno_camp_vader_rt|정기적으로 군대를 줘 ...
+mno_camp_vader_mf|작은 파벌을 생성하십시오 ...
+mno_camp_vader_sh|특별한 영웅을 스폰 ...
+mno_camp_vader_ha|묵시록의 기수들 ...
+mno_camp_vader_balance|잔액 당사자 ...
+menu_camp_action|조치를 선택하십시오.
+mno_camp_recruit_prisoners|포로 중 일부를 파티에 모집하십시오.
+mno_action_read_book|읽을 책을 선택하십시오.
+mno_action_rename_party|파티 이름을 바꿉니다.
+mno_action_rename_kingdom|당신의 왕국의 이름을 바꾸십시오.
+mno_action_change_vassal_title|고귀한 뱃살의 제목을 설정하십시오.
+mno_action_rename_order|주문의 이름을 바꾸십시오.
+mno_action_rename_old_ruins|오래된 유적지에서 야영지의 이름을 바꾸십시오.
+mno_action_modify_banner|배너를 수정하십시오.
+mno_action_retire|모험에서 은퇴하십시오.
+mno_camp_action_4a|캠프 메뉴로 돌아갑니다.
+menu_camp_recruit_prisoners|포로들이 당신과 병사로 합의하면 자유를 제공합니다. {s18}
+mno_camp_recruit_prisoners_accept|가져가
+mno_camp_recruit_prisoners_reject|거부하십시오.
+menu_camp_no_prisoners|수감 할 죄수가 없습니다.
+menu_camp_action_read_book|읽을 책을 선택하십시오 :
+mno_action_read_book_1|{s1}.
+mno_action_read_book_2|{s1}.
+mno_action_read_book_3|{s1}.
+mno_action_read_book_4|{s1}.
+mno_action_read_book_5|{s1}.
+mno_action_read_book_6|{s1}.
+mno_action_read_book_7|{s1}.
+mno_action_read_book_8|{s1}.
+mno_action_read_book_9|{s1}.
+mno_action_read_book_10|{s1}.
+mno_action_read_book_11|{s1}.
+menu_camp_action_read_book_start|{s1}
+menu_retirement_verify|{reg0} 일에 있습니다. 현재 행운은 {reg1}입니다. 은퇴 하시겠습니까?
+mno_retire_yes|예.
+mno_retire_no|아니.
+menu_end_game|결정이 내려지고 모험가의 삶을 포기하고 정착하기로 결심합니다. 당신은 무기와 갑옷을 팔고 모든 돈을 모으고 일몰으로 탈 것입니다 ...
+mno_end_game_bye|작별.
+menu_cattle_herd|당신은 소의 무리를 만난다.
+mno_cattle_drive_away|소를 앞으로 운전하십시오.
+mno_cattle_stop|무리를 멈춰라.
+mno_cattle_kill|일부 동물을 학살합니다.
+mno_leave|떠나다.
+menu_cattle_herd_kill|얼마나 많은 동물을 도살하고 싶습니까?
+mno_cattle_kill_1|하나.
+mno_cattle_kill_2|두.
+mno_cattle_kill_3|세.
+mno_cattle_kill_4|넷.
+mno_cattle_kill_5|다섯.
+menu_arena_duel_fight|당신과 당신의 상대는 명예를 위해 싸울 준비를합니다.
+menu_simple_encounter|{s2} {reg11}과의 전투에 적합한 {reg10} 부대가 있습니다.
+mno_encounter_attack|적을 충전하십시오.
+mno_encounter_order_attack|당신없이 군대를 공격하도록 명령하십시오.
+mno_encounter_leave|떠나다.
+mno_encounter_retreat|후퇴를 위해 군인들을 남겨두고 뒤로 물러서십시오.
+mno_encounter_surrender|항복.
+menu_encounter_surrender_confirm|항복하고 싶습니까?
+mno_encounter_surrender_yes|예, 희망이 없습니다.
+mno_encounter_surrender_no|아니! 나는 끝까지 싸울 것이다.
+menu_encounter_retreat_confirm|전술 기술이 가장 높은 파티 원인 {{reg2}), {reg3? You devise : {s3} devises} 당신과 당신의 남자가 당신의 삶을 탈출 할 수있는 계획을 세우지 만 { reg4} 병사들이 적을 추격하지 못하도록 막았습니다.
+mno_leave_behind|계속해. 이 사람들의 희생은 나머지를 구할 것입니다.
+mno_dont_leave_behind|아니요. 우리는 아무도 남지 않습니다.
+menu_encounter_retreat|당신은 파티의 나머지 부분을 후퇴하는 동안 적을 붙잡 으라고 군대에 대해 {reg4}에게 이야기합니다.
+menu_order_attack_begin|군대는 적을 공격 할 준비를합니다.
+mno_order_attack_begin|공격을 시작하도록 명령하십시오.
+mno_call_back|다시 전화 해
+menu_order_attack_2|{s4} ^^ 당신의 사상자 : {s8} ^^ 적 사상자 : {s9} ^^ 남은 아군 : {reg10} ^ 남은 적 : {reg11}
+mno_order_attack_continue|병사들에게 공격을 계속하도록 명령하십시오.
+mno_order_retreat|병사들을 다시 불러
+menu_battle_debrief|{s11} ^^ 당신의 사상자 : {s8} {s10} ^^ 적군 사상자 : {s9} ^^ Kill count : {s12}
+menu_total_victory|이 글을 읽어서는 안됩니다 ... {s9}
+menu_enemy_slipped_away|{s17}
+menu_permanent_damage|{s0}
+mno_s0|{s0}
+menu_pre_join|{s2}와 {s1} 사이의 전투를 겪게됩니다. 당신은 결정 ...
+mno_pre_join_help_attackers|{s2}를 도와주십시오.
+mno_pre_join_help_defenders|{s1}의 도움을 받아 돌진하십시오.
+mno_pre_join_leave|참여하지 마십시오.
+menu_join_battle|{s1}에 대해 {s2}를 돕고 있습니다. 적의 {reg11}과의 전투에 적합한 {reg10} 부대가 있습니다.
+mno_join_attack|적을 충전하십시오.
+mno_join_order_attack|당신이 돌아 오는 동안 군대를 동맹국과 공격하도록 명령하십시오.
+mno_join_leave|떠나다.
+menu_join_order_attack|{s4} ^^ 당신의 사상자 : {s8} ^^ 동맹의 사상자 : {s9} ^^ 적군 사상자 : {s10} ^^ 남은 동맹 : {reg10} ^ 남은 적 : {reg11}
+menu_salt_mine|당신은 Al-Aziz의 숨겨진 광산에 들어갑니다.
+mno_enter|시작하다.
+menu_four_ways_inn|Four Ways Inn에 도착합니다.
+menu_test_scene|테스트 장면에 들어갑니다.
+mno_enter_1|1을 입력하십시오.
+mno_enter_2|2를 입력하십시오.
+mno_enter_3|3을 입력하십시오.
+mno_enter_4|4를 입력하십시오.
+mno_enter_5|5를 입력하십시오.
+mno_enter_6|6을 입력하십시오.
+mno_enter_7|7을 입력하십시오.
+mno_enter_8|8을 입력하십시오.
+mno_enter_9|9를 입력하십시오.
+menu_dhorak_keep|당신은 Dhorak Keep에 들어갑니다
+menu_join_siege_outside|{s1}이 {s2}에 의해 포위 공격을 받았습니다.
+mno_approach_besiegers|공성 캠프에 접근하십시오.
+mno_pass_through_siege|공성 선을 통과하고 {s1}을 입력하십시오.
+menu_cut_siege_without_fight|포위 자들은 도전없이 게이트에 접근 할 수 있습니다.
+menu_besiegers_camp_with_allies|{s1}은 (는) 포위 상태입니다. {s2}의 깃발은 포위 수용소 위로 날아 가며 여러분과 당신의 부하들을 환영합니다.
+mno_talk_to_siege_commander|사령관과 회의를 요청하십시오.
+mno_join_siege_with_allies|다음 공격에 참여하십시오.
+mno_join_siege_stay_back|당신없이 병사들에게 다음 공격에 참여하도록 명령하십시오.
+menu_castle_outside|{s2} 외부에 있습니다. {s11} {s3} {s4}
+mno_approach_gates|문에 접근하고 경비를 부르십시오.
+mno_town_sneak|자신을 위장하고 {s7}에 몰래 들어가보십시오
+mno_castle_start_siege|{reg6? town : castle}을 포위하십시오.
+mno_castle_leave|떠나다.
+menu_castle_guard|당신은 문에 접근합니다. 벽에있는 사람들이 당신을 자세히 지켜 봅니다.
+mno_request_shelter|성에 입장을 요청하십시오.
+mno_request_meeting_commander|누군가와 회의를 요청하십시오.
+mno_guard_leave|떠나다.
+menu_castle_entry_granted|잠깐 기다린 후 경비원이 출입문을 열고 파티를 허용합니다.
+menu_castle_entry_denied|이 성의 주인은 당신이이 성벽 안으로 들어오지 못하도록 막았습니다. 경비병은 당신이 더 가까이 오려고하면 그의 부하들이 해고 할 것이라고 알려줍니다.
+menu_castle_meeting|누구와 만나고 싶습니까?
+mno_guard_meet_s5|{s5}.
+mno_forget_it|잊어 버려.
+menu_castle_meeting_selected|회의 요청이 내부로 전달되고 마지막으로 안뜰에 {s6}이 (가) 나와 대화를 나눕니다.
+menu_castle_besiege|{s1}에 포위 공격을하고 있습니다. {s2} {s3}
+mno_siege_request_meeting|성 지휘관과의 만남을 요청하십시오.
+mno_wait_24_hours|내일까지 기다려
+mno_castle_lead_attack|군인들을 폭행하십시오.
+mno_attack_stay_back|당신이 돌아 오는 동안 군인들이 공격하도록 명령하십시오.
+mno_build_ladders|벽을 공격 할 사다리를 준비하십시오.
+mno_build_siege_tower|공성 탑을 건설하십시오.
+mno_lift_siege|포위 공격을 포기하십시오.
+menu_siege_attack_meets_sally|수비수는 당신의 공격에 맞서기 위해 샐리 밖으로 나왔습니다.
+menu_castle_besiege_inner_battle|{s1}
+menu_construct_ladders|엔지니어 기술 ({reg2})이 가장 높은 당사자 인 {reg3? 귀하의 예측 : {s3}은 {reg4} 시간이 소요되어 공격에 필요한 스케일링 사다리를 충분히 구축 할 것으로 예상합니다.
+mno_build_ladders_cont|해.
+menu_construct_siege_tower|엔지니어 기술 ({reg2})이 가장 높은 파티원으로서, {reg3? 당신은 다음을 추정합니다 : {s3} 추정} 공성 탑 건설에는 {reg4} 시간이 걸립니다.
+mno_build_siege_tower_cont|건물을 시작하십시오.
+menu_castle_attack_walls_simulate|{s4} ^^ 귀하의 사상자 : {s8} ^^ 적군 사상자 : {s9}
+menu_castle_attack_walls_with_allies_simulate|{s4} ^^ 당신의 사상자 : {s8} ^^ 동맹의 사상자 : {s9} ^^ 적군 사상자 : {s10} ^^ 남은 동맹 : {reg10} ^ 남은 적 : {reg11}
+menu_castle_taken_by_friends|여기는 볼게 없다.
+menu_castle_taken|{s3}이 (가) 군대에 넘어졌으며 이제 {reg2? town : castle}을 완전히 통제 할 수 있습니다. {reg1? 이곳에 군대를 배치하여 탈환하려는 적들로부터 방어 할 수 있습니다. 또한, {reg2? town : castle}을 직접 보유 할 것인지 또는 충실한 신실한 사람에게 줄 것인지를 선택해야합니다 ... :}
+menu_castle_taken_2|{s3}이 (가) 군대에게 떨어졌으며 이제는 성을 완전히 통제 할 수 있습니다. 이제 승리에 대해 {s9}에게 단어를 보낼 때입니다. {s5}
+mno_castle_taken_claim|{s3}을 수여하도록 요청하십시오.
+mno_castle_taken_claim_2|{reg3? wife : husband}에게 {s3}을 수여하도록 요청하십시오.
+mno_castle_taken_no_claim|보상하지 마십시오.
+menu_requested_castle_granted_to_player|귀하는 귀하의 리게로부터 {s3}로부터 메시지를받습니다. ^^ {reg4? 그녀는 {s2} {reg3? 그리고 근처에있는 {s4} :} 마을은 귀하에게 경의의 서약을 유지하는 한 {reg4? her : his} 이름을 유지해야합니다.
+menu_requested_castle_granted_to_player_husband|귀하는 귀하의 리게로부터 {s3}로부터 메시지를받습니다. ^^ {reg4? 그녀는 {s2} {reg3? 남편 {s7}에게 가까운 마을 {s4} :}.
+menu_requested_castle_granted_to_another|{s3} 군주로부터 메시지를 받았습니다. ''{s2}를 점령 한 용감한 노력에 대해 가장 기뻤습니다. 당신의 승리는 우리의 모든 마음을 기쁘게했습니다. 당신은 또한 당신에게 성의 소유권을 주도록 요청했지만, 당신은 이미 당신이 내 영역에 중요한 재산을 가지고 있기 때문에 내가 부여 할 수없는 두려움입니다. 대신 캠페인 비용을 충당하기 위해 {reg6} 디나르를 보냈지 만, {s2}는 {s5}에 제공합니다. '
+mno_accept_decision|결정을 수락하십시오.
+mno_leave_faction|당신은 잘못되었습니다! 맹세를 포기하십시오!
+menu_requested_castle_granted_to_another_female|{s3} 군주로부터 메시지를 받았습니다. ''{s2}를 점령 한 용감한 노력에 대해 가장 기뻤습니다. 당신의 승리는 우리의 모든 마음을 기쁘게했습니다. 당신은 또한 당신의 남편에게 성의 소유권을 주도록 요청했지만, 그가 이미 내 영역에서 중요한 재산을 소유하고 있기 때문에 나는 그것을 부여 할 수없는 두려움입니다. 대신 캠페인 비용을 충당하기 위해 {reg6} 디나르를 보냈지 만, {s2}는 {s5}에 제공합니다. '
+menu_leave_faction|맹세를 포기하는 것은 중대한 행위입니다. 주님은 당신을 정죄하고 당신의 땅과 소유물을 압수 할 수 있습니다. 그러나 당신이 그들 자신의 자유 의지로 그들을 돌려 주면, 그는 배신을 싸울 수 없습니다.
+mno_leave_faction_give_back|맹세를 포기하고 재산을 포기하십시오.
+mno_leave_faction_hold|맹세를 포기하고 {s2}을 (를) 포함한 자신의 이름으로 토지를 통치하십시오.
+mno_leave_faction_cancel|충성을 유지하고 결정을 수락하십시오.
+menu_give_center_to_player|당신의 주님은 당신의 fiefs를 확장 제안합니다! {s1}은 (는) 충성스러운 서비스에 대한 지불로 {s2}을 (를) 기꺼이 귀하의 소유에 추가 할 의사를 전합니다. 당신의 대답은 무엇인가?
+mno_give_center_to_player_accept|제안을 수락하십시오.
+mno_give_center_to_player_reject|받지 않다. {s2}를 보유하는 데 관심이 없습니다.
+menu_give_center_to_player_2|간단한 행사로 공식적으로 {s2} {reg3? 그리고 바운드 마을 {s4} :}. {reg3? 그들은 : 그것}은 당신의 fiefdom의 좋은 부분을 만들 것입니다. 이제 개인 소유지에서 임대료와 수입을 청구하고 대중에게 병사를 초안하고 적절하다고 판단되는대로 토지를 관리 할 수 있습니다. 그러나 법과 질서의 규칙을 유지하는 것뿐만 아니라 귀하의 Fief와 사람들을 피해로부터 보호해야합니다.
+menu_oath_fulfilled|특정 기간 동안 {s1}과 (와) 계약을 맺었습니다. 계약이 만료되었습니다. 당신은 무엇을 할 것인가?
+mno_renew_oath|{s1}과 (와) 한 달 더 계약을 갱신하십시오.
+mno_dont_renew_oath|당신의 유대에서 벗어나십시오.
+menu_siege_started_defender|{s1}이 (가) {s2} 벽에 대한 공격을 시작했습니다. 적의 {reg11}과의 전투에 적합한 {reg10} 부대가 있습니다. 당신은 결정 ...
+mno_siege_defender_join_battle|전투에 참여하십시오.
+mno_siege_defender_troops_join_battle|당신없이 당신의 남자들이 전투에 참여하도록 명령하십시오.
+menu_siege_join_defense|{s4} ^^ 당신의 사상자 : {s8} ^^ 동맹의 사상자 : {s9} ^^ 적군 사상자 : {s10} ^^ 남은 동맹 : {reg10} ^ 남은 적 : {reg11}
+menu_enter_your_own_castle|{s10}
+menu_village|{s10} {s12} ^ {s11} ^ {s6} {s7}
+mno_village_manage|이 마을을 관리하십시오.
+mno_village_train_steward|마을 청지기를 훈련 시키십시오.
+mno_village_elder_talk|마을 장로와 대화하십시오.
+mno_village_elder_talk_door|마을 중심의 문
+mno_recruit_volunteers|자원 봉사자를 모집하십시오.
+mno_village_center|마을 중심으로 가십시오.
+mno_village_center_door|마을 중심의 문
+mno_village_buy_food|농민으로부터 물품을 구입하십시오.
+mno_village_attack_bandits|도둑을 공격하십시오.
+mno_village_wait|잠시만 기다려주세요.
+mno_collect_taxes_qst|{s1} (으)로 인해 {reg5? 세금 계속 : 세금 징수}.
+mno_train_peasants_against_bandits_qst|농민 훈련하기.
+mno_village_hostile_action|적대적인 행동을 취하십시오.
+mno_village_leave|떠나다.
+menu_village_hostile_action|어떤 행동을 염두에두고 있습니까?
+mno_village_take_food|농민이 당신에게 공급을하도록 강요하십시오.
+mno_village_steal_cattle|소를 훔치십시오.
+mno_village_loot|이 마을을 약탈하고 태우십시오.
+menu_recruit_volunteers|{s18}
+mno_continue_not_enough_gold|돈이 충분하지 않습니다 ...
+mno_recruit_them|그들을 모집하십시오 ({reg6} 디나르).
+menu_village_hunt_down_fugitive_defeated|도망자에게 큰 타격이 가해지면 땅으로 향하고 시력이 돌아가고 어두워집니다. 시간이 흐릅니다. 당신이 다시 눈을 뜨면 당신은 자신을 폭행하고 피 묻은 것을 발견하지만 운 좋게도 상처는 치명적인 것으로 보이지 않습니다.
+menu_village_infest_bandits_result|{s9}
+menu_village_infestation_removed|노래 할 가치가있는 전투에서, 당신과 당신의 부하들은 마을에서 도적을 몰아 내고 다시 한번 안전하게 만듭니다. 마을 사람들은 시련을 겪은 후 부의 길을 거의 남지 않았지만 찾을 수있는 모든 것을 제공합니다.
+mno_village_bandits_defeated_accept|정당한 것으로 생각하십시오.
+mno_village_bandits_defeated_cont|그들이 당신보다 더 많은 것들을 필요로한다는 것을 거절하십시오.
+menu_steward_training|귀하와 귀하의 {s17} 청지기 간의 만남은 시작할 준비가되어 있습니다. ^^ 청지기가 알아야 할 정보의 양에 따라, ^ 만남은 {reg8} 시간 동안 지속되며 {reg9} 디나르 비용은 {reg6? ^ ^ 안타깝게도 현재이 회의를 개최 할 자금이 없습니다 ... :}
+mno_steward_training_confirm|회의를 시작하십시오.
+mno_steward_training_decline|나중에 회의를 종료하십시오.
+menu_steward_training_complete|{s17} 청지기와의 만남은 성공했습니다. 그는 시간을 내 주셔서 감사합니다. 그의 능력에 대한 자신감을 가지고 {reg9? 성 : 자신의 집}으로 돌아 왔습니다.
+menu_center_manage|{s19} ^ {reg6? ^^ 현재 {s7}을 (를) 건설 중입니다. 현재 프로젝트는 {reg8} 일 {reg9? s :} .:} 후에 완료됩니다.
+mno_center_send_out_prospectors|전망대를 보내십시오.
+mno_center_build_training_grounds|훈련장을 건설하십시오.
+mno_center_build_manor|매너를 만드십시오.
+mno_center_build_herbalist|약초를 만드십시오.
+mno_center_build_fishpond|물고기 연못을 만드십시오.
+mno_center_build_shrine|신사를 지으십시오.
+mno_center_build_watch_tower|시계탑을 건설하십시오.
+mno_center_build_school|학교를 건설하십시오.
+mno_center_build_renderers|렌더러를 빌드하십시오.
+mno_center_crop_rotation|자르기 회전을 구현합니다.
+mno_center_build_hunting_lodge|사냥 별장을 건설하십시오.
+mno_center_build_improved_roads|도로를 개선하십시오.
+mno_center_build_warehouse|창고를 건설하십시오.
+mno_center_build_foresters|포레스터를 고용하십시오.
+mno_center_build_sheriff|보안관을 고용하십시오.
+mno_center_building_civic_patrols|시민 순찰을 고용하십시오.
+mno_center_build_prisoner_tower|감옥 탑을 건설하십시오.
+mno_center_build_market|시장을 건설하십시오.
+mno_center_build_blacksmith|대장장이를 건설하십시오.
+mno_center_build_sanitation_standards|위생 표준을 구현하십시오.
+mno_center_build_church|교회를 세우십시오.
+mno_center_build_winery|와이너리를 건설하십시오.
+mno_center_build_tax_collector|세무서 사무소를 세웁니다.
+mno_center_build_fire_brigade|소방대를 세우십시오.
+mno_center_build_craftsmen|장인을 훈련 시키십시오.
+mno_center_well_cleaners|청소기 청소하기.
+mno_center_streetsweepers|거리 청소부 고용.
+mno_center_building_inspectors|빌딩 감독관을 훈련시킵니다.
+mno_center_build_mine|광산을 건설하십시오.
+mno_center_build_monastery|수도원을 건설하십시오.
+mno_center_build_messenger_post|메신저 게시물을 작성하십시오.
+mno_center_build_chapel|예배당을 세우십시오.
+mno_center_build_hospital|병원을 세우십시오.
+mno_center_build_university|대학을 건설하십시오.
+mno_center_build_cathedral|성당을 짓습니다.
+mno_center_build_courts|법원을 세우십시오.
+mno_center_build_organized_guilds|조직 된 길드를 발견했습니다.
+mno_center_build_lamplighters|램프 라이터를 고용하십시오.
+mno_center_building_thieves_guild|도둑 길드 발견.
+mno_center_building_town_crier|타운 크리어를 고용하십시오.
+menu_center_improve|^^ {s19} ({reg2})의 엔지니어링 기술을 보유한 관리자는 {reg7? repairing : building} {s4}에 {reg5} 디나르 비용이 {reg6} 일이 소요될 것으로 생각합니다.
+mno_improve_cont|계속해.
+mno_improve_not_enough_gold|돈이 충분하지 않습니다.
+menu_town_bandits_failed|{s4} {s5}
+menu_town_bandits_succeeded|산적은 낫에 밀처럼 당신 앞에 떨어진다! 곧 당신은 거리에서 혼자 서 있고 대부분의 공격자들은 의식이 없거나 죽거나 죽어 있습니다. 시체를 검색하면이 짐승의 이전 희생자에 속해야 할 지갑을 찾을 수 있습니다. 또는 아마도 당신의 삶에 적절한 결말을 맺기를 원하는 누군가가 그들에게 주었을 것입니다.
+menu_village_steal_cattle_confirm|약탈 기술 ({reg2})이 가장 높은 파티원으로서 {reg3? 당신은 {s1} reckons} 당신이 마을 소의 {reg4} 수장만큼 훔칠 수 있습니다.
+mno_village_steal_cattle_confirm|계속해.
+menu_village_steal_cattle|{s1}
+menu_village_take_food_confirm|농민들이 귀중한 공급을하도록 강요하고 위협하는 것은 어려울 것입니다. 적어도 한 시간이 필요하다고 생각합니다.
+mno_village_take_food_confirm|어서
+menu_village_take_food|마을 사람들은 당신을 위해 무엇을 가지고 있는지 열심히 나옵니다.
+mno_take_supplies|소모품을 가져 가십시오.
+mno_let_them_keep_it|그들이 계속 보자.
+menu_village_start_attack|화난 마을 사람들 중 일부는 도구를 잡고 당신을 저항 할 준비를합니다. 계속하면 손에 싸울 것 같습니다.
+mno_village_raid_attack|충전하십시오.
+mno_village_raid_leave|이 마을을 내버려 두십시오.
+menu_village_loot_no_resist|이곳의 마을 사람들은 거의없고 겁에 질려 있으며, 당신 앞에 빨리 흩어지고 달립니다. 마을은 당신의 자비에 있습니다.
+mno_village_loot_raze|마을을 약탈 한 다음 습격하십시오.
+menu_village_loot_complete|당신의 명령에 따라 군대는 마을을 점령하고 모든 가치를 쏟아 부은 다음 건물을 횃불에 넣습니다. 발견 된 동전과 귀중품에서 {reg1} 디나르에 대한 귀하의 지분을 얻습니다.
+menu_village_loot_defeat|용기와 결단력으로 싸우면서 마을 사람들은 힘을 모아 떼어냅니다.
+menu_village_loot_continue|이 마을을 약탈하고 싶습니까?
+mno_disembark_yes|예.
+mno_disembark_no|아니.
+menu_close|아무것도.
+menu_noldor_castle|너는 단지 신화가 아니라 현실이라고 믿지 않는 Noldor성에 접근합니다 ...
+mno_castle_castle_1|Noldor 성 홀로 이동하십시오.
+mno_castle_castle_1_door|성 문
+mno_join_tournament_noldor|Noldor 토너먼트에 참여하십시오.
+mno_castle_inspect|안뜰 주변을 산책하십시오.
+mno_castle_inspect_door|성 안뜰로.
+mno_castle_attack_surprise|성에 대한 공격을 시작하십시오.
+mno_castle_wait|잠시 기다려주세요 {s1}.
+mno_town_leave|떠나다.
+mno_town_leave_door|지역을 떠나십시오.
+menu_noldor_attack_verify|Noldor 성을 공격 하시겠습니까? 이것은 심각한 결과를 초래하는 매우 위험한 행위입니다.
+mno_noldor_attack_verify_yes|예. 이 주변에는 뾰족한 귀마개로 가장 한 전리품이 많이 있습니다.
+mno_noldor_attack_verify_no|아니요, 우리는 Noldor 친구들을 뒤에서 찌를 수 없습니다!
+menu_noldor_castle_attack|당신의 군대는 Noldor 성을 공격 할 준비를합니다 ...
+menu_noldor_castle_attack_result|성 공격 결과-이 텍스트를 볼 수 없습니다!
+menu_noldor_castle_victory|당신의 위험한 공격이 성공했습니다. 전리품 마차로 떠나는 것처럼, Noldor 성은 존재하지 않았으므로 눈에 띄지 않습니다.
+menu_noldor_castle_defeat|Noldor는 당신의 위험한 공격을 물리 치고 그들의 성을 다시 은폐했습니다.
+menu_stronghold|{s4}
+mno_castle_castle_2|성으로 가십시오.
+mno_join_tournament_order|주문 토너먼트에 참여하십시오.
+mno_town_castle_2|주문 성 홀로 이동하십시오.
+mno_town_castle_2_door|성 문
+mno_town_center|거리를 산책 해보세요.
+mno_town_tavern|선술집을 방문하십시오.
+mno_town_merchant|상인과 대화하십시오.
+mno_town_arena|경기장을 입력하십시오.
+mno_town_dungeon|안 함 : 감옥에 들어가십시오.
+mno_town_enterprise|기업을 방문하십시오.
+mno_visit_lady|여자를 방문하려고합니다.
+mno_trade_with_merchants|시장에 가십시오.
+mno_castle_attack|폭행을 시작하십시오!
+mno_castle_wait_free|여기서 잠시 쉬십시오.
+menu_stronghold_attack_verify|거점을 공격 할 준비가 되셨습니까?
+mno_stronghold_attack_verify_yes|예. 나는 내 명령에 훌륭한 병력이 있습니다.
+mno_stronghold_attack_verify_no|아니요, 자살하는 것 같습니다.
+menu_stronghold_attack|군대가 스네이크 컬트 요새를 공격 할 준비를합니다
+menu_stronghold_attack_result|성 공격 결과-이 텍스트를 볼 수 없습니다!
+menu_stronghold_victory|하루가 이겼다! 최후의 컬 티스트 수비수는 검에 넣어지고 당신은 당신의 명령에 대한 거점을 주장합니다.
+menu_stronghold_defeat|스네이크 컬트 (Snake Cult)는 무익한 공격을 물리 쳤으며 다음 수비 전에 수비대를 강화할 것입니다.
+menu_old_ruins|{s4}
+mno_castle_castle_3|성으로 가십시오.
+mno_inspect_old_ruins|지역을 조사하십시오.
+mno_inspect_old_ruins_door|지역을 조사하십시오.
+mno_inspect_camp_build|빌더를 만나십시오.
+mno_inspect_camp_build_door|빌더를 만나십시오.
+mno_leave_workforce_camp|수용소에 노동자를 두십시오 ({reg33} / 20 이미 여기).
+mno_leave_workforce_camp_door|수용소에 일꾼을 두십시오.
+mno_camp_master_talk|캠프 마스터와 대화하십시오.
+mno_camp_master_talk_door|캠프 마스터와 대화하십시오.
+mno_camp_blacksmith_talk|대장장이와 대화하십시오.
+mno_camp_blacksmith_talk_door|대장장이와 대화하십시오.
+mno_camp_vet_talk|말지기와 대화하십시오.
+mno_camp_vet_talk_door|말지기와 대화하십시오.
+mno_inspect_camp_finished|캠프로 가십시오.
+mno_inspect_camp_finished_door|캠프로 가십시오.
+mno_camp_station_troops|주둔지를 관리하십시오. ({reg33} / {reg34} {s2})
+mno_camp_station_troops_door|주둔지를 관리하십시오.
+mno_camp_wait_old_ruins|여기서 잠시 쉬십시오.
+mno_camp_wait_old_ruins_door|여기서 잠시 쉬십시오.
+mno_camp_leave|떠나다.
+mno_camp_leave_door|떠나다.
+menu_town|{s10} {s14} ^ {s11} {s12} {s13}
+mno_castle_castle|주님의 전당으로 가십시오 {s1}.
+mno_castle_castle_door|성 문
+mno_join_tournament|토너먼트에 참여하십시오.
+mno_town_castle|성으로 이동 {s1}.
+mno_town_castle_door|성 문
+mno_town_center_door|타운 센터의 문
+mno_town_tavern_door|선술집 문
+mno_town_merchant_door|가게 문
+mno_town_arena_door|경기장에 문
+mno_town_dungeon_door|던전의 문
+mno_town_enterprise_a|{s3}을 방문하십시오.
+mno_town_enterprise_a_door|기업의 문
+mno_visit_lady_door|정원 문
+mno_guildmaster_talk|길드 마스터와 대화하십시오.
+mno_walled_center_manage|이 {reg0? town : castle}을 관리하십시오.
+mno_walled_center_train_steward|{reg0? town : castle} 청지기를 훈련 시키십시오.
+mno_walled_center_move_court|법원을 여기로 옮기십시오.
+mno_castle_station_troops|주둔지를 관리하십시오. {s10}
+menu_cannot_enter_court|영주 홀에서 잔치가 진행 중이지만 내부에 초대 할만한 자격이 없습니다. 어쩌면 명성을 높이면 입장이 이겨 지거나 축제가 진행되는 동안 토너먼트에서 자신을 구별하려고 할 수도 있습니다 ...
+menu_lady_visit|누구를 방문 하시겠습니까?
+mno_visit_lady_1|{s12} 방문
+mno_visit_lady_2|{s12} 방문
+mno_visit_lady_3|{s12} 방문
+mno_visit_lady_3_door|정원 문
+mno_visit_lady_4|{s12} 방문
+mno_visit_lady_5|{s12} 방문
+mno_visit_lady_6|{s12} 방문
+mno_visit_lady_7|{s12} 방문
+mno_visit_lady_8|{s12} 방문
+menu_town_tournament_lost|토너먼트에서 탈락했습니다. {s8}
+menu_town_tournament_won|{s3} 토너먼트에서 우승했습니다! 군중이 당신의 이름을 응원함에 따라 당신은 자부심으로 가득 차 있습니다. 명예, 명성 및 영광 외에도 {reg9} 디나르 상을받습니다. {s8}
+menu_town_tournament_won_by_another|이날 무패를 유지 한 유일한 {reg3? fighter : man} 인 {s1}이 (가)이 토너먼트의 명예와 영광을 차지했습니다.
+menu_town_tournament|{s1} 토너먼트의 {reg1} 단계에 있으며 {reg1} 참가자는 남아 있습니다. 다음 라운드에는 각각 {reg3} {reg4? fighters : fighter}의 {reg2} 팀이 있습니다.
+mno_tournament_bet|내기에 베팅하십시오.
+mno_tournament_join_next_fight|다음 라운드에서 싸워라.
+mno_tournament_view_participants|참가자를 봅니다.
+mno_leave_tournament|토너먼트에서 탈퇴하십시오.
+menu_tournament_withdraw_verify|토너먼트에서 탈퇴 하시겠습니까?
+mno_tournament_withdraw_yes|예. 이것은 무의미한 애정입니다.
+mno_tournament_withdraw_no|아닙니다. 승리의 기회가있는 한 아닙니다!
+menu_tournament_bet|귀하에 대한 확률은 {reg5}에서 {reg6}까지입니다. {reg1? 이미 {reg1} 디나르에게 베팅했으며, 이기면 {reg2} 디나르를 얻게됩니다. :} 얼마나 베팅하고 싶습니까?
+mno_bet_500_denars|500 디나르.
+mno_bet_250_denars|250 디나르.
+mno_bet_100_denars|100 디나르.
+mno_bet_50_denars|디나르 50 명.
+mno_bet_25_denars|디나르 25 명.
+menu_tournament_bet_confirm|{reg1} 디나르에 베팅하면 토너먼트에서 이기면 {reg2} 디나르를 얻게됩니다. 괜찮습니까?
+mno_tournament_bet_accept|어서
+mno_tournament_bet_cancel|잊어 버려.
+menu_tournament_participants|당신은 토너먼트 참가자의 이름을 위해 한 명의 비서에게 요청합니다. 그들은 : ^ {s11}
+menu_collect_taxes|거래 기술이 가장 높은 당사자 ({reg2})로서 {reg3? 예상 : {s1}은 여기에서 세금을 징수하는 데 {reg4} 일이 소요될 것으로 예상합니다.
+mno_start_collecting|수집을 시작하십시오.
+mno_collect_later|나중에까지 벗어.
+menu_collect_taxes_complete|{s3}에서 세금으로 {reg3} 디나르를 모았습니다. {s19}는 당신이 그에게 돈을 가져갈 것을 기대할 것입니다.
+menu_collect_taxes_rebels_killed|빠른 행동과 강력한 무기로 반란이 성공적으로 중단되었습니다. 확실히, 당신을 반역 할 마음이있는 사람은 이것 후에 더 잘 생각할 것입니다.
+menu_collect_taxes_failed|반란이 일어나기 전에 {s3}에서 {reg3} 디나르 만 세금으로 징수 할 수있었습니다. {s1}은 (는) 행복하지는 않지만 일부 은은 그 어느 것보다 그를 더 잘 대할 것입니다 ...
+menu_collect_taxes_revolt_warning|{s3}의 사람들은 당신의 요구에 격분하여 강탈에 지나지 않습니다. 그들은 매우 불안해하고 있으며 계속 누르고 있으면 심하게 반응 할 수 있습니다.
+mno_continue_collecting_taxes|무시하고 계속하십시오.
+mno_halve_taxes|컬렉션을 반으로 줄이는 데 동의합니다. ({s1}이 (가) 화 났을 수 있습니다)
+menu_collect_taxes_revolt|{s3}에서 세금을 징수하는 동안 중단되었습니다. 화난 {reg9? 농민들 : 타운 맨}의 큰 무리가 점점 가까워지면서 엄청난 세금에 대해 외치며 횃불과 무기를 흔들며 소리 쳤다. 그들이 당신과 싸우는 것을 목표로하는 것 같습니다!
+menu_train_peasants_against_bandits|{reg3}의 최고 훈련 기술을 보유한 파티원으로서 {reg3? 당신은 다음을 기대합니다 : {s1} expects} 일부 농민은 실습 준비에 {reg4} 시간이 소요될 것으로 예상합니다.
+mno_make_preparation|그들을 훈련 시키십시오.
+mno_train_later|나중에까지 벗어.
+menu_train_peasants_against_bandits_ready|당신은 농민들을 병사, 훈육 및 순종의 기초에 두었습니다. {reg1? have : has} 중 {reg0}이 (가) 교육을 완전히 이해하고 {reg1? are : is}가 연습 준비가되었다고 생각합니다.
+mno_peasant_start_practice|연습 싸움을 시작하십시오.
+menu_train_peasants_against_bandits_training_result|{s0}
+menu_train_peasants_against_bandits_attack|훈련을 계속할 준비가되면 마을에서 온 보초가 당신에게 달려 가서 큰소리로 외칩니다. 적기가 수평선에서 발견되어 {s3}을 (를) 위해 열심히 타기 시작했습니다. 장로는 새로 훈련 된 민병대를 조직하고 직면하게 해달라고 간청합니다.
+mno_peasants_against_bandits_attack_resist|싸움을 준비하십시오!
+menu_train_peasants_against_bandits_attack_result|{s9}
+menu_train_peasants_against_bandits_success|도둑이 부러졌다! 농민들과 새로운 챔피언에 겁에 질려 다리 사이에 꼬리를 달고 도망친 소수의 사람들. 마을 사람들은 시련을 겪은 후 부의 길을 거의 남지 않았지만, 감사의 마음을 전할 수있는 모든 것을 제공합니다.
+menu_disembark|하차하고 싶습니까?
+menu_ship_reembark|착수하겠습니까?
+mno_reembark_yes|예.
+mno_reembark_no|아니.
+menu_center_reports|도시 이름 : {s1} ^ 에코 : {reg7} 번영 : {reg6} ^ 임대 소득 : {reg1} 관세 수입 : {reg2} ^ 부 : {reg4} 예상 : {reg8} ^ 선수 주당 수입 : {reg9} [ {reg10}] ^ 주둔지 임금 : {reg5} ^ 식품 재고 : {reg3} 일 동안
+mno_to_price_and_productions|가격과 제작물을 보여줍니다.
+menu_price_and_production|생산량 : ^ (참고 : 원자재에 따라 기본 / 수정 됨 / 재료와 번영에 의해 수정 됨) ^ {s1} ^^
+menu_town_trade|당신은 시장으로 향합니다.
+mno_assess_prices|현지 가격을 평가하십시오.
+mno_trade_with_weaponsmith|무기 상인과 거래하십시오.
+mno_trade_with_armorsmith|갑옷 상인과 거래하십시오.
+mno_trade_with_horse_trader|말 상인과 거래하십시오.
+mno_trade_with_merchant|상품 판매자와 거래하십시오.
+mno_back_to_town_menu|의 앞으로 돌다.
+menu_town_trade_assessment_begin|무역 지구는 상인들과 캐러밴 마스터들이 거래를하고 있습니다. 지역 전체의 무역 상품 가격에 관한 몇 가지 토론을 듣게되었습니다.
+mno_town_best_deals|잘 듣고 최고의 거래를 시도하십시오
+mno_back_to_market|시장으로 돌아갑니다.
+menu_town_trade_assessment|거래 기술 ({reg2})이 가장 높은 당사자 인 {reg3? 귀하가 다음을 파악하려고합니다. {s1}은 거래 할 최고의 상품을 파악하려고합니다. {s2}
+menu_sneak_into_town_suceeded|가난한 순례자의 의복으로 위장한 당신은 경비원을 속이고 마을로 나아갑니다.
+menu_sneak_into_town_caught|당신이 몰래 들어 가려고 할 때, 경비원 중 하나가 당신을 인식하고 경보를 발생시킵니다! 마을의 모든 경비원이 당신에게 내려 오기 전에 당신은 문을 통해 도망해야합니다!
+mno_sneak_caught_fight|나가는 길을 싸우십시오!
+mno_sneak_caught_surrender|항복.
+menu_sneak_into_town_caught_dispersed_guards|도망 치기 전에 경비원을 몰아 내고 트레일을 가려서 거리 미로에서 추격자를 쉽게 잃을 수 있습니다.
+menu_sneak_into_town_caught_ran_away|당신은 다시 문을 통과하여 시골의 안전으로 빠르게 후퇴합니다. {s11}
+menu_enemy_offer_ransom_for_prisoner|{s2}는 {s1}을 (를) 기꺼이 판매하려는 경우 실버로 {reg12} 디나르를 제공합니다.
+mno_ransom_accept|제안을 수락하십시오.
+mno_ransom_reject|제안을 거부하십시오.
+menu_training_ground|당신은 당신이 당신의 무술 기술을 연습 할 수있는 훈련 분야에 접근합니다. 어떤 종류의 훈련을 원하십니까?
+mno_camp_trainer|트레이너와 상담하십시오.
+mno_camp_train_melee|스파링 연습.
+mno_camp_train_archery|원거리 무기 연습.
+mno_camp_train_mounted|승마 연습.
+menu_training_ground_selection_details_melee_1|당신은 몇 명의 상대를 상대 할 것입니까?
+mno_camp_train_melee_num_men_1|하나.
+mno_camp_train_melee_num_men_2|두.
+mno_camp_train_melee_num_men_3|세.
+mno_camp_train_melee_num_men_4|넷.
+menu_training_ground_selection_details_melee_2|상대 # {reg1}을 (를) 선택하십시오.
+mno_training_ground_selection_details_melee_random|무작위로 선택하십시오.
+menu_training_ground_selection_details_mounted|어떤 종류의 무기로 훈련하고 싶습니까?
+mno_camp_train_mounted_details_1|한손 무기.
+mno_camp_train_mounted_details_2|폴암.
+mno_camp_train_mounted_details_3|활.
+mno_camp_train_mounted_details_4|던진 무기.
+menu_training_ground_selection_details_ranged_1|어떤 종류의 원거리 무기를 훈련하고 싶습니까?
+mno_camp_train_ranged_weapon_bow|활과 화살.
+mno_camp_train_ranged_weapon_crossbow|석궁.
+mno_camp_train_ranged_weapon_thrown|칼 던지기.
+menu_training_ground_selection_details_ranged_2|어떤 연습을하고 싶습니까?
+mno_camp_train_ranged_details_1|10 야드
+mno_camp_train_ranged_details_2|20 야드
+mno_camp_train_ranged_details_3|30 야드
+mno_camp_train_ranged_details_4|40 야드
+mno_camp_train_ranged_details_5|50 야드
+mno_camp_train_ranged_details_6|60 야드
+mno_camp_train_ranged_details_7|70 야드
+menu_training_ground_description|{s0}
+menu_training_ground_training_result|{s7} {s2}
+menu_marshall_selection_candidate_ask|{s15}가 곧 {s23}에 대한 새로운 마샬을 선택합니다. 몇몇 영주들은 당신의 이름을 후보로 추천했습니다.
+mno_marshall_candidate_accept|{s15}가 당신이 마샬로서 기꺼이 봉사하고 있음을 알게하십시오.
+mno_marshall_candidate_reject|요즘 너무 바빠서 모두에게 말하십시오.
+menu_captivity_avoid_wilderness|갑자기 모든 세계가 당신 주위를 어둡게합니다. 몇 시간 후에 당신은 당신의 의식을 회복하고 넘어진 그 자리에서 자신을 발견합니다. 당신의 원수는 당신을 죽음으로 데려갔습니다. 그러나 당신의 상처 중 어느 것도 치명적이지 않은 것으로 보이며, 끔찍한 느낌이 들더라도 여전히 걸을 수 있다는 것을 알게됩니다. 일어나서 파티에서 다른 생존자를 찾아보십시오.
+menu_captivity_start_wilderness|그루터기
+menu_captivity_start_wilderness_surrender|그루터기
+menu_captivity_start_wilderness_defeat|당신의 적이 당신을 포로로 데려갑니다.
+menu_captivity_start_castle_surrender|그루터기
+menu_captivity_start_castle_defeat|그루터기
+menu_captivity_start_under_siege_defeat|당신의 적이 당신을 포로로 데려갑니다.
+menu_captivity_wilderness_taken_prisoner|당신의 적이 당신을 포로로 데려갑니다.
+menu_captivity_wilderness_check|그루터기
+menu_captivity_end_wilderness_escape|죄수로 끌려가는 고통스러운 날들 후에, 당신은 기회를 찾고 당신의 납치범들로부터 탈출합니다!
+menu_captivity_castle_taken_prisoner|당신은 당신의 무기를 빼앗아 경비원에 빠르게 둘러싸여 있습니다. 저주와 모욕으로 그들은 당신을 포로의 비참한 날을 피하면서 던전으로 던져 넣습니다.
+menu_captivity_rescue_lord_taken_prisoner|당신은 자신을 드러내 기 전에 가능한 오랫동안 변장을합니다. 경비원은 분노하고 당신을 셀에 다시 던지기 전에 당신을 잔인하게 때려 눕습니다.
+menu_captivity_castle_check|그루터기
+menu_captivity_end_exchanged_with_prisoner|며칠의 징역 후, 당신의 납치범이 다른 죄수와 당신을 교환 할 때 마침내 석방됩니다.
+menu_captivity_end_propose_ransom|당신은 셀 수없는 것보다 더 많은 지하 감옥에서 오랜 시간을 보냅니다. 갑자기 당신의 납치범 중 한 명이 제안으로 당신의 셀에 들어갑니다. 그는 당신의 숨겨진 부에 대한 {reg5} 디나르에 대한 대가로 당신을 자유롭게 해 줄 것을 제안합니다. 당신은 결정 ...
+mno_captivity_end_ransom_accept|제안을 수락하십시오.
+mno_captivity_end_ransom_deny|그를 거부하고 더 좋은 것을 기다립니다.
+menu_captivity_castle_remain|당신의 세포의 어둠 속에서 더 많은 날이지나갑니다. 당신은 가능한 한 최선을 다해 경비원의 발차 기와 저주를 견뎌 내고 육체의 노폐물이 점점 더 많이 낭비되는 것을 지켜보십시오 ...
+menu_kingdom_army_quest_report_to_army|{s8}이 (가) 귀하가 {reg4? her : his} 새로운 군사 캠페인에 참여하기를 희망하는 단어를 보냅니다. 최소한 {reg13} 부대를 군대에 데려 와야하며, 부족한 경우에는 서둘러 더 많은 남자를 키우도록 지시받습니다.
+menu_kingdom_army_quest_messenger|{s8}은 수행해야 할 작업에 대해 귀하와 대화하고 싶은 말을 보냅니다. 그는 당신이 와서 최대한 빨리 그를 만나도록 요청합니다.
+menu_kingdom_army_quest_join_siege_order|{s8}이 (가) 전폭 공격을 준비하기 위해 {s9}의 포위 공격에 참여할 것이라는 말을 보냅니다. 당신의 군대는 모든 비용으로 {s9}를 가져야합니다.
+menu_kingdom_army_follow_failed|{s8}을 (를) 따르지 못했습니다. 마샬은 당신이 달리 관여했다고 가정하지만 당신의지지에 감사했을 것입니다.
+menu_invite_player_to_faction_without_center|당신은 vassalage의 제안을받습니다! ^^ {s9}의 {s8}이 (가) 자신에게 직접 초대장을 가져 오기 위해 왕실 전령을 보냈습니다. {s9}의 신병 {reg63? lord : lady}이되어 영광으로 생각하며 {s8}은 당신에게 경의의 맹세를 맹세하고 그의 군사 캠페인에서 싸울 것을 요구합니다. 토지 나 제목이 없습니다. 당신이 제안을하지 않으면 그는 반드시 기분을 상하게 될 것입니다 ...
+mno_faction_accept|동의하기!
+mno_faction_reject|초대를 거절하십시오.
+menu_invite_player_to_faction|당신은 vassalage의 제안을받습니다! ^^ {s9}의 {s8}이 (가) 자신에게 직접 초대장을 가져 오기 위해 왕실 전령을 보냈습니다. {s9}의 신병 {reg63? lord : lady}이되어 영광으로 생각하며 {s8}은 그에게 경의의 맹세를 맹세하고 그의 군사 캠페인에서 싸울 것을 요구합니다. 충성도 높은 서비스에 {s2} 중 당신이 제안을하지 않으면 그는 반드시 기분을 상하게 될 것입니다 ...
+menu_invite_player_to_faction_accepted|허술한 사람이 되려면 경의의 맹세를 {s3}에게 맹세해야합니다. 그를 찾아서 직접 선서해야합니다. {s5}
+menu_question_peace_offer|당신은 평화 제안을받습니다 ^^ {s1}은 당신에게 평화 계약을 제공합니다. 당신의 대답은 무엇인가?
+mno_peace_offer_accept|동의하기
+mno_peace_offer_reject|받지 않다
+menu_notification_truce_expired|휴전이 만료되었습니다 ^^ {s1}과 {s2} 사이의 휴전이 만료되었습니다.
+menu_notification_feast_quest_expired|{s10}
+menu_notification_sortie_possible|적들은 {s4}의 벽 밖에서 목격되었습니다. {s5}와 다른 사람들이 분류를 준비하고 있습니다. 원한다면 가입 할 수 있습니다.
+menu_notification_casus_belli_expired|왕국이 응답하지 않음
+menu_notification_lord_defects|결함 : {s4}가 {s5}를 포기하고 {s4}에 합류하여 {reg4? her : his}와 함께
+menu_notification_treason_indictment|반역죄 판결 ^ {s9}
+menu_notification_border_incident|국경 사건 ^ 워드가 당신에게 {s9}에 도달합니다. 소문이 사실인지 아닌지는 모르지만 한 가지 사실을 알고 있습니다.이 작은 사건이 {s4} 사이에서 열정을 불러 일으켜 {s3}과의 전쟁을 더 쉽게 할 수있게합니다. 그들은 그것을 원한다 ...
+menu_notification_player_faction_active|당신은 이제 어떤 왕국에 묶이지 않고 당신의 이름으로 땅을 소유합니다. 이로 인해 법원은 일시적으로 {s12}에 위치한 자신의 권리로 군주가됩니다. 그러나 펜 도르의 다른 왕들은 처음에는 군주가 왕좌를 잡을 수 있다면 자신의 적법성이 의문의 여지가 있기 때문에 당신을 위협으로 생각할 것입니다. 왕국. 주권 군주로 계속하려면 우선 우선 순위를 결정해야합니다. 당신은 여러 가지 수단을 통해 통치 할 권리를 가질 수 있습니다. 고 가족과 결혼하거나, 새로운 영주를 영입하거나, 땅을 다스리거나, 다른 왕을 대우하거나, 동료를 선교사로 파견해야합니다. ^^ 국가 문제를 처리하기 위해 동료들 중에서 최고 장관을 임명하십시오. 서로 다른 동반자들은 다른 능력을 가지고 있습니다. ^ 때로 새로운 목사를 임명 할 수도 있습니다. 장관에게 말함으로써 법원의 위치를 변경할 수도 있습니다.
+mno_appoint_spouse|부인을 임명하세요, {s10} ...
+mno_appoint_npc_adonja|{s10} 임명
+mno_appoint_npc_leslie|{s10} 임명
+mno_appoint_npc_ansen|{s10} 임명
+mno_appoint_npc_riva|{s10} 임명
+mno_appoint_npc_kassim|{s10} 임명
+mno_appoint_npc_lethaldiran|{s10} 임명
+mno_appoint_npc_jocelyn|{s10} 임명
+mno_appoint_npc_alistair|{s10} 임명
+mno_appoint_npc_rayne|{s10} 임명
+mno_appoint_npc_julia|{s10} 임명
+mno_appoint_npc_frederick|{s10} 임명
+mno_appoint_npc_ediz|{s10} 임명
+mno_appoint_npc_sara|{s10} 임명
+mno_appoint_npc_donavan|{s10} 임명
+mno_appoint_npc_diev|{s10} 임명
+mno_appoint_npc_alyssa|{s10} 임명
+mno_appoint_npc_roland|{s10} 임명
+mno_appoint_npc_kaverra|{s10} 임명
+mno_appoint_npc_sigismund|{s10} 임명
+mno_appoint_npc_boadice|{s10} 임명
+mno_appoint_default|이 지역에서 저명한 시민을 임명하십시오 ...
+menu_minister_confirm|{s9}는 귀하의 법원에서 {s12}에 있습니다. 당신의 권위를 앗아 갈 수있는 해결되지 않은 문제가 누적되는 것을 피하기 위해 정기적으로 상담해야합니다 ...
+menu_auto_name_stronghold|그루터기
+menu_auto_name_order|현명하고 명예로운 {s5}에 의해 {s60}에 확립 된 {s2} 질서와 충실한 {s3} 및 {s4}를 오래 사십시오!
+menu_upgrade_screen|그루터기
+menu_notification_court_lost|{s12}
+menu_notification_player_faction_deactive|당신의 왕국은 더 이상 어떤 땅도 가지고 있지 않습니다.
+menu_notification_player_wedding_day|{s8}은 {s10}에서의 결혼식 준비가 완료되었으며 귀하의 임재가 임박했음을 알려 드리고자합니다.
+menu_notification_player_kingdom_holds_feast|{s11}
+menu_notification_center_under_siege|{s1}이 {s3}의 {s2}에 의해 포위되었습니다!
+menu_notification_center_under_siege_special|{s1}이 {s2}의 공격을 받고 있습니다!
+menu_notification_village_raided|적들에게 쓰레기를 쏟아 놓았습니다 ^^ {s1}은 {s3}의 {s2}에 의해 습격당했습니다!
+menu_notification_village_raid_started|당신의 마을이 공격을 받고 있습니다! ^^ {s3}의 {{{2}}이 (가) {s1}에 낭비를하고 있습니다.
+menu_notification_one_faction_left|그루터기
+menu_notification_order_founded|그루터기
+menu_notification_oath_renounced_faction_defeated|당신의 오래된 분수가 패배했습니다 ^^ {s1}과의 전투에서 승리했습니다! 이것은 당신이 그들에게 맹세를 포기한 후에 시작된 투쟁을 끝냅니다.
+menu_notification_center_lost|부동산을 잃어 버렸습니다 ^^ {s2}에게 {s1}을 잃었습니다.
+menu_notification_center_sacked|부동산이 약탈당했습니다 ^^ {s1}이 {s2}에 의해 약탈당했습니다.
+menu_notification_troop_left_players_faction|배신! ^^ {s1}이 (가) {s2}을 (를) 떠나 {s3}에 가입했습니다.
+menu_notification_troop_joined_players_faction|좋은 소식입니다. ^^ {s1}이 (가) {s2}에서 {s3}에 가입했습니다.
+menu_notification_war_declared|전쟁 선언 ^^ {s1}은 {s2}와의 전쟁을 선포했습니다!
+menu_notification_peace_declared|평화 협정 ^^ {s1}과 {s2}가 평화를 이루었습니다! ^ {s57}
+menu_notification_faction_defeated|진영이 제거되었습니다 ^^ {s1}은 (는) 더 이상 없습니다!
+menu_notification_rebels_switched_to_faction|반란 성공 ^^ 반란은 승리합니다! 귀하의 진영은 이제 {s12}를 단일 통치자로하여 {s11}의 소유권을 주장합니다.
+menu_notification_player_should_consult|당신의 목사는 그 영역에서 양조하는 데 문제가 있다는 말을 듣습니다. 최대한 빠른 시일 내에 그와 상담해야합니다
+menu_notification_player_feast_in_progress|잔치 준비 중 ^ 아내가 {s11}의 홀에서 잔치 준비를 시작했습니다.
+menu_notification_lady_requests_visit|나이 든 여자가 당신의 파티에 다가가 남자들 중 한 명에게 일반 왁스로 봉인 된 편지를 전달합니다. 그것은 당신에게 해결됩니다. 봉인을 풀면 {s15}에서 온 것입니다. '마지막 방문을 즐겼습니다. {s14} 저는 현재 {s10}에 있습니다. {s12} '
+mno_notification_lady_requests_visit_come|여자에게 당신이 곧 올 것이라고 그녀의 여주인에게 알리라고 말한다
+mno_notification_lady_requests_visit_indisposed|여자에게 당신이 관심이 있다는 것을 여주인에게 알리라고한다
+menu_garden|{s12}
+mno_nurse_go|간호사와 함께 가십시오.
+mno_nurse_wait|봄이 될 때까지 기다리십시오.
+menu_kill_local_merchant_begin|당신은 당신의 피해자를 발견하고 그를 따라 코너를 어두운 골목으로 바꾸면서 관찰합니다. 이것은 반드시 그를 공격 할 수있는 가장 좋은 기회가 될 것입니다.
+menu_debug_alert_from_s65|디버그 알림 : {s65}
+menu_auto_return_to_map|그루터기
+menu_bandit_lair|{s3}
+mno_continue_1|은신처 공격 ...
+mno_leave_no_attack|떠나다.
+mno_leave_victory|계속하다...
+mno_leave_defeat|계속하다...
+menu_notification_player_faction_political_issue_resolved|영역의 동료들과상의 한 후, {s10}은 {s12}에 {s11}을 부여하기로 결정했습니다.
+menu_notification_player_faction_political_issue_resolved_for_player|영역의 동료들과상의 한 후, {s10}이 (가) 귀하에게 {s11}을 부여하기로 결정했습니다. 명예를 거부 할 수도 있지만 잠시 동안 다른 상을받지 못할 수도 있습니다. {s12}
+mno_accept|명예를 받아들이십시오
+mno_decline|명예를 거절하다
+menu_start_phase_3|{s16} ^^ {s1}에서 여관을 찾을 때 지쳐서 빨리 잠이 듭니다. 새벽이되기 전에 깨어나 주변 환경을 탐험하기를 간절히 바라다 보면 이른 아침에 아직 버려진 거리로 모험을 떠나야합니다. 갑자기 칼집에서 미끄러 져 날아 오는 뾰족한 부분이 목의 머리카락을 끝까지 서있게합니다. 당신은 즉시 문제에 대한 경고에 ...
+menu_start_phase_4|{s11}
+menu_lost_tavern_duel|{s11}
+menu_grandmaster_ambush_lost|갑작스런 뱀 컬트 (Snake Cult) 공격은 놀라움으로 당신을 사로 잡았고 당신은 그들의 격렬한 타격을 받아 녹아웃되었습니다. 당신은 일어 났고 방금 일어난 일과 이유를 이해할 수 없었습니다.
+menu_grandmaster_ambush_won|갑작스런 뱀 컬트 (Snake Cult) 공격은 격렬했지만, 당신과 동료 연맹 기사들은 신속하게 침입자를 파견했습니다. 왜 이런 일이 발생했는지 분명한 설명이 없으므로 지금 답을 찾아야합니다.
+menu_establish_court|법원으로 {s4}을 (를) 설정하려면 약간의 보수가 필요합니다. 특히, 도구 세트와 벨벳 볼트가 필요합니다. 팔로어 중 일부가 여기를 옮기는 데 시간이 조금 걸릴 수도 있습니다. 계속 하시겠습니까?
+mno_establish|귀하의 법원으로 {s4}를 설정하십시오
+mno_hold_off|잠깐만 ...
+menu_notification_relieved_as_marshal|{s4}는 귀하의 마셜 서비스가 더 이상 필요하지 않음을 알려 드리고자합니다. 그러나 지난 {reg4} 일 동안 영역을 대신하여 용감한 노력을 기리기 위해 {reg8? she : he}는 {reg5} 디나르 지갑을 제공합니다.
+menu_manage_loot_pool|{s10} ^ {s30}
+mno_auto_no_companions|전리품을 줄 동반자가 없습니다.
+mno_auto_loot|영웅이 아이템 풀에서 장비를 선택하도록하십시오.
+mno_auto_loot_no|자동 업그레이드를위한 항목 풀 공간이 부족합니다.
+mno_previous_page|[이전 페이지]
+mno_next_page|[다음 페이지]
+mno_loot|항목 풀에 액세스하십시오.
+mno_companion1|{s11}과 대화
+mno_companion2|{s12}와 대화
+mno_companion3|{s13}과 대화
+mno_companion4|{s14}와 대화
+mno_leave_1|{s20}
+menu_access_companions_inventory|동료의 인벤토리에 액세스하십시오.
+mno_companion1a|{s11}
+mno_companion2a|{s12}
+mno_companion3a|{s13}
+mno_companion4a|{s14}
+mno_companion5a|{s15}
+mno_companion6a|{s16}
+menu_achievement_notify|그루터기
+menu_ghostlady_knocked_out|살인 한 서기관은 칼날로 아주 좋은 것으로 판명되었고, 당신의 기술에도 불구하고 빨리 당신을 최고로합니다. 성 경비원이 당신에게 차가운 물을 부으면 의식이 갑자기 돌아옵니다. 상처를 입었지만 한 조각으로 다소. 그들이 당신을 도와주지 않은 이유를 알고 자하는 당신의 화난 요구에, 그들은 서기관을 공격하는 것이 그들의 일이 아니라고 대답합니다. 스크라이브가 도망 쳤다. 당신은 당신의 부적당 함으로 그분이 결코 결코 정의에 이르지 못할 것임을 몹시 반성합니다.
+menu_heartbeat_quest|긴급 메시지가 나타납니다! ^^ {s2}의 청지기 {s8}이 (가) 긴급 소환장을 보냈습니다. 주의가 필요한 이벤트가 있습니다. ^^ 그는 급히 {s2} (으)로 돌아가라고 요청합니다. ^ ^이 요청을 거부하면 부정적인 결과가 발생할 수 있습니다 ...
+mno_heartbeat_quest_accept|곧 돌아올 것이라는 회신 메시지를 보내십시오!
+mno_heartbeat_quest_do_remotely|메신저에게 500 디나르를 던지고 문제를 해결하도록합니다.
+mno_heartbeat_quest_reject|요청을 거절하면 할 일이 더 좋습니다.
+menu_choose_scenes_0|장면을 선택하십시오 : (페이지 1 of 38)
+mno_next|다음...
+mno_choose_scene_0|abhuva pendor castle 1 base : 생성
+mno_choose_scene_1|abhuva Pendor Castle 2 Base : 생성
+mno_choose_scene_2|camp scene: generate|자동 진입 점
+mno_choose_scene_3|camp scene horse track: generate|자동 진입 점
+mno_choose_scene_4|성 10 외관 : 생성
+mno_choose_scene_5|캐슬 10 인테리어 : 실내
+mno_choose_scene_6|성 10 감옥 : 실내
+mno_choose_scene_7|성 11 외관 : 생성
+mno_choose_scene_8|캐슬 11 인테리어 : 실내
+mno_choose_scene_9|성 11 감옥 : 실내
+mno_choose_scene_10|성 12 외관 : 생성
+mno_choose_scene_11|성 12 인테리어 : 실내
+mno_choose_scene_12|성 12 감옥 : 실내
+menu_choose_scenes_13|장면 선택 : (페이지 2 of 38)
+mno_previous|이전...
+mno_choose_scene_13|성 13 외관 : 생성
+mno_choose_scene_14|성 13 인테리어 : 실내
+mno_choose_scene_15|성 13 감옥 : 실내
+mno_choose_scene_16|성 14 외관 : 생성
+mno_choose_scene_17|성 14 내부 : 실내
+mno_choose_scene_18|성 14 감옥 : 실내
+mno_choose_scene_19|성 15 외관 : 생성
+mno_choose_scene_20|성 15 인테리어 : 실내
+mno_choose_scene_21|성 15 감옥 : 실내
+mno_choose_scene_22|성 16 외관 : 생성
+mno_choose_scene_23|성 16 인테리어 : 실내
+mno_choose_scene_24|성 16 감옥 : 실내
+mno_choose_scene_25|성 17 외관 : 생성
+menu_choose_scenes_26|장면 선택 : (페이지 3 중 38)
+mno_choose_scene_26|캐슬 17 인테리어 : 실내
+mno_choose_scene_27|성 17 감옥 : 실내
+mno_choose_scene_28|성 18 외관 : 생성
+mno_choose_scene_29|성 18 인테리어 : 실내
+mno_choose_scene_30|성 18 감옥 : 실내
+mno_choose_scene_31|성 19 외관 : 생성
+mno_choose_scene_32|성 19 인테리어 : 실내
+mno_choose_scene_33|성 19 감옥 : 실내
+mno_choose_scene_34|성 1 외관 : 생성
+mno_choose_scene_35|성 1 내부 : 실내
+mno_choose_scene_36|성 1 감옥 : 실내
+mno_choose_scene_37|캐슬 20 외관 : 생성
+mno_choose_scene_38|캐슬 20 인테리어 : 실내
+menu_choose_scenes_39|장면 선택 : (페이지 4 중 38)
+mno_choose_scene_39|성 20 감옥 : 실내
+mno_choose_scene_40|성 21 외관 : 생성
+mno_choose_scene_41|성 21 인테리어 : 실내
+mno_choose_scene_42|성 21 감옥 : 실내
+mno_choose_scene_43|성 22 외관 : 생성
+mno_choose_scene_44|성 22 인테리어 : 실내
+mno_choose_scene_45|성 22 감옥 : 실내
+mno_choose_scene_46|성 23 외관 : 생성
+mno_choose_scene_47|성 23 인테리어 : 실내
+mno_choose_scene_48|성 23 감옥 : 실내
+mno_choose_scene_49|캐슬 24 외관 : 생성
+mno_choose_scene_50|캐슬 24 인테리어 : 실내
+mno_choose_scene_51|캐슬 24 감옥 : 실내
+menu_choose_scenes_52|장면 선택 : (페이지 5/38)
+mno_choose_scene_52|성 25 외관 : 생성
+mno_choose_scene_53|성 25 인테리어 : 실내
+mno_choose_scene_54|성 25 감옥 : 실내
+mno_choose_scene_55|성 26 외관 : 생성
+mno_choose_scene_56|성 26 내부 : 실내
+mno_choose_scene_57|성 26 감옥 : 실내
+mno_choose_scene_58|성 27 외관 : 생성
+mno_choose_scene_59|성 27 인테리어 : 실내
+mno_choose_scene_60|성 27 감옥 : 실내
+mno_choose_scene_61|성 28 외관 : 생성
+mno_choose_scene_62|성 28 인테리어 : 실내
+mno_choose_scene_63|성 28 감옥 : 실내
+mno_choose_scene_64|성 29 외관 : 생성
+menu_choose_scenes_65|장면 선택 : (페이지 6/38)
+mno_choose_scene_65|성 29 내부 : 실내
+mno_choose_scene_66|성 29 감옥 : 실내
+mno_choose_scene_67|성 2 외관 : 생성
+mno_choose_scene_68|성 2 내부 : 실내
+mno_choose_scene_69|성 2 감옥 : 실내
+mno_choose_scene_70|성 30 외관 : 생성
+mno_choose_scene_71|성 30 인테리어 : 실내
+mno_choose_scene_72|성 30 감옥 : 실내
+mno_choose_scene_73|성 31 외관 : 생성
+mno_choose_scene_74|성 31 인테리어 : 실내
+mno_choose_scene_75|성 31 감옥 : 실내
+mno_choose_scene_76|성 32 외관 : 생성
+mno_choose_scene_77|성 32 인테리어 : 실내
+menu_choose_scenes_78|장면 선택 : (페이지 7/38)
+mno_choose_scene_78|성 32 감옥 : 실내
+mno_choose_scene_79|성 33 외관 : 생성
+mno_choose_scene_80|캐슬 33 인테리어 : 실내
+mno_choose_scene_81|성 33 감옥 : 실내
+mno_choose_scene_82|성 34 외관 : 생성
+mno_choose_scene_83|성 34 내부 : 실내
+mno_choose_scene_84|성 34 감옥 : 실내
+mno_choose_scene_85|성 35 외관 : 생성
+mno_choose_scene_86|성 35 인테리어 : 실내
+mno_choose_scene_87|성 35 감옥 : 실내
+mno_choose_scene_88|성 36 외관 : 생성
+mno_choose_scene_89|성 36 인테리어 : 실내
+mno_choose_scene_90|성 36 감옥 : 실내
+menu_choose_scenes_91|장면 선택 : (페이지 8 of 38)
+mno_choose_scene_91|성 37 외관 : 생성
+mno_choose_scene_92|성 37 인테리어 : 실내
+mno_choose_scene_93|성 37 감옥 : 실내
+mno_choose_scene_94|성 38 외관 : 생성
+mno_choose_scene_95|성 38 인테리어 : 생성
+mno_choose_scene_96|성 38 감옥 : 실내
+mno_choose_scene_97|성 39 외관 : 생성
+mno_choose_scene_98|성 39 인테리어 : 실내
+mno_choose_scene_99|성 39 감옥 : 실내
+mno_choose_scene_100|성 3 외관 : 생성
+mno_choose_scene_101|성 3 내부 : 실내
+mno_choose_scene_102|성 3 감옥 : 실내
+mno_choose_scene_103|성 40 외관 : 생성
+menu_choose_scenes_104|장면 선택 : (페이지 9/38)
+mno_choose_scene_104|성 40 인테리어 : 실내
+mno_choose_scene_105|성 40 감옥 : 실내
+mno_choose_scene_106|성 4 외관 : 생성
+mno_choose_scene_107|성 4 내부 : 실내
+mno_choose_scene_108|성 4 감옥 : 실내
+mno_choose_scene_109|성 5 외관 : 생성
+mno_choose_scene_110|캐슬 5 인테리어 : 실내
+mno_choose_scene_111|성 5 감옥 : 실내
+mno_choose_scene_112|성 6 외관 : 생성
+mno_choose_scene_113|캐슬 6 인테리어 : 실내
+mno_choose_scene_114|성 6 감옥 : 실내
+mno_choose_scene_115|성 7 외관 : 생성
+mno_choose_scene_116|성 7 인테리어 : 실내
+menu_choose_scenes_117|장면 선택 : (페이지 10/38)
+mno_choose_scene_117|성 7 감옥 : 실내
+mno_choose_scene_118|성 8 외관 : 생성
+mno_choose_scene_119|성 8 인테리어 : 실내
+mno_choose_scene_120|성 8 감옥 : 실내
+mno_choose_scene_121|성 9 외관 : 생성
+mno_choose_scene_122|성 9 인테리어 : 실내
+mno_choose_scene_123|성 9 감옥 : 실내
+mno_choose_scene_124|캐슬 놀도 외관 : 생성
+mno_choose_scene_125|캐슬 놀도 인테리어 : 실내
+mno_choose_scene_126|대화 장면
+mno_choose_scene_127|dhorak keep : 생성
+mno_choose_scene_128|elacrai 경기장 : 생성
+mno_choose_scene_129|기업 양조장 : 실내
+menu_choose_scenes_130|장면 선택 : (페이지 11/38)
+mno_choose_scene_130|기업 염료 공장 : 실내
+mno_choose_scene_131|엔터프라이즈 리넨 직공 : 실내
+mno_choose_scene_132|엔터프라이즈 밀 : 실내
+mno_choose_scene_133|기업 오일 프레스 : 실내
+mno_choose_scene_134|대장간 : 실내
+mno_choose_scene_135|기업 무두질 : 생성
+mno_choose_scene_136|기업 와이너리 : 실내
+mno_choose_scene_137|기업 양모 직공 : 실내
+mno_choose_scene_138|필드 1 : 생성
+mno_choose_scene_139|필드 2 : 생성
+mno_choose_scene_140|필드 3 : 생성
+mno_choose_scene_141|필드 4 : 생성
+mno_choose_scene_142|필드 5 : 생성
+menu_choose_scenes_143|장면 선택 : (페이지 12/38)
+mno_choose_scene_143|4 가지 여관 : 생성
+mno_choose_scene_144|은신처 숲 도둑 : 생성
+mno_choose_scene_145|은신처 산적 : 생성
+mno_choose_scene_146|은신처 해적 : 생성
+mno_choose_scene_147|은신처 산적 : 생성
+mno_choose_scene_148|레어 타이가 산적 : 생성
+mno_choose_scene_149|은신 보물 : 생성
+mno_choose_scene_150|회의 현장 사막
+mno_choose_scene_151|회의 현장 사막 숲
+mno_choose_scene_152|회의 장면 일반
+mno_choose_scene_153|회의 현장 일반 숲
+mno_choose_scene_154|회의 장면 눈
+mno_choose_scene_155|회의 장면 눈 숲
+menu_choose_scenes_156|장면 선택 : (페이지 13/38)
+mno_choose_scene_156|회의 현장 대초원
+mno_choose_scene_157|회의 현장 대초원 숲
+mno_choose_scene_158|다중 장면 1 : 생성
+mno_choose_scene_159|멀티 씬 10 : 생성
+mno_choose_scene_160|멀티 씬 11 : 생성
+mno_choose_scene_161|다중 장면 12 : 생성
+mno_choose_scene_162|다중 장면 13 : 생성
+mno_choose_scene_163|다중 장면 14 : 생성
+mno_choose_scene_164|다중 장면 15 : 생성
+mno_choose_scene_165|멀티 씬 16 : 생성
+mno_choose_scene_166|다중 장면 17 : 생성
+mno_choose_scene_167|multi scene 18: generate|진흙탕 물
+mno_choose_scene_168|멀티 씬 2 : 생성
+menu_choose_scenes_169|장면 선택 : (페이지 14/38)
+mno_choose_scene_169|다중 장면 3 : 생성
+mno_choose_scene_170|멀티 씬 4 : 생성
+mno_choose_scene_171|멀티 씬 5 : 생성
+mno_choose_scene_172|멀티 씬 6 : 생성
+mno_choose_scene_173|멀티 씬 7 : 생성
+mno_choose_scene_174|멀티 씬 8 : 생성
+mno_choose_scene_175|멀티 씬 9 : 생성
+mno_choose_scene_176|멀티 플레이어 맵 끝 : 생성
+mno_choose_scene_177|초보자 그라운드 : 실내
+mno_choose_scene_178|주문 요새 외부 : 생성
+mno_choose_scene_179|빠른 전투 1 : 생성
+mno_choose_scene_180|빠른 전투 2 : 생성
+mno_choose_scene_181|빠른 전투 3 : 생성
+menu_choose_scenes_182|장면 선택 : (페이지 15/38)
+mno_choose_scene_182|빠른 전투 4 : 생성
+mno_choose_scene_183|빠른 전투 5 : 생성
+mno_choose_scene_184|빠른 전투 6 : 생성
+mno_choose_scene_185|빠른 전투 7 : 생성
+mno_choose_scene_186|빠른 전투 맵 끝 : 생성
+mno_choose_scene_187|빠른 전투 장면 1 : 생성
+mno_choose_scene_188|빠른 전투 장면 2 : 생성
+mno_choose_scene_189|빠른 전투 장면 3 : 생성
+mno_choose_scene_190|빠른 전투 장면 4 : 생성
+mno_choose_scene_191|빠른 전투 장면 5 : 생성
+mno_choose_scene_192|random multi plain large: generate|auto entry points|무작위로
+mno_choose_scene_193|random multi plain medium: generate|auto entry points|무작위로
+mno_choose_scene_194|random multi steppe large: generate|auto entry points|무작위로
+menu_choose_scenes_195|장면 선택 : (페이지 16/38)
+mno_choose_scene_195|random multi steppe medium: generate|auto entry points|무작위로
+mno_choose_scene_196|random scene: generate|auto entry points|무작위로
+mno_choose_scene_197|random scene desert large: generate|auto entry points|무작위로
+mno_choose_scene_198|random scene desert normal: generate|auto entry points|무작위로
+mno_choose_scene_199|random scene desert small: generate|auto entry points|무작위로
+mno_choose_scene_200|random scene plain forest large: generate|auto entry points|무작위로
+mno_choose_scene_201|random scene plain forest normal: generate|auto entry points|무작위로
+mno_choose_scene_202|random scene plain forest small: generate|auto entry points|무작위로
+mno_choose_scene_203|random scene plain large: generate|auto entry points|무작위로
+mno_choose_scene_204|random scene plain normal: generate|auto entry points|무작위로
+mno_choose_scene_205|random scene plain small: generate|auto entry points|무작위로
+mno_choose_scene_206|random scene snow forest large: generate|auto entry points|무작위로
+mno_choose_scene_207|random scene snow forest normal: generate|auto entry points|무작위로
+menu_choose_scenes_208|장면 선택 : (페이지 17/38)
+mno_choose_scene_208|random scene snow forest small: generate|auto entry points|무작위로
+mno_choose_scene_209|random scene snow large: generate|auto entry points|무작위로
+mno_choose_scene_210|random scene snow normal: generate|auto entry points|무작위로
+mno_choose_scene_211|random scene snow small: generate|auto entry points|무작위로
+mno_choose_scene_212|random scene steppe forest large: generate|auto entry points|무작위로
+mno_choose_scene_213|random scene steppe forest normal: generate|auto entry points|무작위로
+mno_choose_scene_214|random scene steppe forest small: generate|auto entry points|무작위로
+mno_choose_scene_215|random scene steppe large: generate|auto entry points|무작위로
+mno_choose_scene_216|random scene steppe normal: generate|auto entry points|무작위로
+mno_choose_scene_217|random scene steppe small: generate|auto entry points|무작위로
+mno_choose_scene_218|예약 됨 10
+mno_choose_scene_219|예약 11
+mno_choose_scene_220|reserved4 : 생성
+menu_choose_scenes_221|장면 선택 : (페이지 18/38)
+mno_choose_scene_221|reserved5 : 생성
+mno_choose_scene_222|reserved6 : 생성
+mno_choose_scene_223|reserved7 : 생성
+mno_choose_scene_224|reserved8 : 생성
+mno_choose_scene_225|소금 광산 : 생성
+mno_choose_scene_226|뱀 요새 외부 : 생성
+mno_choose_scene_227|test2 : 생성
+mno_choose_scene_228|test3 : 생성
+mno_choose_scene_229|테스트 장면 : 생성
+mno_choose_scene_230|타운 10 골목 : 생성
+mno_choose_scene_231|타운 10 경기장 : 생성
+mno_choose_scene_232|타운 10 성 : 실내
+mno_choose_scene_233|타운 10 센터 : 생성
+menu_choose_scenes_234|장면 선택 : (페이지 19/38)
+mno_choose_scene_234|타운 10 감옥 : 실내
+mno_choose_scene_235|타운 10 방 : 실내
+mno_choose_scene_236|타운 10 스토어 : 실내
+mno_choose_scene_237|타운 10 선술집 : 실내
+mno_choose_scene_238|마을 10 벽 : 생성
+mno_choose_scene_239|마을 11 골목 : 생성
+mno_choose_scene_240|마을 11 경기장 : 생성
+mno_choose_scene_241|타운 11 성 : 실내
+mno_choose_scene_242|타운 11 센터 : 생성
+mno_choose_scene_243|타운 11 감옥 : 실내
+mno_choose_scene_244|타운 11 스토어 : 실내
+mno_choose_scene_245|타운 11 선술집 : 실내
+mno_choose_scene_246|마을 11 벽 : 생성
+menu_choose_scenes_247|장면 선택 : (페이지 20/38)
+mno_choose_scene_247|마을 12 골목 : 생성
+mno_choose_scene_248|마을 12 경기장 : 생성
+mno_choose_scene_249|타운 12 성 : 실내
+mno_choose_scene_250|타운 12 센터 : 생성
+mno_choose_scene_251|타운 12 감옥 : 실내
+mno_choose_scene_252|타운 12 스토어 : 실내
+mno_choose_scene_253|타운 12 선술집 : 실내
+mno_choose_scene_254|마을 12 벽 : 생성
+mno_choose_scene_255|마을 13 골목 : 생성
+mno_choose_scene_256|마을 13 경기장 : 생성
+mno_choose_scene_257|마을 13 성 : 실내
+mno_choose_scene_258|타운 13 센터 : 생성
+mno_choose_scene_259|타운 13 감옥 : 실내
+menu_choose_scenes_260|장면 선택 : (페이지 21 of 38)
+mno_choose_scene_260|타운 13 매장 : 실내
+mno_choose_scene_261|타운 13 선술집 : 실내
+mno_choose_scene_262|마을 13 벽 : 생성
+mno_choose_scene_263|타운 14 골목 : 생성
+mno_choose_scene_264|마을 14 경기장 : 생성
+mno_choose_scene_265|타운 14 성 : 실내
+mno_choose_scene_266|타운 14 센터 : 생성
+mno_choose_scene_267|타운 14 감옥 : 실내
+mno_choose_scene_268|타운 14 매장 : 실내
+mno_choose_scene_269|타운 14 선술집 : 실내
+mno_choose_scene_270|마을 14 벽 : 생성
+mno_choose_scene_271|타운 15 골목 : 생성
+mno_choose_scene_272|타운 15 경기장 : 생성
+menu_choose_scenes_273|장면 선택 : (페이지 22/38)
+mno_choose_scene_273|타운 15 성 : 실내
+mno_choose_scene_274|타운 15 센터 : 생성
+mno_choose_scene_275|타운 15 감옥 : 실내
+mno_choose_scene_276|타운 15 스토어 : 실내
+mno_choose_scene_277|타운 15 선술집 : 실내
+mno_choose_scene_278|마을 15 벽 : 생성
+mno_choose_scene_279|마을 16 골목 : 생성
+mno_choose_scene_280|마을 16 경기장 : 생성
+mno_choose_scene_281|타운 16 성 : 실내
+mno_choose_scene_282|타운 16 센터 : 생성
+mno_choose_scene_283|타운 16 감옥 : 실내
+mno_choose_scene_284|타운 16 매장 : 실내
+mno_choose_scene_285|타운 16 선술집 : 실내
+menu_choose_scenes_286|장면 선택 : (페이지 23/38)
+mno_choose_scene_286|마을 16 벽 : 생성
+mno_choose_scene_287|타운 17 골목 : 생성
+mno_choose_scene_288|마을 17 경기장 : 생성
+mno_choose_scene_289|타운 17 성 : 실내
+mno_choose_scene_290|타운 17 센터 : 생성
+mno_choose_scene_291|타운 17 감옥 : 실내
+mno_choose_scene_292|타운 17 스토어 : 실내
+mno_choose_scene_293|타운 17 선술집 : 실내
+mno_choose_scene_294|도시 17 벽 : 생성
+mno_choose_scene_295|타운 18 골목 : 생성
+mno_choose_scene_296|마을 18 경기장 : 생성
+mno_choose_scene_297|도시 18 성 : 생성
+mno_choose_scene_298|타운 18 센터 : 생성
+menu_choose_scenes_299|장면 선택 : (페이지 24/38)
+mno_choose_scene_299|타운 18 감옥 : 실내
+mno_choose_scene_300|타운 18 매장 : 실내
+mno_choose_scene_301|타운 18 선술집 : 실내
+mno_choose_scene_302|마을 18 벽 : 생성
+mno_choose_scene_303|타운 1 골목 : 생성
+mno_choose_scene_304|마을 1 경기장 : 생성
+mno_choose_scene_305|타운 1 성 : 실내
+mno_choose_scene_306|타운 1 센터 : 생성
+mno_choose_scene_307|타운 1 감옥 : 실내
+mno_choose_scene_308|타운 1 방 : 실내
+mno_choose_scene_309|타운 1 스토어 : 실내
+mno_choose_scene_310|타운 1 선술집 : 실내
+mno_choose_scene_311|마을 1 벽 : 생성
+menu_choose_scenes_312|장면을 선택하십시오. (25/38 페이지)
+mno_choose_scene_312|타운 2 골목 : 생성
+mno_choose_scene_313|마을 2 경기장 : 생성
+mno_choose_scene_314|타운 2 성 : 실내
+mno_choose_scene_315|타운 2 센터 : 생성
+mno_choose_scene_316|타운 2 감옥 : 실내
+mno_choose_scene_317|타운 2 스토어 : 실내
+mno_choose_scene_318|타운 2 선술집 : 실내
+mno_choose_scene_319|마을 2 벽 : 생성
+mno_choose_scene_320|타운 3 골목 : 생성
+mno_choose_scene_321|마을 3 경기장 : 생성
+mno_choose_scene_322|타운 3 성 : 실내
+mno_choose_scene_323|타운 3 센터 : 생성
+mno_choose_scene_324|타운 3 감옥 : 실내
+menu_choose_scenes_325|장면 선택 : (페이지 26/38)
+mno_choose_scene_325|타운 3 스토어 : 실내
+mno_choose_scene_326|타운 3 선술집 : 실내
+mno_choose_scene_327|도시 3 벽 : 생성
+mno_choose_scene_328|마을 4 골목 : 생성
+mno_choose_scene_329|마을 4 경기장 : 생성
+mno_choose_scene_330|타운 4 성 : 실내
+mno_choose_scene_331|타운 4 센터 : 생성
+mno_choose_scene_332|타운 4 감옥 : 실내
+mno_choose_scene_333|타운 4 스토어 : 실내
+mno_choose_scene_334|타운 4 선술집 : 실내
+mno_choose_scene_335|마을 4 벽 : 생성
+mno_choose_scene_336|타운 5 골목 : 생성
+mno_choose_scene_337|타운 5 경기장 : 생성
+menu_choose_scenes_338|장면 선택 : (페이지 27/38)
+mno_choose_scene_338|타운 5 성 : 실내
+mno_choose_scene_339|타운 5 센터 : 생성
+mno_choose_scene_340|타운 5 감옥 : 실내
+mno_choose_scene_341|타운 5 룸 : 실내
+mno_choose_scene_342|타운 5 스토어 : 실내
+mno_choose_scene_343|타운 5 선술집 : 실내
+mno_choose_scene_344|마을 5 벽 : 생성
+mno_choose_scene_345|타운 6 골목 : 생성
+mno_choose_scene_346|마을 6 경기장 : 생성
+mno_choose_scene_347|타운 6 성 : 실내
+mno_choose_scene_348|타운 6 센터 : 생성
+mno_choose_scene_349|타운 6 감옥 : 실내
+mno_choose_scene_350|타운 6 방 : 실내
+menu_choose_scenes_351|장면 선택 : (페이지 28/38)
+mno_choose_scene_351|타운 6 스토어 : 실내
+mno_choose_scene_352|타운 6 선술집 : 실내
+mno_choose_scene_353|도시 6 벽 : 생성
+mno_choose_scene_354|마을 7 골목 : 생성
+mno_choose_scene_355|마을 7 경기장 : 생성
+mno_choose_scene_356|타운 7 성 : 실내
+mno_choose_scene_357|타운 7 센터 : 생성
+mno_choose_scene_358|타운 7 감옥 : 실내
+mno_choose_scene_359|타운 7 스토어 : 실내
+mno_choose_scene_360|타운 7 선술집 : 실내
+mno_choose_scene_361|마을 7 벽 : 생성
+mno_choose_scene_362|타운 8 골목 : 생성
+mno_choose_scene_363|마을 8 경기장 : 생성
+menu_choose_scenes_364|장면 선택 : (페이지 29/38)
+mno_choose_scene_364|타운 8 성 : 실내
+mno_choose_scene_365|타운 8 센터 : 생성
+mno_choose_scene_366|타운 8 감옥 : 실내
+mno_choose_scene_367|타운 8 룸 : 실내
+mno_choose_scene_368|타운 8 스토어 : 실내
+mno_choose_scene_369|타운 8 선술집 : 실내
+mno_choose_scene_370|마을 8 벽 : 생성
+mno_choose_scene_371|마을 9 골목 : 생성
+mno_choose_scene_372|마을 9 경기장 : 생성
+mno_choose_scene_373|타운 9 성 : 실내
+mno_choose_scene_374|타운 9 센터 : 생성
+mno_choose_scene_375|타운 9 감옥 : 실내
+mno_choose_scene_376|타운 9 스토어 : 실내
+menu_choose_scenes_377|장면 선택 : (페이지 30/38)
+mno_choose_scene_377|타운 9 선술집 : 실내
+mno_choose_scene_378|마을 9 벽 : 생성
+mno_choose_scene_379|지상 말 트랙 훈련 1 : 생성
+mno_choose_scene_380|지상 말 트랙 훈련 2 : 생성
+mno_choose_scene_381|지상 말 트랙 훈련 3 : 생성
+mno_choose_scene_382|지상 말 트랙 훈련 4 : 생성
+mno_choose_scene_383|지상 말 트랙 5 훈련 : 생성
+mno_choose_scene_384|운동장 noldor : 생성
+mno_choose_scene_385|지면 원거리 근접 훈련 1 : 생성
+mno_choose_scene_386|지면 원거리 근접 훈련 2 : 생성
+mno_choose_scene_387|지상 근거리 근접 훈련 3 생성
+mno_choose_scene_388|지면 원거리 근접 훈련 4 : 생성
+mno_choose_scene_389|지상 근거리 근접 훈련 5 : 생성
+menu_choose_scenes_390|장면 선택 : (페이지 31/38)
+mno_choose_scene_390|튜토리얼 1 : 실내
+mno_choose_scene_391|튜토리얼 2 : 실내
+mno_choose_scene_392|튜토리얼 3 : 실내
+mno_choose_scene_393|튜토리얼 4 : 생성
+mno_choose_scene_394|튜토리얼 5 : 생성
+mno_choose_scene_395|튜토리얼 교육장 : 생성
+mno_choose_scene_396|마을 1 : 생성
+mno_choose_scene_397|마을 10 : 생성
+mno_choose_scene_398|마을 11 : 생성
+mno_choose_scene_399|마을 12 : 생성
+mno_choose_scene_400|마을 13 : 생성
+mno_choose_scene_401|마을 14 : 생성
+mno_choose_scene_402|마을 15 : 생성
+menu_choose_scenes_403|장면 선택 : (페이지 32/38)
+mno_choose_scene_403|마을 16 : 생성
+mno_choose_scene_404|마을 17 : 생성
+mno_choose_scene_405|마을 18 : 생성
+mno_choose_scene_406|마을 19 : 생성
+mno_choose_scene_407|마을 2 : 생성
+mno_choose_scene_408|마을 20 : 생성
+mno_choose_scene_409|마을 21 : 생성
+mno_choose_scene_410|마을 22 : 생성
+mno_choose_scene_411|마을 23 : 생성
+mno_choose_scene_412|마을 24 : 생성
+mno_choose_scene_413|마을 25 : 생성
+mno_choose_scene_414|마을 26 : 생성
+mno_choose_scene_415|마을 27 : 생성
+menu_choose_scenes_416|장면 선택 : (페이지 33/38)
+mno_choose_scene_416|마을 28 : 생성
+mno_choose_scene_417|마을 29 : 생성
+mno_choose_scene_418|마을 3 : 생성
+mno_choose_scene_419|마을 30 : 생성
+mno_choose_scene_420|마을 31 : 생성
+mno_choose_scene_421|마을 32 : 생성
+mno_choose_scene_422|마을 33 : 생성
+mno_choose_scene_423|마을 34 : 생성
+mno_choose_scene_424|마을 35 : 생성
+mno_choose_scene_425|마을 36 : 생성
+mno_choose_scene_426|마을 37 : 생성
+mno_choose_scene_427|마을 38 : 생성
+mno_choose_scene_428|마을 39 : 생성
+menu_choose_scenes_429|장면 선택 : (페이지 34/38)
+mno_choose_scene_429|마을 4 : 생성
+mno_choose_scene_430|마을 40 : 생성
+mno_choose_scene_431|마을 41 : 생성
+mno_choose_scene_432|마을 42 : 생성
+mno_choose_scene_433|마을 43 : 생성
+mno_choose_scene_434|마을 44 : 생성
+mno_choose_scene_435|마을 45 : 생성
+mno_choose_scene_436|마을 46 : 생성
+mno_choose_scene_437|마을 47 : 생성
+mno_choose_scene_438|마을 48 : 생성
+mno_choose_scene_439|마을 49 : 생성
+mno_choose_scene_440|마을 5 : 생성
+mno_choose_scene_441|마을 50 : 생성
+menu_choose_scenes_442|장면을 선택하십시오. (35/38 페이지)
+mno_choose_scene_442|마을 51 : 생성
+mno_choose_scene_443|마을 52 : 생성
+mno_choose_scene_444|마을 53 : 생성
+mno_choose_scene_445|마을 54 : 생성
+mno_choose_scene_446|마을 55 : 생성
+mno_choose_scene_447|마을 56 : 생성
+mno_choose_scene_448|마을 57 : 생성
+mno_choose_scene_449|마을 58 : 생성
+mno_choose_scene_450|마을 59 : 생성
+mno_choose_scene_451|마을 6 : 생성
+mno_choose_scene_452|마을 60 : 생성
+mno_choose_scene_453|마을 61 : 생성
+mno_choose_scene_454|마을 62 : 생성
+menu_choose_scenes_455|장면 선택 : (페이지 36/38)
+mno_choose_scene_455|마을 63 : 생성
+mno_choose_scene_456|마을 64 : 생성
+mno_choose_scene_457|마을 65 : 생성
+mno_choose_scene_458|마을 66 : 생성
+mno_choose_scene_459|마을 67 : 생성
+mno_choose_scene_460|마을 68 : 생성
+mno_choose_scene_461|마을 69 : 생성
+mno_choose_scene_462|마을 7 : 생성
+mno_choose_scene_463|마을 70 : 생성
+mno_choose_scene_464|마을 71 : 생성
+mno_choose_scene_465|마을 72 : 생성
+mno_choose_scene_466|마을 73 : 생성
+mno_choose_scene_467|마을 74 : 생성
+menu_choose_scenes_468|장면 선택 : (페이지 37/38)
+mno_choose_scene_468|마을 75 : 생성
+mno_choose_scene_469|마을 76 : 생성
+mno_choose_scene_470|마을 77 : 생성
+mno_choose_scene_471|마을 78 : 생성
+mno_choose_scene_472|마을 79 : 생성
+mno_choose_scene_473|마을 8 : 생성
+mno_choose_scene_474|마을 80 : 생성
+mno_choose_scene_475|마을 81 : 생성
+mno_choose_scene_476|마을 82 : 생성
+mno_choose_scene_477|마을 83 : 생성
+mno_choose_scene_478|마을 84 : 생성
+mno_choose_scene_479|마을 85 : 생성
+mno_choose_scene_480|마을 86 : 생성
+menu_choose_scenes_481|장면을 선택하십시오. (38/38 페이지)
+mno_choose_scene_481|마을 87 : 생성
+mno_choose_scene_482|마을 88 : 생성
+mno_choose_scene_483|마을 89 : 생성
+mno_choose_scene_484|마을 9 : 생성
+mno_choose_scene_485|마을 90 : 생성
+mno_choose_scene_486|물
+mno_choose_scene_487|결혼식 : 실내
+mno_choose_scene_488|젠 다르 경기장 : 생성

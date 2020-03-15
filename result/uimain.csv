@@ -1,0 +1,107 @@
+ui_texture_detail|텍스처 디테일 :
+ui_max_frame_rate|최대 프레임 속도 :
+ui_enable_bumpmap|범프 매핑 사용
+ui_disable_blood|피 숨기기
+ui_disable_music|음악 비활성화
+ui_disable_sound|소리 비활성화
+ui_enable_cheats|요령 활성화
+ui_enable_edit_mode|편집 모드 사용 (경고 속도가 느려짐)
+ui_enable_pixel_shaders|픽셀 쉐이더 사용
+ui_enable_sound_variation|사운드 변형 사용
+ui_enable_vertex_shaders|렌더 방법 :
+ui_shadow_quality|그림자 품질 :
+ui_directx_7|DirectX 7
+ui_directx_9|DirectX 9
+ui_show_framerate|프레임 속도 표시
+ui_start_windowed|창 시작
+ui_trialmode_caption|활성화
+ui_trialmode|시리얼 키로 Mount && Blade Warband를 활성화하십시오. 박스형 사본에는 고유 한 16 자리 시리얼 키가 포함되어 있습니다. \ n 지금 어떤 이유로 든 게임을 활성화하지 않으려는 경우 계속 시험 모드에서 게임을 계속할 수는 있지만 캐릭터 레벨 8을 넘어 전진합니다.
+ui_launch_buy|TaleWorlds.com에서 라이센스 구매
+ui_launch_faq|자주 묻는 질문 (FAQ)
+ui_trialmode2|지금 게임을 활성화하려면 ...
+ui_trialmode3|아니면 ...
+ui_trialmode4|활성화 프로세스에 대해 궁금한 점이 있으면 다음을 참조하십시오.
+ui_serial_key_caption|시리얼 키
+ui_notification_serial_input|아래에 시리얼 키를 입력하고 (복사하여 붙여 넣기 가능) 활성화 버튼을 클릭하십시오
+ui_activate|활성화
+ui_paste|풀
+ui_notification_serial_internet_connection|활성화하려면 활성 인터넷 연결이 필요합니다!
+ui_notification_serial_offline|이 컴퓨터가 인터넷에 액세스 할 수없는 경우 다음을 사용할 수도 있습니다.
+ui_manual_activation|수동 활성화
+ui_offline_activation|오프라인 활성화
+ui_manual_activation_caption|수동 활성화
+ui_offline_activation_caption|오프라인 활성화
+ui_cancel2|취소
+ui_close|닫기
+ui_ok2|확인
+ui_activation_successful|게임이 성공적으로 활성화되었습니다.
+ui_activation_successful2|나중에 참조 할 수 있도록 일련 키를 보관하십시오. 새 컴퓨터에 Mount && Blade Warband를 설치하려는 경우 나중에 다시 필요할 수 있습니다.
+ui_activation_denied|승인 거부!
+ui_notification_serial_already_used|다른 컴퓨터에 이미 사용 된 시리얼 키. 이 컴퓨터에서 게임을 다시 활성화하려면 몇 주 정도 기다려야합니다.
+ui_notification_unable_to_connect_to_activation_server|활성화 서버에 연결할 수 없습니다!
+ui_notification_unable_to_connect_to_activation_server2|인터넷 연결이 활성화되어 있고 제대로 작동하는지 확인한 후 다시 시도하십시오. 방화벽을 사용하는 경우 인터넷에 액세스 할 수있는 권한을 게임에 부여해야합니다. 다른 모든 방법이 실패하면 항상 수동 활성화를 사용할 수 있습니다.
+ui_incorrect_serial_number|잘못된 시리얼 키!
+ui_incorrect_hardware_hash|잘못된 하드웨어 해시!
+ui_incorrect_activation_code|잘못된 활성화 코드!
+ui_cant_write_to_registry|레지스트리에 쓸 수 없습니다!
+ui_video|비디오
+ui_audio|오디오
+ui_game|경기
+ui_advanced|많은
+ui_mount_and_blade_is_ready|Mount && Blade Warband가 준비되었습니다.
+ui_notification_trial_mode|Mount && Blade Warband는 현재 평가판 모드로 실행 중입니다. 이 모드에서는 캐릭터가 레벨 6에 도달 할 때까지 게임을 자유롭게 즐길 수 있습니다. 계속하려면 taleworlds.com에서 라이센스를 구입하십시오. 온라인으로 라이센스를 구매하고 전체 모드를 잠금 해제하는 데 1 분 밖에 걸리지 않습니다.
+ui_there_are_no_modules_installed|설치된 모듈이 없습니다!
+ui_notification_new_version|최신 버전의 Mount & Blade Warband가 발견되었습니다. \ n 현재 설치된 버전은 %d. %d %d %d. \ nMount & Blade Warband의 최신 버전은 %d. %d [[ ]] %d. \ nwww.taleworlds.com에서 새 버전을 다운로드 할 수 있습니다.
+ui_new_version_found|새 버전이 발견되었습니다!
+ui_notification_unable_to_retreive_new_version|새 버전 정보를 검색 할 수 없습니다. 나중에 다시 시도하세요.
+ui_new_version|새로운 버전:
+ui_notification_latest_version|설치된 버전의 Mount && Blade Warband가 가장 최신 버전입니다.
+ui_mount_and_blade_is_up_to_date|Mount & Blade Warband가 최신입니다!
+ui_off|떨어져서
+ui_continue_playing_the_trial_mode|평가판 모드에서 계속 재생
+ui_faq_caption|자주하는 질문
+ui_faq_text|Q : 정품 인증이란 무엇입니까? \ r \ nA : 정품 인증 시스템은 게임의 각 사본과 함께 고유 한 직렬 키를 배포하는 것을 기반으로하는 사용자 친화적 인 복제 방지 방법입니다. 시리얼 키를 사용하여 게임을하려는 모든 컴퓨터에서 게임을 한 번 활성화해야합니다. 한 번 활성화 한 후에는 게임 디스크를 드라이브에 보관하는 등 다른 작업을 수행 할 필요가 없습니다. 시리얼 키를 유지하는 한 몇 년이 지난 후에도 쉽게 게임을 활성화하고 플레이 할 수 있습니다. \ r \ n \ r \ nQ : 시리얼 키는 어디서 찾을 수 있습니까? \ r \ nA : 각 박스 게임 사본에는 고유 한 시리얼 키가 포함되어 있습니다. 공급 업체마다 키를 다른 방식으로 배포 할 수 있지만 일반적으로 인쇄 된 설명서의 표지에 부착되어 있습니다. 온라인으로 게임을 구매 한 경우 온라인 공급 업체가 시리얼 키를 제공해야합니다. \ r \ n \ r \ nQ : 활성화 프로세스는 어떻게 작동합니까? \ r \ nA : 게임은 사양에서 해시 값을 생성합니다 컴퓨터를 시리얼 키와 함께 인터넷을 통해 활성화 서버로 보냅니다. 정품 인증 서버가 컴퓨터에 직렬 키를 등록하고 정품 인증 번호로 응답하면 게임의 전체 모드가 잠금 해제됩니다. \ r \ n \ r \ nQ : 여러 컴퓨터에서 게임을 정품 인증 할 수 있습니까? \ r \ nA : 그래 넌 할수있어. 그러나 게임은 개인 용도로 사용이 허가 된 것입니다. 활성화 서버는 짧은 시간에 너무 많은 컴퓨터에서 사용되는 경우 일시적으로 키를 거부 할 수 있습니다. \ r \ n \ r \ nQ : 활성화 버튼을 클릭 한 후 프로그램이 응답을 멈 춥니 다. \ r \ nA : 때때로 활성화 프로세스를 수행하는 데 최대 30 분이 걸릴 수 있습니다. 인내심을 가지고 게임에서 결과를보고합니다. \ r \ n \ r \ nQ : 내 컴퓨터가 인터넷에 액세스 할 수 없습니다. 게임을 어떻게 활성화합니까? \ r \ nA :이 경우 수동 활성화를 사용할 수 있습니다. "직렬 키 입력"을 클릭 한 다음 "수동 활성화"버튼을 클릭하십시오. 인터넷에 연결된 다른 컴퓨터에서 수동 활성화 웹 페이지를 열어야합니다. \ r \ n
+ui_auto_adjust|자동 조정
+ui_screen_size|화면 해상도:
+ui_antialiasing|안티 앨리어싱:
+ui_use_desktop_resolution|데스크탑 해상도 사용
+ui_play|Mount && Blade Warband 플레이
+ui_check_for_new_version|새 버전 확인
+ui_configure|구성
+ui_configure_caption|구성
+ui_mountandblade_website|Mount & Blade Warband 웹 사이트
+ui_current_setting|현재 모듈 :
+ui_manual_activation_text1|1) 웹 브라우저에서 다음 주소를여십시오.
+ui_manual_activation_text2|2) 열리는 웹 페이지에서 시리얼 키를 입력하십시오 ...
+ui_manual_activation_text3|3) ... 그리고이 기계의 하드웨어 해시 :
+ui_manual_activation_text4|4) 그러면 페이지에 활성화 코드가 제공됩니다. 아래에 입력하거나 붙여넣고 확인을 클릭하십시오.
+ui_activation_code|활성화 코드:
+ui_force_vsync|세로 동기화를 강제합니다.
+ui_module_newer_than_application|선택한 모듈이 현재 버전의 게임에서 작동하지 않도록 지정되었습니다. 이 설정을 실행하지 않는 것이 좋습니다. 이를 해결하려면 최신 버전의 게임을 확인하십시오.
+ui_module_older_than_application|선택한 모듈이 이전 버전의 게임용으로 만들어졌으며 현재 버전의 게임에서는 작동하지 않을 수 있습니다. 계속해서 실행 해 볼 수도 있지만 어려움을 겪을 가능성이 있습니다. 이를 해결하기 위해 최신 버전의 모듈이 있는지 확인할 수 있습니다.
+ui_m_low|낮은
+ui_m_high|높은
+ui_m_ultra_high|초고
+ui_force_single_threading|단일 나사 가공
+ui_not_enough_memory|현재 %d MB의 사용 가능한 총 실제 및 가상 메모리가있는 것 같습니다. Mount & Blade Warband는 문제없이 실행하려면 700MB 이상의 사용 가능한 메모리가 필요합니다. 재생 중에 Mount & Blade Warband가 계속 충돌하는 경우 Mount & Blade Warband를 시작하기 전에 일부 프로그램을 닫거나 제어판-> 시스템 메뉴에서 가상 메모리를 늘리십시오.
+ui_install|Mount & Blade Warband 설치
+DirectXText|"Mount & Blade Warband을 (를) 실행하려면 DirectX 9.0c 이상이 필요합니다.이 컴퓨터는 요구 사항을 충족하지 않습니다. 문제를 해결하려면 Microsoft 웹 사이트에서 최신 버전의 DirectX를 다운로드하여 설치해야합니다. 지금 TaleWorlds DirectX 다운로드 페이지를 방문 하시겠습니까? "
+NoMountAndBladeText|"Mount & Blade Warband이 (가)이 컴퓨터에 설치되어 있지 않습니다. www.taleworlds.com에서 전체 설치 프로그램을 다운로드하여 게임을 설치하십시오."
+ui_SavegamesText|"저장 파일을 유지 하시겠습니까?"
+ui_trialmode_online|Mount && Blade Warband는 현재 평가판 모드로 실행 중입니다. 이 모드에서는 캐릭터가 레벨 7에 도달 할 때까지 게임을 자유롭게 플레이 할 수 있습니다. 계속하려면 시리얼 키를 입력하고 게임을 활성화해야합니다. 이미 게임을 구입 한 경우 지금 시리얼 키를 입력하십시오. 그렇지 않은 경우 Taleworlds.com에서 게임을 쉽게 구입할 수 있습니다. 온라인으로 라이센스를 구매하고 전체 모드를 잠금 해제하는 데 1 분 밖에 걸리지 않습니다.
+ui_launch_activate|일련 키를 입력하십시오
+ui_trialmode2_online|라이센스를 구입 한 후 시리얼 키를 얻을 수 있습니다. \ n 전체 모드를 잠금 해제하려면 다음 단계로 진행하십시오.
+ui_trialmode3_online|또는 아직 게임을 구매하고 싶지 않다면 다음을 수행 할 수도 있습니다.
+ui_trialmode4_online|당사의 온라인 판매 프로세스는 완전히 안전하며 보안, 개인 정보 보호, 게임의 백업 사본을 보유하고 컴퓨터 / 하드웨어를 업그레이드 할 수있는 고객의 권리를 크게 존중합니다. 판매 정책에 대한 자세한 내용은 다음을 참조하십시오.
+ui_ondemand_textures|요청시 텍스처로드
+ui_language|언어:
+ui_steam_not_running|스팀을 제대로 초기화하지 못했습니다. 이 게임을하려면 Steam이 실행 중이어야합니다.
+ui_switch_to_turkish_explanation|Oyunun dilini Turkce'ye cevirmek ister misiniz?
+ui_switch_to_turkish_yes|이벳
+ui_switch_to_turkish_no|하예 르
+ui_new_version_message|최신 버전의 게임을 사용할 수 있습니다. 지금 다운로드 페이지를 방문 하시겠습니까?
+ui_enable_version_check|버전 확인 활성화
+ui_disable|비활성화
+ui_yes2|예
+ui_no2|아니
+ui_new_version_message2|최신 버전의 게임을 사용할 수 있습니다. 새 버전을 다운로드하려면 게임을 구매 한 온라인 포털을 방문하십시오.
