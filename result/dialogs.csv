@@ -1,19 +1,19 @@
-dlga_start:member_talk|예?
+dlga_start:member_talk|네?
 dlga_start:close_window.1|{s54}
-dlga_prisoner_chat:lady_prisoner_chat_2|당신은 내 죄수입니다 왜 당신은 나에게 무기를 들고 당신과 함께 무엇을해야합니까?
+dlga_prisoner_chat:lady_prisoner_chat_2|당신은 내 포로요, 아가씨. 왜 나에게 맞서 무기를 들었지? 이제 어떻게 할까?
 dlga_lady_prisoner_chat_2:do_lady_options|나의 주님, 나는 {reg63? Lord : Lady} 강요 당했고 내 인생에 대해 두려움을 느꼈습니다. 나는 당신에게 자비를 간청하고 당신의 손에 내 운명을 양도합니다.
 dlga_member_chat:lady_member_talk|인사말 {reg63? Lord : Lady}. 저를 구 해주셔서 감사합니다!
-dlga_lady_member_talk:lady_member_options|아니에요. 내가 당신과 어떻게해야합니까?
-dlga_lady_member_options:do_lady_options|그와 같은 나의 운명은 당신의 손에 달려 있습니다.
-dlga_do_lady_options:lady_end_talk|당신은 저를 자유롭게 해주셔서 감사합니다. {s3}이 감사 할 것이라고 확신합니다.
-dlga_do_lady_options:lady_end_talk.1|몸값을받을 수는 있지만 {s3}이 (가) 이것을 불리한 관점에서 볼 것입니다.
+dlga_lady_member_talk:lady_member_options|천만에요. 뭘 해드릴까요?
+dlga_lady_member_options:do_lady_options|제 운명은 당신 손에 달려있군요.
+dlga_do_lady_options:lady_end_talk|절 자유롭게 해주신다면 감사의 표시로 {s3} 관계가 호전될 거예요.
+dlga_do_lady_options:lady_end_talk.1|제 몸값을 받을 수 있습니다. 하지만 {s3} 관계가 좋아보이진 않네요.
 dlga_do_lady_options:lady_end_talk.2|내가 당신 편에서 싸울 수있는 장비를 위해 200 골드를 쓰십시오.
-dlga_do_lady_options:lady_end_talk.3|우리는 나중에 말할 것입니다.
-dlga_lady_end_talk:close_window|당신이 원하는대로.
-dlga_start:close_window.2|이 사람은 바빠 보인다.
-dlga_start:close_window.3|이 사람은 바빠 보인다.
-dlga_start:magic_weapon_dialogue_1|당신에게 공정한 바람! Aziz의 광산에 무엇이 당신을 데려 옵니까?
-dlga_start:magic_weapon_3a|당신에게 공정한 바람! Aziz의 광산에 다시 오신 것을 환영합니다.
+dlga_do_lady_options:lady_end_talk.3|나중에 대화해요.
+dlga_lady_end_talk:close_window|바라시는 대로
+dlga_start:close_window.2|이 사람은 바빠 보이네.
+dlga_start:close_window.3|이 사람은 바빠 보이네.
+dlga_start:magic_weapon_dialogue_1|순풍이 당신에게 불기를! 무슨 일로 알-아지즈 광산에 왔습니까?
+dlga_start:magic_weapon_3a|순풍이 당신에게 불기를! 알-아지즈 광산에 다시 온 것을 환영합니다.
 dlga_magic_weapon_dialogue_1:magic_weapon_2|저를 용서해주세요. 나는이 위치에 대한지도를 발견하고 그것을 찾아 여기로 여행했습니다. 당신은 누구이며, 당신과 그 미친 노인은 여기서 무엇을하고 있습니까?
 dlga_magic_weapon_2:magic_weapon_a2|나는 여러 해 동안 많은 이름으로 불려왔다. 흠, 하미 론이라고 부를 수 있다고 생각합니다. 예, 잘 맞지 않는 것 같습니다. ^^ 여기서 뭐 해요? 글쎄, 나는 고객을 기다리고 있습니다. 당신은 고객입니까?
 dlga_magic_weapon_a2:magic_weapon_a3a|네, 그것이 당신의 이름이라면 맞는 것 같습니다. 고객인지 아닌지 모르겠습니다. 무엇을 판매합니까?
@@ -271,9 +271,9 @@ dlga_companion_comment:close_window.18|{s6}
 dlga_companion_comment:close_window.19|{s6}
 dlga_companion_comment:close_window.20|{s6}
 dlga_companion_comment:close_window.21|{s3}
-dlga_start:brouhaha_1|경고 :이 줄은 표시되지 않아야합니다.
+dlga_start:brouhaha_1|경고: 이 줄은 절대 표시되지 않을 것입니다.
 dlga_brouhaha_1:brouhaha_2|{s4}
-dlga_brouhaha_2:close_window|하아! 음료는 좋은 생각입니다. 피를 흘릴 이유가 없습니다!
+dlga_brouhaha_2:close_window|하! 마신다는것은 좋은거야.. 피를 흘려야 할 이유가 없어!
 dlga_brouhaha_2:close_window.1|에일, 멍청이 및 혀를 잡아!
 dlga_start:close_window.8|{reg63? lord : lady} 님, {s11} (으)로 안내해 주셔서 감사합니다. 가까이 가십시오, 우리는 여행자들이 이런 식으로가는 레드 브라더 후드 갱단에 대한 소문을 들었습니다.
 dlga_start:village_farmer_talk|내 {reg63? lord : lady}, 우리는 {s11} 마을 출신의 가난한 농부입니다. {reg1? 우리는 {s12}의 시장으로 제품을 가져 가고 있습니다. : {s12}의 시장에서 우리 마을로 다시 돌아오고 있습니다.}
@@ -3854,7 +3854,7 @@ dlga_order_blacksmith_2:order_blacksmith_3|그래 계속 해봐.
 dlga_order_blacksmith_2:start|아니, 너무 길어
 dlga_order_blacksmith_3:close_window|아주 잘, 나는 최선을 다하겠습니다. 그리고 그것은 무언가를 말하고 있습니다.
 dlga_start:order_quartermaster_player_response|안녕하세요, {playername} 님, Grandmaster 님. 쿼터 마스터로서 저는 우리의 부대 공급을 담당하고 있습니다. 이제 우리는 신입 사원들로 가득 차기 때문에 어려운 과제입니다. ^ 고급 장교들에게 진미를 엄선하여 제공합니다. 병사들을위한 식량 감소를 포함하여, 그들은 다시는 포위 공격에 굶주릴 필요가 없습니다!
-dlga_start:order_quartermaster_player_response.1|아 네, 방금 빵을 더 받았습니다 – 펜 도어 전체 부족이 있다는 것을 알고 있습니까? 당황 스럽습니다.
+dlga_start:order_quartermaster_player_response.1|아 네, 방금 빵을 더 받았습니다 ? 펜 도어 전체 부족이 있다는 것을 알고 있습니까? 당황 스럽습니다.
 dlga_order_quartermaster_player_response:order_quartermaster_1|당신의 용품을 보여주세요.
 dlga_order_quartermaster_player_response:close_window|그게 다야, 쿼터 마스터
 dlga_order_quartermaster_1:order_quartermaster_player_response|다른 거있어?
@@ -3863,7 +3863,7 @@ dlga_start:free|여보세요. 내가 당신을 위해 무엇을 할 수?
 dlga_free:view_char_requested|자신에 대해 말해
 dlga_view_char_requested:view_char|잘 들어 봐 ...
 dlga_view_char:free|다른 거있어?
-dlga_end:close_window|[끝난]
+dlga_end:close_window|[완료]
 dlga_start:threaten_1|살고 싶다면 무기를 버리고 항복하십시오.
 dlga_threaten_1:end|우리는 먼저 당신을 싸울 것입니다
 dlga_member_direct_campaign:member_direct_campaign_choice|예, {reg63? my lord : my lady} 님. 어떤 메시지를 시신에게 보내시겠습니까?
@@ -3888,5 +3888,5 @@ dlga_mayor_wealth_comparison_2:mayor_wealth_comparison_3|지역 산업 측면에
 dlga_mayor_wealth_comparison_3:mayor_wealth_comparison_4|주변 마을의 생산면에서 {s4} 도시는 펜 도르에서 가장 부유합니다. 여기 {s5}에서 마을은 {reg4} 마을 주변의 배후 지역을 생산하지 않으며 {reg5} 이상을 생산합니다. 물론 도시 내륙의 부는 전쟁의 조수에 크게 의존합니다. 약탈과 약탈, 영토 이동은 큰 영향을 줄 수 있습니다.
 dlga_mayor_wealth_comparison_4:mayor_wealth_comparison_5|무역 측면에서 {s4} 타운은 지난 몇 개월 동안 캐러밴으로부터 가장 많은 방문을받은 것으로 여겨집니다. {s5}에서는 {reg4} 도시보다 방문이 적고 {reg5}보다 더 많이 방문합니다.
 dlga_mayor_wealth_comparison_5:mayor_pretalk|여행자에 대한 공격의 관점에서, {s4} 도시는 가장 위험한 것으로 여겨집니다. {s5}에서, 우리는 {reg4} 도시보다 도적과 공격자가 덜 고통 받고, {reg5}보다 더 고통 받고 있습니다.
-dlga_free:close_window|안녕.
-dlga_free:close_window.1|[떠나다]
+dlga_free:close_window|잘 가시오.
+dlga_free:close_window.1| [떠난다]
